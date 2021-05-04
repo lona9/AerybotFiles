@@ -1,8 +1,8 @@
 <html lang="es" xmlns="http://www.w3.org/1999/xhtml"><head>
         
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700" rel="stylesheet" type="text/css" media="all" onload="this.media='all'">        <link rel="stylesheet" type="text/css" href="//lolg-cdn.porofessor.gg/style.css?v=1619800783">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700" rel="stylesheet" type="text/css" media="all" onload="this.media='all'">        <link rel="stylesheet" type="text/css" href="//lolg-cdn.porofessor.gg/style.css?v=1620083831">
         <link rel="stylesheet" type="text/css" href="//lolg-cdn.porofessor.gg/style.sprite.css?v=f1a331754017dab823a4d7a64218864c">
-        <script src="https://rules.quantcount.com/rules-p-w9vzu-sGKCA0U.js" async=""></script><script type="text/javascript" src="https://s.jsrdn.com/s/1.js?p=22687&amp;r=9vok&amp;k=dmMJMjAyMTAxMjUJdQk0YjYyZjEzNS0zZjJiLTRjNDAtOTAwNy04ZGRlMGNiNmEzYzMJdW4JMAl2CWVhNjAxMGU0LTFkYWYtNDNjNC1hYWQzLTdmYTVjNzhhZWEzNgl0Zwljcy5qcwlidAkyMDIxLTA0LTMwVDE1OjA0OjE1LTA0OjAwCWRjCXV0Zi04CWJsCWVzCWJmCTMJZHcJMTM2NglkaAk2MTUJYmMJMQlicAkxCWJkCTI0CWJ3CTEzNjYJYmgJNzY4CWYJaHR0cHM6Ly93d3cubGVhZ3Vlb2ZncmFwaHMuY29tL2VzL2NoYW1waW9ucy9idWlsZHMvaXZlcm4JdWQJCXBiCTAJcHYJMAlwcQkwCWN3CQlhY3IJdW5kZWZpbmVkCWRyCQlrdwltZWpvcmVzIGJ1aWxkcyBydW5hcyBvcmRlbiBkZSBoYWJpbGlkYWRlcyBwYXJhIGl2ZXJuIHNlZyBuIGxvcyBtaWxsb25lcyBkZSBwYXJ0aWRhcyBxdWUgYW5hbGl6YW1vcyBkaWFyaW8gdGFtYmkgbiBpbmNsdXllIGVzdGFkIHN0aWNhcyBkZWwgY2FtcGUgbiBwb3B1bGFyaWRhZCB3aW5yYXRlIHkgcmFua2luZ3MgcGFyYSBlc3RlIGNhbXBlIG4JcHJmCXVuZGVmaW5lZA" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" defer="" src="https://static.developer.riotgames.com/js/rgea.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//lolg-cdn.porofessor.gg/jquery.js?v=3"></script>
+        <script src="https://rules.quantcount.com/rules-p-w9vzu-sGKCA0U.js" async=""></script><script type="text/javascript" src="https://s.jsrdn.com/s/1.js?p=22687&amp;r=ecze&amp;k=dmMJMjAyMTAxMjUJdQk1ZmJkYTNmNi02MjA3LTQzYjAtYjA4Zi1jMWE2MjllMDlkY2MJdW4JMAl2CTU4NjlmZTIzLWIzODYtNDI3ZS05MTM4LTMyYzk4Zjg1MDA4Ngl0Zwljcy5qcwlidAkyMDIxLTA1LTA0VDEzOjAzOjMyLTA0OjAwCWRjCXV0Zi04CWJsCWVzCWJmCTMJZHcJMTM2NglkaAk2MTUJYmMJMQlicAkxCWJkCTI0CWJ3CTEzNjYJYmgJNzY4CWYJaHR0cHM6Ly93d3cubGVhZ3Vlb2ZncmFwaHMuY29tL2VzL2NoYW1waW9ucy9idWlsZHMvaXZlcm4JdWQJCXBiCTAJcHYJMAlwcQkwCWN3CQlhY3IJdW5kZWZpbmVkCWRyCQlrdwltZWpvcmVzIGJ1aWxkcyBydW5hcyBvcmRlbiBkZSBoYWJpbGlkYWRlcyBwYXJhIGl2ZXJuIHNlZyBuIGxvcyBtaWxsb25lcyBkZSBwYXJ0aWRhcyBxdWUgYW5hbGl6YW1vcyBkaWFyaW8gdGFtYmkgbiBpbmNsdXllIGVzdGFkIHN0aWNhcyBkZWwgY2FtcGUgbiBwb3B1bGFyaWRhZCB3aW5yYXRlIHkgcmFua2luZ3MgcGFyYSBlc3RlIGNhbXBlIG4JcHJmCXVuZGVmaW5lZA" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" defer="" src="https://static.developer.riotgames.com/js/rgea.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//lolg-cdn.porofessor.gg/jquery.js?v=3"></script>
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -59,7 +59,7 @@ window['nitroAds'].createAd('mobile', {
   "mediaQuery": "(min-width: 0px) and (max-width: 640px)"
 });
 </script>
-        <meta name="cv" content="CV-EmImG0Ucf4NL:"><script type="text/javascript">var cvs = (window["cvs"] || []);cvs.push("CV-EmImG0Ucf4NL:");</script>
+        <meta name="cv" content="CV-0Gim0FxK5Bvx:"><script type="text/javascript">var cvs = (window["cvs"] || []);cvs.push("CV-0Gim0FxK5Bvx:");</script>
                     <script type="text/javascript">
                 var isDarkMode = false;
             </script>
@@ -522,7 +522,7 @@ window['nitroAds'].createAd('mobile', {
     <div id="site-infos">
     <div class="patch">Parche: 11.9</div>
     <div>
-        6,330,523 partidas        (Últimos 2 días)
+        7,625,473 partidas        (Últimos 2 días)
     </div>
 </div>
     <div id="site-links">
@@ -556,7 +556,7 @@ window['nitroAds'].createAd('mobile', {
             </div>
 
                             <div class="additionalData hide-for-small-down">
-                    <span id="matchesCountNumber">6,550</span>  partidas                    (<span id="matchesCountTimeframe">
+                    <span id="matchesCountNumber">7,672</span>  partidas                    (<span id="matchesCountTimeframe">
                         Últimos 2 días                    </span>)
                 </div>
                             
@@ -3968,21 +3968,40 @@ window['nitroAds'].createAd('mobile', {
         <div class="spinnerContainer left"></div>    </div>
 </div>
                 <div id="mainContentSuperContainer">
-                    
+                        <div id="OWAppBanner" class="infobanner  info closable hasButton" style="display: block;">
+        <div class="infobannerContent">
+                            <a href="https://porofessor.gg/es/download?utm_source=log-website&amp;utm_medium=infobanner" target="_blank" class="content" onclick="WgHelpers.sendGaEvent('InfoBanner', 'OWAppBanner clicked', null); ">
+                
+                Obtén estos datos directamente en el cliente de LoL. <button><i class="fa fa-windows"></i> Descarga el app de Porofessor</button>
+                                </a>
+            
+                            <span class="closeButton right" onclick="infobanner.closeInfoBanner('OWAppBanner')">
+                    <i class="fa fa-cancel"></i>
+                </span>
+                    </div>
+    </div>
+
+    <script type="text/javascript">
+        var infobanner;
+        $(function () {
+            infobanner = new Infobanner('OWAppBanner');
+        });
+    </script>
+
                     <div id="mainContentContainer">
                         <div style="margin-top:0px; margin-bottom:15px; position: relative;">
-                        <div id="adasync76906" class="text-center"><div id="horizTop"></div></div>
+                        <div id="adasync677796" class="text-center"><div id="horizTop"></div></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(true){
-                                            document.getElementById('adasync76906').innerHTML = '<div id="horizTop"></div>';
+                                            document.getElementById('adasync677796').innerHTML = '<div id="horizTop"></div>';
                                             window['nitroAds'].createAd("horizTop", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[728, 90]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(false) {
-                                            document.getElementById('adasync76906').innerHTML = '<div id="horizTop-mobile"></div>';
+                                            document.getElementById('adasync677796').innerHTML = '<div id="horizTop-mobile"></div>';
                                             window['nitroAds'].createAd("horizTop-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250], [320, 50]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -4002,7 +4021,7 @@ window['nitroAds'].createAd('mobile', {
                         <script language="javascript" type="text/javascript">var graphFunctions = new Array();</script><div class="pie-chart-container">
     
     <div id="graphDD1" class="pie-chart small" style="padding: 0px; position: relative;">
-        1.7%    <canvas class="flot-base" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
+        1.8%    <canvas class="flot-base" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
 
             <div class="pie-chart-title pie-chart-title-bottom small ">Popularidad</div>
     </div>
@@ -4015,8 +4034,8 @@ window['nitroAds'].createAd('mobile', {
         if ($("#graphDD1").is(":visible")) {
             $.plot(placeholder,
                     [
-                        {data: 1.7, color: window['wgblue'] || "wgblue"},
-                        {data: 98.3, color: (pieChartDefaultColor || '#EEE')}
+                        {data: 1.8, color: window['wgblue'] || "wgblue"},
+                        {data: 98.2, color: (pieChartDefaultColor || '#EEE')}
                     ],
                     {
                         series: {
@@ -4043,7 +4062,7 @@ window['nitroAds'].createAd('mobile', {
                         <div class="pie-chart-container">
     
     <div id="graphDD2" class="pie-chart small" style="padding: 0px; position: relative;">
-        51.0%    <canvas class="flot-base" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
+        51.2%    <canvas class="flot-base" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
 
             <div class="pie-chart-title pie-chart-title-bottom small ">% de victorias</div>
     </div>
@@ -4056,8 +4075,8 @@ window['nitroAds'].createAd('mobile', {
         if ($("#graphDD2").is(":visible")) {
             $.plot(placeholder,
                     [
-                        {data: 51, color: window['wggreen'] || "wggreen"},
-                        {data: 49, color: (pieChartDefaultColor || '#EEE')}
+                        {data: 51.2, color: window['wggreen'] || "wggreen"},
+                        {data: 48.8, color: (pieChartDefaultColor || '#EEE')}
                     ],
                     {
                         series: {
@@ -4084,7 +4103,7 @@ window['nitroAds'].createAd('mobile', {
                         <div class="pie-chart-container">
     
     <div id="graphDD3" class="pie-chart small" style="padding: 0px; position: relative;">
-        0.4%    <canvas class="flot-base" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
+        0.3%    <canvas class="flot-base" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
 
             <div class="pie-chart-title pie-chart-title-bottom small ">Porcentaje de baneos</div>
     </div>
@@ -4097,8 +4116,8 @@ window['nitroAds'].createAd('mobile', {
         if ($("#graphDD3").is(":visible")) {
             $.plot(placeholder,
                     [
-                        {data: 0.4, color: window['wgred'] || "wgred"},
-                        {data: 99.6, color: (pieChartDefaultColor || '#EEE')}
+                        {data: 0.3, color: window['wgred'] || "wgred"},
+                        {data: 99.7, color: (pieChartDefaultColor || '#EEE')}
                     ],
                     {
                         series: {
@@ -4134,18 +4153,18 @@ window['nitroAds'].createAd('mobile', {
     </div>
 </a>
             <div style="margin-top:0px; margin-bottom:20px; position: relative;">
-                        <div id="adasync948938" class="text-center"></div>
+                        <div id="adasync115731" class="text-center"></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(false){
-                                            document.getElementById('adasync948938').innerHTML = '<div id="overviewChampion1"></div>';
+                                            document.getElementById('adasync115731').innerHTML = '<div id="overviewChampion1"></div>';
                                             window['nitroAds'].createAd("overviewChampion1", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(true) {
-                                            document.getElementById('adasync948938').innerHTML = '<div id="overviewChampion1-mobile"></div>';
+                                            document.getElementById('adasync115731').innerHTML = '<div id="overviewChampion1-mobile"></div>';
                                             window['nitroAds'].createAd("overviewChampion1-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -4365,8 +4384,8 @@ window['nitroAds'].createAd('mobile', {
         </div>
 
         <div class="figures">
-            Popularidad: 66.9% -
-            % de victorias: 51.0%
+            Popularidad: 67.5% -
+            % de victorias: 52.0%
         </div>
 
         <div class="seeMoreButtonRow">
@@ -4396,8 +4415,8 @@ window['nitroAds'].createAd('mobile', {
     </div>
 
 <div class="figures">
-    Popularidad: 43.5%<br>
-    % de victorias: 49.6%
+    Popularidad: 44.4%<br>
+    % de victorias: 50.3%
 </div>            </div>
             <div class="medium-13 columns">
                 
@@ -4418,13 +4437,13 @@ window['nitroAds'].createAd('mobile', {
                             <i class="fa fa-angle-right"></i>
                     </div>
             <div class="championSpell">
-            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Putrificador tecnoquímico" tooltip-var="item-3011" tooltip-class="itemTooltip" height="48" width="48" class="requireTooltip item-3011-48 ">
+            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Incensario ardiente" tooltip-var="item-3504" tooltip-class="itemTooltip" height="48" width="48" class="requireTooltip item-3504-48 ">
                     </div>
     </div>
 
 <div class="figures">
-    Popularidad: 6.8%<br>
-    % de victorias: 62.8%
+    Popularidad: 7.5%<br>
+    % de victorias: 65.5%
 </div>            </div>
         </div>
         <div class="row">
@@ -4440,8 +4459,8 @@ window['nitroAds'].createAd('mobile', {
 </div>
 
 <div class="figures">
-    Popularidad: 71.0%<br>
-    % de victorias: 52.4%
+    Popularidad: 67.1%<br>
+    % de victorias: 52.0%
 </div>            </div>
             <div class="medium-13 columns">
                 <h3 class="box-title">
@@ -4452,9 +4471,9 @@ window['nitroAds'].createAd('mobile', {
             <div class="championSpell small-margin">
             <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Redención" tooltip-var="item-3107" tooltip-class="itemTooltip" height="48" width="48" class="requireTooltip item-3107-48 ">        </div>
             <div class="championSpell small-margin">
-            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Reloj de arena de Zhonya" tooltip-var="item-3157" tooltip-class="itemTooltip" height="48" width="48" class="requireTooltip item-3157-48 ">        </div>
-            <div class="championSpell small-margin">
             <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Putrificador tecnoquímico" tooltip-var="item-3011" tooltip-class="itemTooltip" height="48" width="48" class="requireTooltip item-3011-48 ">        </div>
+            <div class="championSpell small-margin">
+            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Reloj de arena de Zhonya" tooltip-var="item-3157" tooltip-class="itemTooltip" height="48" width="48" class="requireTooltip item-3157-48 ">        </div>
     </div>
             </div>
         </div>
@@ -4466,18 +4485,18 @@ window['nitroAds'].createAd('mobile', {
     </div>  
 </a>
             <div style="margin-top:0px; margin-bottom:0px; position: relative;">
-                        <div id="adasync350862" class="text-center"></div>
+                        <div id="adasync105662" class="text-center"></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(false){
-                                            document.getElementById('adasync350862').innerHTML = '<div id="overviewChampion2"></div>';
+                                            document.getElementById('adasync105662').innerHTML = '<div id="overviewChampion2"></div>';
                                             window['nitroAds'].createAd("overviewChampion2", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(true) {
-                                            document.getElementById('adasync350862').innerHTML = '<div id="overviewChampion2-mobile"></div>';
+                                            document.getElementById('adasync105662').innerHTML = '<div id="overviewChampion2-mobile"></div>';
                                             window['nitroAds'].createAd("overviewChampion2-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -4496,19 +4515,19 @@ window['nitroAds'].createAd('mobile', {
                 Builds de jugadores profesionales de Ivern             </th>
         </tr>
 
-                    <tr onclick="window.location = '/es/match/na/3886739203#participant3'" style="cursor: pointer">
+                    <tr onclick="window.location = '/es/match/euw/5248519283#participant1'" style="cursor: pointer">
                 <td class="small-padding-lateral text-center" width="80">
-                    <a href="/es/summoner/na/CLG+Broxah">
+                    <a href="/es/summoner/euw/1+or+6">
                         <div>
-                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/98767975966749981.jpg" alt="Broxah" title="Broxah" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
+                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/99566406053904433.jpg" alt="Malrang" title="Malrang" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
                         <div class="probuildsProname">                                    
-                            Broxah                        </div>
-                        <div class="gameDate" data-timestamp-date="1619749282744">29/4/2021</div>
+                            Malrang                        </div>
+                        <div class="gameDate" data-timestamp-date="1620089570577">3/5/2021</div>
 
                         <div>                            
-                            <span class="kills">3</span> / 
+                            <span class="kills">5</span> / 
                             <span class="deaths">7</span> / 
-                            <span class="assists">9</span>
+                            <span class="assists">16</span>
                         </div>
                     </a>
                 </td>
@@ -4522,16 +4541,16 @@ window['nitroAds'].createAd('mobile', {
                         VS                    </div>
                     <div class="img-align-block">
                         <div class="margin-centered">
-                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Evelynn" title="Evelynn" height="24" width="24" class="champion-28-24 ">                        </div>
+                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lillia" title="Lillia" height="24" width="24" class="champion-876-24 ">                        </div>
                     </div>
                 </td>                        
 
                 <td class="no-padding-lateral text-center" width="62">         
-                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8214.png" tooltip-var="perksdetails-1322437002" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
+                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8214.png" tooltip-var="perksdetails-229007392" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
 
                 <td class="small-padding-lateral text-center font-size-0" width="31">           
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Destello" tooltip-var="spell-4" height="24" width="24" class="requireTooltip spell-4-24 marginIcon"></div>
                     <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Aplastar" tooltip-var="spell-11" height="24" width="24" class="requireTooltip spell-11-24 marginIcon"></div>
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Destello" tooltip-var="spell-4" height="24" width="24" class="requireTooltip spell-4-24 marginIcon"></div>
                 </td>
 
                 <td class="small-padding-lateral text-center font-size-0">
@@ -4550,22 +4569,22 @@ window['nitroAds'].createAd('mobile', {
                                                             </td>
 
                 <td class="small-padding-lateral text-center font-size-0">
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas jonias de la lucidez" tooltip-var="item-3158" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3158-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Canción de batalla de Shurelya" tooltip-var="item-2065" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2065-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Bastón de aguas fluidas" tooltip-var="item-6616" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6616-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Putrificador tecnoquímico" tooltip-var="item-3011" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3011-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Guardián de control" tooltip-var="item-2055" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2055-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lente del oráculo" tooltip-var="item-3364" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3364-24 marginIcon"></div>                    
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Redención" tooltip-var="item-3107" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3107-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Canción de batalla de Shurelya" tooltip-var="item-2065" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2065-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Bendición de Mikael" tooltip-var="item-3222" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3222-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas de movilidad" tooltip-var="item-3117" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3117-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Tomo amplificador" tooltip-var="item-1052" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1052-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Visión lejana modificada" tooltip-var="item-3363" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3363-24 marginIcon"></div>                    
                 </td>
             </tr>
-                    <tr onclick="window.location = '/es/match/na/3886648786#participant8'" style="cursor: pointer">
+                    <tr onclick="window.location = '/es/match/kr/5171372829#participant8'" style="cursor: pointer">
                 <td class="small-padding-lateral text-center" width="80">
-                    <a href="/es/summoner/na/CLG+Broxah">
+                    <a href="/es/summoner/kr/8x8+JG">
                         <div>
-                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/98767975966749981.jpg" alt="Broxah" title="Broxah" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
+                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/99566404826019424.jpg" alt="SofM" title="SofM" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
                         <div class="probuildsProname">                                    
-                            Broxah                        </div>
-                        <div class="gameDate" data-timestamp-date="1619746269896">29/4/2021</div>
+                            SofM                        </div>
+                        <div class="gameDate" data-timestamp-date="1620051287492">3/5/2021</div>
 
                         <div>                            
-                            <span class="kills">2</span> / 
-                            <span class="deaths">3</span> / 
-                            <span class="assists">10</span>
+                            <span class="kills">5</span> / 
+                            <span class="deaths">7</span> / 
+                            <span class="assists">27</span>
                         </div>
                     </a>
                 </td>
@@ -4579,12 +4598,12 @@ window['nitroAds'].createAd('mobile', {
                         VS                    </div>
                     <div class="img-align-block">
                         <div class="margin-centered">
-                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Fiddlesticks" title="Fiddlesticks" height="24" width="24" class="champion-9-24 ">                        </div>
+                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Rumble" title="Rumble" height="24" width="24" class="champion-68-24 ">                        </div>
                     </div>
                 </td>                        
 
                 <td class="no-padding-lateral text-center" width="62">         
-                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8214.png" tooltip-var="perksdetails-61010771" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
+                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/9923.png" tooltip-var="perksdetails-3486821454" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
 
                 <td class="small-padding-lateral text-center font-size-0" width="31">           
                     <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Destello" tooltip-var="spell-4" height="24" width="24" class="requireTooltip spell-4-24 marginIcon"></div>
@@ -4607,22 +4626,136 @@ window['nitroAds'].createAd('mobile', {
                                                             </td>
 
                 <td class="small-padding-lateral text-center font-size-0">
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Bendición de Mikael" tooltip-var="item-3222" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3222-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Canción de batalla de Shurelya" tooltip-var="item-2065" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2065-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas jonias de la lucidez" tooltip-var="item-3158" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3158-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Bastón de aguas fluidas" tooltip-var="item-6616" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6616-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Sello oscuro" tooltip-var="item-1082" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1082-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Guardián de control" tooltip-var="item-2055" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2055-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lente del oráculo" tooltip-var="item-3364" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3364-24 marginIcon">                    
-                </div></td>
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Cetro de cristal de Rylai" tooltip-var="item-3116" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3116-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Escarcha eterna" tooltip-var="item-6656" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6656-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Sello oscuro" tooltip-var="item-1082" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1082-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Impulso cósmico" tooltip-var="item-4629" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-4629-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas jonias de la lucidez" tooltip-var="item-3158" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3158-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lente del oráculo" tooltip-var="item-3364" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3364-24 marginIcon"></div>                    
+                </td>
             </tr>
-                    <tr onclick="window.location = '/es/match/na/3886606171#participant1'" style="cursor: pointer">
+                    <tr onclick="window.location = '/es/match/na/3887775837#participant10'" style="cursor: pointer">
                 <td class="small-padding-lateral text-center" width="80">
-                    <a href="/es/summoner/na/CLG+Broxah">
+                    <a href="/es/summoner/na/twtv+bmxspecks">
                         <div>
-                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/98767975966749981.jpg" alt="Broxah" title="Broxah" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
+                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/98926509797315114.jpg" alt="Dardoch" title="Dardoch" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
                         <div class="probuildsProname">                                    
-                            Broxah                        </div>
-                        <div class="gameDate" data-timestamp-date="1619742668848">29/4/2021</div>
+                            Dardoch                        </div>
+                        <div class="gameDate" data-timestamp-date="1619801911003">30/4/2021</div>
+
+                        <div>                            
+                            <span class="kills">4</span> / 
+                            <span class="deaths">4</span> / 
+                            <span class="assists">8</span>
+                        </div>
+                    </a>
+                </td>
+
+                <td class="small-padding-lateral" width="31">
+                    <div class="img-align-block">
+                        <div class="margin-centered">
+                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ivern" title="Ivern" height="24" width="24" class="champion-427-24 ">                        </div>
+                    </div>
+                    <div class="text-center">
+                        VS                    </div>
+                    <div class="img-align-block">
+                        <div class="margin-centered">
+                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Olaf" title="Olaf" height="24" width="24" class="champion-2-24 ">                        </div>
+                    </div>
+                </td>                        
+
+                <td class="no-padding-lateral text-center" width="62">         
+                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8465.png" tooltip-var="perksdetails-3035767893" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
+
+                <td class="small-padding-lateral text-center font-size-0" width="31">           
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Destello" tooltip-var="spell-4" height="24" width="24" class="requireTooltip spell-4-24 marginIcon"></div>
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Aplastar" tooltip-var="spell-11" height="24" width="24" class="requireTooltip spell-11-24 marginIcon"></div>
+                </td>
+
+                <td class="small-padding-lateral text-center font-size-0">
+                                                <div class="championSpell championSpell-no-margin-right">
+                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Semilla de relojería" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Semilla de relojería&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-2-24 &quot;/> Semilla de relojería</itemname><br>Ivern engendra un escudo sobre sí mismo o sobre un aliado. Tras un breve lapso de tiempo, el escudo estalla, de forma que ralentiza e inflige daño a los enemigos cercanos.<br/><br/>Coste: 70<br/>Enfriamiento: 11 / 10 / 9 / 8 / 7" height="36" width="36" class="requireTooltip championspell-427-2-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Semilla de relojería&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-2-24 &quot;/> Semilla de relojería</itemname><br>Ivern engendra un escudo sobre sí mismo o sobre un aliado. Tras un breve lapso de tiempo, el escudo estalla, de forma que ralentiza e inflige daño a los enemigos cercanos.<br/><br/>Coste: 70<br/>Enfriamiento: 11 / 10 / 9 / 8 / 7">
+                                    E                                </div>
+                            </div>
+                                                    <div class="championSpell championSpell-no-margin-right">
+                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lanzarraíces" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Lanzarraíces&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-0-24 &quot;/> Lanzarraíces</itemname><br>Ivern conjura una turuta que inflige daño e inmoviliza a los objetivos enemigos. Los aliados de Ivern pueden deslizarse hacia el objetivo inmovilizado.<br/><br/>Coste: 60<br/>Enfriamiento: 14 / 13 / 12 / 11 / 10" height="36" width="36" class="requireTooltip championspell-427-0-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Lanzarraíces&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-0-24 &quot;/> Lanzarraíces</itemname><br>Ivern conjura una turuta que inflige daño e inmoviliza a los objetivos enemigos. Los aliados de Ivern pueden deslizarse hacia el objetivo inmovilizado.<br/><br/>Coste: 60<br/>Enfriamiento: 14 / 13 / 12 / 11 / 10">
+                                    Q                                </div>
+                            </div>
+                                                    <div class="championSpell championSpell-no-margin-right">
+                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Creamaleza" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Creamaleza&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-1-24 &quot;/> Creamaleza</itemname><br>Cuando está en la maleza, los ataques de Ivern infligen daño mágico adicional. Puede activar esta habilidad para crear una zona de maleza.<br/><br/>Coste: 30<br/>Enfriamiento: 0.5" height="36" width="36" class="requireTooltip championspell-427-1-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Creamaleza&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-1-24 &quot;/> Creamaleza</itemname><br>Cuando está en la maleza, los ataques de Ivern infligen daño mágico adicional. Puede activar esta habilidad para crear una zona de maleza.<br/><br/>Coste: 30<br/>Enfriamiento: 0.5">
+                                    W                                </div>
+                            </div>
+                                                            </td>
+
+                <td class="small-padding-lateral text-center font-size-0">
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas jonias de la lucidez" tooltip-var="item-3158" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3158-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Poción reutilizable" tooltip-var="item-2031" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2031-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Canción de batalla de Shurelya" tooltip-var="item-2065" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2065-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Gema avivadora" tooltip-var="item-3067" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3067-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Guardián de control" tooltip-var="item-2055" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2055-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lente del oráculo" tooltip-var="item-3364" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3364-24 marginIcon"></div>                    
+                </td>
+            </tr>
+                    <tr onclick="window.location = '/es/match/na/3887792689#participant8'" style="cursor: pointer">
+                <td class="small-padding-lateral text-center" width="80">
+                    <a href="/es/summoner/na/twtv+bmxspecks">
+                        <div>
+                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/98926509797315114.jpg" alt="Dardoch" title="Dardoch" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
+                        <div class="probuildsProname">                                    
+                            Dardoch                        </div>
+                        <div class="gameDate" data-timestamp-date="1619800440827">30/4/2021</div>
 
                         <div>                            
                             <span class="kills">1</span> / 
-                            <span class="deaths">4</span> / 
-                            <span class="assists">7</span>
+                            <span class="deaths">6</span> / 
+                            <span class="assists">8</span>
+                        </div>
+                    </a>
+                </td>
+
+                <td class="small-padding-lateral" width="31">
+                    <div class="img-align-block">
+                        <div class="margin-centered">
+                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ivern" title="Ivern" height="24" width="24" class="champion-427-24 ">                        </div>
+                    </div>
+                    <div class="text-center">
+                        VS                    </div>
+                    <div class="img-align-block">
+                        <div class="margin-centered">
+                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lee Sin" title="Lee Sin" height="24" width="24" class="champion-64-24 ">                        </div>
+                    </div>
+                </td>                        
+
+                <td class="no-padding-lateral text-center" width="62">         
+                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8465.png" tooltip-var="perksdetails-3035767893" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
+
+                <td class="small-padding-lateral text-center font-size-0" width="31">           
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Destello" tooltip-var="spell-4" height="24" width="24" class="requireTooltip spell-4-24 marginIcon"></div>
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Aplastar" tooltip-var="spell-11" height="24" width="24" class="requireTooltip spell-11-24 marginIcon"></div>
+                </td>
+
+                <td class="small-padding-lateral text-center font-size-0">
+                                                <div class="championSpell championSpell-no-margin-right">
+                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Semilla de relojería" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Semilla de relojería&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-2-24 &quot;/> Semilla de relojería</itemname><br>Ivern engendra un escudo sobre sí mismo o sobre un aliado. Tras un breve lapso de tiempo, el escudo estalla, de forma que ralentiza e inflige daño a los enemigos cercanos.<br/><br/>Coste: 70<br/>Enfriamiento: 11 / 10 / 9 / 8 / 7" height="36" width="36" class="requireTooltip championspell-427-2-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Semilla de relojería&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-2-24 &quot;/> Semilla de relojería</itemname><br>Ivern engendra un escudo sobre sí mismo o sobre un aliado. Tras un breve lapso de tiempo, el escudo estalla, de forma que ralentiza e inflige daño a los enemigos cercanos.<br/><br/>Coste: 70<br/>Enfriamiento: 11 / 10 / 9 / 8 / 7">
+                                    E                                </div>
+                            </div>
+                                                    <div class="championSpell championSpell-no-margin-right">
+                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lanzarraíces" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Lanzarraíces&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-0-24 &quot;/> Lanzarraíces</itemname><br>Ivern conjura una turuta que inflige daño e inmoviliza a los objetivos enemigos. Los aliados de Ivern pueden deslizarse hacia el objetivo inmovilizado.<br/><br/>Coste: 60<br/>Enfriamiento: 14 / 13 / 12 / 11 / 10" height="36" width="36" class="requireTooltip championspell-427-0-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Lanzarraíces&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-0-24 &quot;/> Lanzarraíces</itemname><br>Ivern conjura una turuta que inflige daño e inmoviliza a los objetivos enemigos. Los aliados de Ivern pueden deslizarse hacia el objetivo inmovilizado.<br/><br/>Coste: 60<br/>Enfriamiento: 14 / 13 / 12 / 11 / 10">
+                                    Q                                </div>
+                            </div>
+                                                    <div class="championSpell championSpell-no-margin-right">
+                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Creamaleza" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Creamaleza&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-1-24 &quot;/> Creamaleza</itemname><br>Cuando está en la maleza, los ataques de Ivern infligen daño mágico adicional. Puede activar esta habilidad para crear una zona de maleza.<br/><br/>Coste: 30<br/>Enfriamiento: 0.5" height="36" width="36" class="requireTooltip championspell-427-1-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Creamaleza&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-1-24 &quot;/> Creamaleza</itemname><br>Cuando está en la maleza, los ataques de Ivern infligen daño mágico adicional. Puede activar esta habilidad para crear una zona de maleza.<br/><br/>Coste: 30<br/>Enfriamiento: 0.5">
+                                    W                                </div>
+                            </div>
+                                                            </td>
+
+                <td class="small-padding-lateral text-center font-size-0">
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Sello oscuro" tooltip-var="item-1082" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1082-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Poción reutilizable" tooltip-var="item-2031" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2031-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Canción de batalla de Shurelya" tooltip-var="item-2065" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2065-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas jonias de la lucidez" tooltip-var="item-3158" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3158-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lente del oráculo" tooltip-var="item-3364" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3364-24 marginIcon">                    
+                </div></td>
+            </tr>
+                    <tr onclick="window.location = '/es/match/kr/5163369758#participant6'" style="cursor: pointer">
+                <td class="small-padding-lateral text-center" width="80">
+                    <a href="/es/summoner/kr/Yuzacha">
+                        <div>
+                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/105501794903516897.jpg" alt="Peach" title="Peach" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
+                        <div class="probuildsProname">                                    
+                            Peach                        </div>
+                        <div class="gameDate" data-timestamp-date="1619790136951">30/4/2021</div>
+
+                        <div>                            
+                            <span class="kills">0</span> / 
+                            <span class="deaths">6</span> / 
+                            <span class="assists">2</span>
                         </div>
                     </a>
                 </td>
@@ -4641,68 +4774,11 @@ window['nitroAds'].createAd('mobile', {
                 </td>                        
 
                 <td class="no-padding-lateral text-center" width="62">         
-                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8214.png" tooltip-var="perksdetails-2123163166" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
+                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8214.png" tooltip-var="perksdetails-1391203268" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
 
                 <td class="small-padding-lateral text-center font-size-0" width="31">           
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Destello" tooltip-var="spell-4" height="24" width="24" class="requireTooltip spell-4-24 marginIcon"></div>
                     <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Aplastar" tooltip-var="spell-11" height="24" width="24" class="requireTooltip spell-11-24 marginIcon"></div>
-                </td>
-
-                <td class="small-padding-lateral text-center font-size-0">
-                                                <div class="championSpell championSpell-no-margin-right">
-                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Semilla de relojería" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Semilla de relojería&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-2-24 &quot;/> Semilla de relojería</itemname><br>Ivern engendra un escudo sobre sí mismo o sobre un aliado. Tras un breve lapso de tiempo, el escudo estalla, de forma que ralentiza e inflige daño a los enemigos cercanos.<br/><br/>Coste: 70<br/>Enfriamiento: 11 / 10 / 9 / 8 / 7" height="36" width="36" class="requireTooltip championspell-427-2-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Semilla de relojería&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-2-24 &quot;/> Semilla de relojería</itemname><br>Ivern engendra un escudo sobre sí mismo o sobre un aliado. Tras un breve lapso de tiempo, el escudo estalla, de forma que ralentiza e inflige daño a los enemigos cercanos.<br/><br/>Coste: 70<br/>Enfriamiento: 11 / 10 / 9 / 8 / 7">
-                                    E                                </div>
-                            </div>
-                                                    <div class="championSpell championSpell-no-margin-right">
-                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lanzarraíces" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Lanzarraíces&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-0-24 &quot;/> Lanzarraíces</itemname><br>Ivern conjura una turuta que inflige daño e inmoviliza a los objetivos enemigos. Los aliados de Ivern pueden deslizarse hacia el objetivo inmovilizado.<br/><br/>Coste: 60<br/>Enfriamiento: 14 / 13 / 12 / 11 / 10" height="36" width="36" class="requireTooltip championspell-427-0-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Lanzarraíces&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-0-24 &quot;/> Lanzarraíces</itemname><br>Ivern conjura una turuta que inflige daño e inmoviliza a los objetivos enemigos. Los aliados de Ivern pueden deslizarse hacia el objetivo inmovilizado.<br/><br/>Coste: 60<br/>Enfriamiento: 14 / 13 / 12 / 11 / 10">
-                                    Q                                </div>
-                            </div>
-                                                    <div class="championSpell championSpell-no-margin-right">
-                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Creamaleza" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Creamaleza&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-1-24 &quot;/> Creamaleza</itemname><br>Cuando está en la maleza, los ataques de Ivern infligen daño mágico adicional. Puede activar esta habilidad para crear una zona de maleza.<br/><br/>Coste: 30<br/>Enfriamiento: 0.5" height="36" width="36" class="requireTooltip championspell-427-1-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Creamaleza&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-1-24 &quot;/> Creamaleza</itemname><br>Cuando está en la maleza, los ataques de Ivern infligen daño mágico adicional. Puede activar esta habilidad para crear una zona de maleza.<br/><br/>Coste: 30<br/>Enfriamiento: 0.5">
-                                    W                                </div>
-                            </div>
-                                                            </td>
-
-                <td class="small-padding-lateral text-center font-size-0">
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas jonias de la lucidez" tooltip-var="item-3158" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3158-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Canción de batalla de Shurelya" tooltip-var="item-2065" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2065-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Sello oscuro" tooltip-var="item-1082" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1082-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Bastón de aguas fluidas" tooltip-var="item-6616" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6616-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Amuleto de las hadas" tooltip-var="item-1004" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1004-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Guardián de control" tooltip-var="item-2055" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2055-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lente del oráculo" tooltip-var="item-3364" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3364-24 marginIcon">                    
-                </div></td>
-            </tr>
-                    <tr onclick="window.location = '/es/match/euw/5230394023#participant5'" style="cursor: pointer">
-                <td class="small-padding-lateral text-center" width="80">
-                    <a href="/es/summoner/euw/el+tetoncito">
-                        <div>
-                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/103461966879623046.jpg" alt="Flakked" title="Flakked" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
-                        <div class="probuildsProname">                                    
-                            Flakked                        </div>
-                        <div class="gameDate" data-timestamp-date="1619300474290">24/4/2021</div>
-
-                        <div>                            
-                            <span class="kills">1</span> / 
-                            <span class="deaths">3</span> / 
-                            <span class="assists">10</span>
-                        </div>
-                    </a>
-                </td>
-
-                <td class="small-padding-lateral" width="31">
-                    <div class="img-align-block">
-                        <div class="margin-centered">
-                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ivern" title="Ivern" height="24" width="24" class="champion-427-24 ">                        </div>
-                    </div>
-                    <div class="text-center">
-                        VS                    </div>
-                    <div class="img-align-block">
-                        <div class="margin-centered">
-                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Taliyah" title="Taliyah" height="24" width="24" class="champion-163-24 ">                        </div>
-                    </div>
-                </td>                        
-
-                <td class="no-padding-lateral text-center" width="62">         
-                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8214.png" tooltip-var="perksdetails-3163125464" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
-
-                <td class="small-padding-lateral text-center font-size-0" width="31">           
                     <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Destello" tooltip-var="spell-4" height="24" width="24" class="requireTooltip spell-4-24 marginIcon"></div>
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Aplastar" tooltip-var="spell-11" height="24" width="24" class="requireTooltip spell-11-24 marginIcon"></div>
                 </td>
 
                 <td class="small-padding-lateral text-center font-size-0">
@@ -4721,64 +4797,7 @@ window['nitroAds'].createAd('mobile', {
                                                             </td>
 
                 <td class="small-padding-lateral text-center font-size-0">
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ídolo prohibido" tooltip-var="item-3114" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3114-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Incensario ardiente" tooltip-var="item-3504" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3504-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Sello oscuro" tooltip-var="item-1082" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1082-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas de movilidad" tooltip-var="item-3117" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3117-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Renovación de piedra lunar" tooltip-var="item-6617" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6617-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lente del oráculo" tooltip-var="item-3364" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3364-24 marginIcon"></div>                    
-                </td>
-            </tr>
-                    <tr onclick="window.location = '/es/match/euw/5218830431#participant2'" style="cursor: pointer">
-                <td class="small-padding-lateral text-center" width="80">
-                    <a href="/es/summoner/euw/school+phobia">
-                        <div>
-                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/102787200059605684.jpg" alt="Labrov" title="Labrov" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
-                        <div class="probuildsProname">                                    
-                            Labrov                        </div>
-                        <div class="gameDate" data-timestamp-date="1618766067613">18/4/2021</div>
-
-                        <div>                            
-                            <span class="kills">0</span> / 
-                            <span class="deaths">4</span> / 
-                            <span class="assists">11</span>
-                        </div>
-                    </a>
-                </td>
-
-                <td class="small-padding-lateral" width="31">
-                    <div class="img-align-block">
-                        <div class="margin-centered">
-                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ivern" title="Ivern" height="24" width="24" class="champion-427-24 ">                        </div>
-                    </div>
-                    <div class="text-center">
-                        VS                    </div>
-                    <div class="img-align-block">
-                        <div class="margin-centered">
-                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Taric" title="Taric" height="24" width="24" class="champion-44-24 ">                        </div>
-                    </div>
-                </td>                        
-
-                <td class="no-padding-lateral text-center" width="62">         
-                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8465.png" tooltip-var="perksdetails-3035767893" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
-
-                <td class="small-padding-lateral text-center font-size-0" width="31">           
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Destello" tooltip-var="spell-4" height="24" width="24" class="requireTooltip spell-4-24 marginIcon"></div>
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Extenuación" tooltip-var="spell-3" height="24" width="24" class="requireTooltip spell-3-24 marginIcon"></div>
-                </td>
-
-                <td class="small-padding-lateral text-center font-size-0">
-                                                <div class="championSpell championSpell-no-margin-right">
-                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Semilla de relojería" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Semilla de relojería&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-2-24 &quot;/> Semilla de relojería</itemname><br>Ivern engendra un escudo sobre sí mismo o sobre un aliado. Tras un breve lapso de tiempo, el escudo estalla, de forma que ralentiza e inflige daño a los enemigos cercanos.<br/><br/>Coste: 70<br/>Enfriamiento: 11 / 10 / 9 / 8 / 7" height="36" width="36" class="requireTooltip championspell-427-2-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Semilla de relojería&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-2-24 &quot;/> Semilla de relojería</itemname><br>Ivern engendra un escudo sobre sí mismo o sobre un aliado. Tras un breve lapso de tiempo, el escudo estalla, de forma que ralentiza e inflige daño a los enemigos cercanos.<br/><br/>Coste: 70<br/>Enfriamiento: 11 / 10 / 9 / 8 / 7">
-                                    E                                </div>
-                            </div>
-                                                    <div class="championSpell championSpell-no-margin-right">
-                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lanzarraíces" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Lanzarraíces&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-0-24 &quot;/> Lanzarraíces</itemname><br>Ivern conjura una turuta que inflige daño e inmoviliza a los objetivos enemigos. Los aliados de Ivern pueden deslizarse hacia el objetivo inmovilizado.<br/><br/>Coste: 60<br/>Enfriamiento: 14 / 13 / 12 / 11 / 10" height="36" width="36" class="requireTooltip championspell-427-0-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Lanzarraíces&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-0-24 &quot;/> Lanzarraíces</itemname><br>Ivern conjura una turuta que inflige daño e inmoviliza a los objetivos enemigos. Los aliados de Ivern pueden deslizarse hacia el objetivo inmovilizado.<br/><br/>Coste: 60<br/>Enfriamiento: 14 / 13 / 12 / 11 / 10">
-                                    Q                                </div>
-                            </div>
-                                                    <div class="championSpell championSpell-no-margin-right">
-                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Creamaleza" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Creamaleza&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-1-24 &quot;/> Creamaleza</itemname><br>Cuando está en la maleza, los ataques de Ivern infligen daño mágico adicional. Puede activar esta habilidad para crear una zona de maleza.<br/><br/>Coste: 30<br/>Enfriamiento: 0.5" height="36" width="36" class="requireTooltip championspell-427-1-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Creamaleza&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-427-1-24 &quot;/> Creamaleza</itemname><br>Cuando está en la maleza, los ataques de Ivern infligen daño mágico adicional. Puede activar esta habilidad para crear una zona de maleza.<br/><br/>Coste: 30<br/>Enfriamiento: 0.5">
-                                    W                                </div>
-                            </div>
-                                                            </td>
-
-                <td class="small-padding-lateral text-center font-size-0">
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Renovación de piedra lunar" tooltip-var="item-6617" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6617-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Fragmento de Hielo Puro" tooltip-var="item-3853" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3853-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Poción reutilizable" tooltip-var="item-2031" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2031-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Guardián de control" tooltip-var="item-2055" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2055-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas jonias de la lucidez" tooltip-var="item-3158" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3158-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lente del oráculo" tooltip-var="item-3364" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3364-24 marginIcon"></div>                    
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Canción de batalla de Shurelya" tooltip-var="item-2065" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2065-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Poción reutilizable" tooltip-var="item-2031" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2031-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas jonias de la lucidez" tooltip-var="item-3158" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3158-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lente del oráculo" tooltip-var="item-3364" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3364-24 marginIcon"></div>                    
                 </td>
             </tr>
         
@@ -4793,18 +4812,18 @@ window['nitroAds'].createAd('mobile', {
 </div>        </div>
 
         <div class="medium-12 small-24 columns">
-            <div id="anyclip-container-868587" style="margin-top:0px; margin-bottom:20px; position: relative; width:400px; display:flex;justify-content:center;align-items:center; ">
-                        <div id="anyclip-868587" class="text-center" style="width:400px; margin: 0 auto;"></div>
+            <div id="anyclip-container-226792" style="margin-top:0px; margin-bottom:20px; position: relative; width:400px; display:flex;justify-content:center;align-items:center; ">
+                        <div id="anyclip-226792" class="text-center" style="width:400px; margin: 0 auto;"></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(true){
-                                            window['nitroAds'].createAd("anyclip-868587", {"format": "video-ac"});
+                                            window['nitroAds'].createAd("anyclip-226792", {"format": "video-ac"});
                                         }
                                     } else {
                                         if(false) {
-                                            window['nitroAds'].createAd("anyclip-868587", {"format": "video-ac"});
+                                            window['nitroAds'].createAd("anyclip-226792", {"format": "video-ac"});
                                         }
                                     }
                                 }
@@ -4830,17 +4849,17 @@ window['nitroAds'].createAd('mobile', {
                                     
                             <div class="championSpell">
                                 <a href="/es/champions/counters/ivern">
-                                    <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Diana" title="Diana" height="48" width="48" class="champion-131-48 ">                                </a>
+                                    <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Nocturne" title="Nocturne" height="48" width="48" class="champion-56-48 ">                                </a>
+                            </div>
+                                    
+                            <div class="championSpell">
+                                <a href="/es/champions/counters/ivern">
+                                    <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Viego" title="Viego" height="48" width="48" class="champion-234-48 ">                                </a>
                             </div>
                                     
                             <div class="championSpell">
                                 <a href="/es/champions/counters/ivern">
                                     <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Lee Sin" title="Lee Sin" height="48" width="48" class="champion-64-48 ">                                </a>
-                            </div>
-                                    
-                            <div class="championSpell">
-                                <a href="/es/champions/counters/ivern">
-                                    <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Kayn" title="Kayn" height="48" width="48" class="champion-141-48 ">                                </a>
                             </div>
                                             </div>
                 </div>
@@ -4858,7 +4877,7 @@ window['nitroAds'].createAd('mobile', {
             <div class="row">
                                     <div class="medium-12 small-24 columns">
                         
-<div class="box box-padding-10 overviewBox rolesOverviewBox " tooltip="<table><tr><th></th><th>Popularidad</th><th>% de victorias</th></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Jungler&quot; title=&quot;Jungler&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-jungle-24 &quot;/></div><div class=&quot;txt&quot;>Jungler</div></td><td><progressBar data-value=&quot;0.89068702290076&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.89068702290076&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.5173123071649&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Support&quot; title=&quot;Support&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-support-24 &quot;/></div><div class=&quot;txt&quot;>Support</div></td><td><progressBar data-value=&quot;0.057709923664122&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.89068702290076&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.3968253968254&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Mid&quot; title=&quot;Mid&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-middle-24 &quot;/></div><div class=&quot;txt&quot;>Mid</div></td><td><progressBar data-value=&quot;0.025343511450382&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.89068702290076&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.56024096385542&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Top&quot; title=&quot;Top&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-top-24 &quot;/></div><div class=&quot;txt&quot;>Top</div></td><td><progressBar data-value=&quot;0.022137404580153&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.89068702290076&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.50344827586207&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;AD Carry&quot; title=&quot;AD Carry&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-adc-24 &quot;/></div><div class=&quot;txt&quot;>AD Carry</div></td><td><progressBar data-value=&quot;0.0041221374045802&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.89068702290076&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.25925925925926&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr></table>" tooltip-class="tooltipRolesUsage">
+<div class="box box-padding-10 overviewBox rolesOverviewBox " tooltip="<table><tr><th></th><th>Popularidad</th><th>% de victorias</th></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Jungler&quot; title=&quot;Jungler&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-jungle-24 &quot;/></div><div class=&quot;txt&quot;>Jungler</div></td><td><progressBar data-value=&quot;0.90510948905109&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.90510948905109&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.51454493087558&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Support&quot; title=&quot;Support&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-support-24 &quot;/></div><div class=&quot;txt&quot;>Support</div></td><td><progressBar data-value=&quot;0.05318039624609&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.90510948905109&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.49754901960784&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Mid&quot; title=&quot;Mid&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-middle-24 &quot;/></div><div class=&quot;txt&quot;>Mid</div></td><td><progressBar data-value=&quot;0.023331595411887&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.90510948905109&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.54189944134078&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Top&quot; title=&quot;Top&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-top-24 &quot;/></div><div class=&quot;txt&quot;>Top</div></td><td><progressBar data-value=&quot;0.015641293013556&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.90510948905109&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.41666666666667&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;AD Carry&quot; title=&quot;AD Carry&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-adc-24 &quot;/></div><div class=&quot;txt&quot;>AD Carry</div></td><td><progressBar data-value=&quot;0.0027372262773723&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.90510948905109&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.33333333333333&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr></table>" tooltip-class="tooltipRolesUsage">
     <a href="/es/champions/stats/ivern">
 
         <h3 class="box-title">
@@ -4878,8 +4897,8 @@ window['nitroAds'].createAd('mobile', {
                         </div>
 
                         <div class="figures">
-                            Popularidad: 89.1%<br>
-                            % de victorias: 51.7%
+                            Popularidad: 90.5%<br>
+                            % de victorias: 51.5%
                         </div>
                     </div>
                 </a>
@@ -4909,8 +4928,8 @@ window['nitroAds'].createAd('mobile', {
         </div>
 
         <div class="figures">
-            Popularidad: 88.4%<br>
-            % de victorias: 51.4%
+            Popularidad: 89.8%<br>
+            % de victorias: 51.5%
         </div>
 
         <div class="seeMoreButtonRow">
@@ -5152,8 +5171,8 @@ window['nitroAds'].createAd('mobile', {
         </div>
 
         <div class="figures">
-            Popularidad: 59.8% -
-            % de victorias: 51.1%
+            Popularidad: 59.7% -
+            % de victorias: 51.3%
         </div>
 
         <div class="seeMoreButtonRow">
@@ -5163,18 +5182,18 @@ window['nitroAds'].createAd('mobile', {
     </div>
 </a>
             <div style="margin-top:0px; margin-bottom:0px; position: relative;">
-                        <div id="adasync15689" class="text-center"></div>
+                        <div id="adasync136779" class="text-center"></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(false){
-                                            document.getElementById('adasync15689').innerHTML = '<div id="overviewChampion3"></div>';
+                                            document.getElementById('adasync136779').innerHTML = '<div id="overviewChampion3"></div>';
                                             window['nitroAds'].createAd("overviewChampion3", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(false) {
-                                            document.getElementById('adasync15689').innerHTML = '<div id="overviewChampion3-mobile"></div>';
+                                            document.getElementById('adasync136779').innerHTML = '<div id="overviewChampion3-mobile"></div>';
                                             window['nitroAds'].createAd("overviewChampion3-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -5230,37 +5249,6 @@ window['nitroAds'].createAd('mobile', {
                     2.                </td>
 
                 <td class="text-left ">
-                    <a href="/es/summoner/champions/ivern/br/Hibernate5/all">
-                        <div class="img-align-block">
-                            <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/summonerIcons/11.9/36/21.png" alt="Hibernate5" title="Hibernate5" height="36" width="36" class="">                            </div>
-                            <div class="txt">
-                                <span class="name">
-                                    Hibernate5                                </span>
-                                <br>
-                                <span class="subname">BR</span>
-                                <i class="show-for-super-small-only">(#)</i>
-                            </div>
-                        </div>
-                    </a>
-                </td>
-
-                <td class="hide-for-small-down text-center">
-                                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Master" title="Master" height="36" width="36" class="leagueicons-36-7-1 ">                                    </td>
-
-                <td class="text-center">
-
-                    70.9%                </td>
-
-                <td class="hide-for-small-down text-center">
-                    <i>103</i>
-                </td>
-            </tr>
-                    <tr>
-                <td class="text-right hide-for-super-small-only">
-                    3.                </td>
-
-                <td class="text-left ">
                     <a href="/es/summoner/champions/ivern/na/HULKSMASH1337/all">
                         <div class="img-align-block">
                             <div>
@@ -5281,10 +5269,41 @@ window['nitroAds'].createAd('mobile', {
 
                 <td class="text-center">
 
-                    67.8%                </td>
+                    68.3%                </td>
 
                 <td class="hide-for-small-down text-center">
-                    <i>59</i>
+                    <i>60</i>
+                </td>
+            </tr>
+                    <tr>
+                <td class="text-right hide-for-super-small-only">
+                    3.                </td>
+
+                <td class="text-left ">
+                    <a href="/es/summoner/champions/ivern/br/FEET+LICKER+uwu/all">
+                        <div class="img-align-block">
+                            <div>
+                                <img src="//lolg-cdn.porofessor.gg/img/summonerIcons/11.9/36/4658.png" alt="FEET LICKER uwu" title="FEET LICKER uwu" height="36" width="36" class="">                            </div>
+                            <div class="txt">
+                                <span class="name">
+                                    FEET LICKER uwu                                </span>
+                                <br>
+                                <span class="subname">BR</span>
+                                <i class="show-for-super-small-only">(#)</i>
+                            </div>
+                        </div>
+                    </a>
+                </td>
+
+                <td class="hide-for-small-down text-center">
+                                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Diamante I" title="Diamante I" height="36" width="36" class="leagueicons-36-6-1 ">                                    </td>
+
+                <td class="text-center">
+
+                    84.4%                </td>
+
+                <td class="hide-for-small-down text-center">
+                    <i>45</i>
                 </td>
             </tr>
                     <tr>
@@ -5292,15 +5311,15 @@ window['nitroAds'].createAd('mobile', {
                     4.                </td>
 
                 <td class="text-left ">
-                    <a href="/es/summoner/champions/ivern/na/PPG+Rex/all">
+                    <a href="/es/summoner/champions/ivern/br/Hibernate5/all">
                         <div class="img-align-block">
                             <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/summonerIcons/11.9/36/17.png" alt="PPG Rex" title="PPG Rex" height="36" width="36" class="">                            </div>
+                                <img src="//lolg-cdn.porofessor.gg/img/summonerIcons/11.9/36/21.png" alt="Hibernate5" title="Hibernate5" height="36" width="36" class="">                            </div>
                             <div class="txt">
                                 <span class="name">
-                                    PPG Rex                                </span>
+                                    Hibernate5                                </span>
                                 <br>
-                                <span class="subname">NA</span>
+                                <span class="subname">BR</span>
                                 <i class="show-for-super-small-only">(#)</i>
                             </div>
                         </div>
@@ -5312,10 +5331,10 @@ window['nitroAds'].createAd('mobile', {
 
                 <td class="text-center">
 
-                    68.1%                </td>
+                    66.1%                </td>
 
                 <td class="hide-for-small-down text-center">
-                    <i>135</i>
+                    <i>124</i>
                 </td>
             </tr>
                     <tr>
@@ -5323,15 +5342,15 @@ window['nitroAds'].createAd('mobile', {
                     5.                </td>
 
                 <td class="text-left ">
-                    <a href="/es/summoner/champions/ivern/euw/Rift+Inspector/all">
+                    <a href="/es/summoner/champions/ivern/kr/%EC%A1%B0%EA%B4%91%ED%9D%AC1/all">
                         <div class="img-align-block">
                             <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/summonerIcons/11.9/36/1113.png" alt="Rift Inspector" title="Rift Inspector" height="36" width="36" class="">                            </div>
+                                <img src="//lolg-cdn.porofessor.gg/img/summonerIcons/11.9/36/4895.png" alt="조광희1" title="조광희1" height="36" width="36" class="">                            </div>
                             <div class="txt">
                                 <span class="name">
-                                    Rift Inspector                                </span>
+                                    조광희1                                </span>
                                 <br>
-                                <span class="subname">EUW</span>
+                                <span class="subname">KR</span>
                                 <i class="show-for-super-small-only">(#)</i>
                             </div>
                         </div>
@@ -5339,14 +5358,14 @@ window['nitroAds'].createAd('mobile', {
                 </td>
 
                 <td class="hide-for-small-down text-center">
-                                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Master" title="Master" height="36" width="36" class="leagueicons-36-7-1 ">                                    </td>
+                                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="GrandMaster" title="GrandMaster" height="36" width="36" class="leagueicons-36-8-1 ">                                    </td>
 
                 <td class="text-center">
 
-                    68.6%                </td>
+                    66.7%                </td>
 
                 <td class="hide-for-small-down text-center">
-                    <i>51</i>
+                    <i>123</i>
                 </td>
             </tr>
         
@@ -5375,25 +5394,25 @@ window['nitroAds'].createAd('mobile', {
                                         <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ivern" title="Ivern" height="36" width="36" class="champion-427-36 ">                                    </a>
                                 </div>
                                 <div class="txt">
-                                    <a href="/es/summoner/kr/%EC%95%88%EC%9D%BC%ED%95%98%EC%A7%80%EC%95%8A%EA%B2%8C" class="name">안일하지않게</a>
+                                    <a href="/es/summoner/na/knightwares" class="name">knightwares</a>
                                     <br>
-                                    <a href="/es/summoner/kr/%EC%95%88%EC%9D%BC%ED%95%98%EC%A7%80%EC%95%8A%EA%B2%8C" class="subname">Master</a>
+                                    <a href="/es/summoner/na/knightwares" class="subname">Master</a>
                                 </div>
                             </div>
                         </td>
 
                         <td class="text-center">
                             <div class="kda">
-                                <span class="kills">0</span>
+                                <span class="kills">4</span>
                                 <span class="separator">/</span>
                                 <span class="deaths">1</span>
                                 <span class="separator">/</span>
-                                <span class="assists">18</span>
+                                <span class="assists">16</span>
                             </div>
                         </td>
 
                         <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/NzByc0Q0ckY5bU5UdkdLNVQ4ajFZcDhBRHIrL3JlL0JzWkFkU1E5Zi9qMllpRjNINEl0RFBlYlgyb3BRa3lMRllKQUxKN1BHK2RtanVsWGxka0lmUmc9PQ==" data-spectate-platform="KR" data-spectate-gameid="5161919380" data-spectate-encryptionkey="FBlVKsWCsGy8HhA8WeeR2++vYtjrU4A8" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
+                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/UmFlQlJmNXFlT2Rua1l4UDJiM1N5MGgvREhkdkJ2cHpQeEdOQkd4RjU4TThVSmJPYzB0eGI1WnJzY0k4L293RWZBYzQ0VzAzWWV6aENYZWdGT01VdkE9PQ==" data-spectate-platform="NA1" data-spectate-gameid="3892427380" data-spectate-encryptionkey="NsPe6mwvrydTd3PDcxCtCLb9Xz9i2Nc2" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
                                 <button class="replay_button_small"><i class="fa fa-play"></i>Reproducir</button>
                             </a>
                         </td>
@@ -5406,25 +5425,25 @@ window['nitroAds'].createAd('mobile', {
                                         <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ivern" title="Ivern" height="36" width="36" class="champion-427-36 ">                                    </a>
                                 </div>
                                 <div class="txt">
-                                    <a href="/es/summoner/na/ivern+irl" class="name">ivern irl</a>
+                                    <a href="/es/summoner/br/Sh%C3%A0co" class="name">Shàco</a>
                                     <br>
-                                    <a href="/es/summoner/na/ivern+irl" class="subname">Diamante I</a>
+                                    <a href="/es/summoner/br/Sh%C3%A0co" class="subname">Diamante I</a>
                                 </div>
                             </div>
                         </td>
 
                         <td class="text-center">
                             <div class="kda">
-                                <span class="kills">1</span>
+                                <span class="kills">9</span>
                                 <span class="separator">/</span>
                                 <span class="deaths">1</span>
                                 <span class="separator">/</span>
-                                <span class="assists">15</span>
+                                <span class="assists">12</span>
                             </div>
                         </td>
 
                         <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/aWtsWEFYMjBIcWg4ZllRckcwaFNrOVJzRmtlRGlBdFo2cjFqYjBzU3p1ejJVZ0ZTZmNBbG9UM044Y2RwMy9WUmYwVjdEQ244Y0xjUGN0WW9ZdWNjS1E9PQ==" data-spectate-platform="NA1" data-spectate-gameid="3887185107" data-spectate-encryptionkey="NOUUxIRwp4hqQbZz30Vk62EjXWsgP48C" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
+                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/R2c2amRXQWMrazZaSTVFS3ZIUzVmamdxc2JjN2FiTEFYUWdRbDJMMDNCOGJlSllsY0RPNlIzWjhDdmhwdWxlQmJNMElteFdQTERLNUs3QUtrY0JKQWc9PQ==" data-spectate-platform="BR1" data-spectate-gameid="2255287529" data-spectate-encryptionkey="zoHMxCG2dj2w77FosHYsfm8iO/VETnoo" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
                                 <button class="replay_button_small"><i class="fa fa-play"></i>Reproducir</button>
                             </a>
                         </td>
@@ -5437,25 +5456,25 @@ window['nitroAds'].createAd('mobile', {
                                         <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ivern" title="Ivern" height="36" width="36" class="champion-427-36 ">                                    </a>
                                 </div>
                                 <div class="txt">
-                                    <a href="/es/summoner/kr/%EC%95%84%EC%9D%B4%EB%B2%88%EB%A7%A82" class="name">아이번맨2</a>
+                                    <a href="/es/summoner/na/jamican+banana" class="name">jamican banana</a>
                                     <br>
-                                    <a href="/es/summoner/kr/%EC%95%84%EC%9D%B4%EB%B2%88%EB%A7%A82" class="subname">Diamante I</a>
+                                    <a href="/es/summoner/na/jamican+banana" class="subname">Challenger</a>
                                 </div>
                             </div>
                         </td>
 
                         <td class="text-center">
                             <div class="kda">
-                                <span class="kills">5</span>
+                                <span class="kills">6</span>
                                 <span class="separator">/</span>
-                                <span class="deaths">0</span>
+                                <span class="deaths">1</span>
                                 <span class="separator">/</span>
-                                <span class="assists">24</span>
+                                <span class="assists">13</span>
                             </div>
                         </td>
 
                         <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/RXg2eVozcWdvWXlWZFQyTjNtc25NZUVXT1RkL1Awb2pwWHBuTVhnakVEcEt4cHVUbUkyNkpxZllVV0E5SmlyUnI4L0FoejlRQXh4aTl3Zm1wckFJakE9PQ==" data-spectate-platform="KR" data-spectate-gameid="5161402137" data-spectate-encryptionkey="5WRo6sF7LpC6/V2Q5QRWSeynR6LXohwU" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
+                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/eUVKY2Q5cmFmd3JiNVBmdlBHam9HcGJlLzVlZEIycUk4SzJIQmR4a2ZmTmllOWlRZTdYY1Z5WG5lNzM1Z2JEbEF2U2JxNVplWFp5TjdSNkdVVHkyOHc9PQ==" data-spectate-platform="NA1" data-spectate-gameid="3891402283" data-spectate-encryptionkey="fYGQvBv7+c3gvJRMuj/VAVhK6dV8e+MI" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
                                 <button class="replay_button_small"><i class="fa fa-play"></i>Reproducir</button>
                             </a>
                         </td>
@@ -5468,9 +5487,9 @@ window['nitroAds'].createAd('mobile', {
                                         <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ivern" title="Ivern" height="36" width="36" class="champion-427-36 ">                                    </a>
                                 </div>
                                 <div class="txt">
-                                    <a href="/es/summoner/kr/%EC%A1%B0%EA%B4%91%ED%9D%AC1" class="name">조광희1</a>
+                                    <a href="/es/summoner/kr/%EC%95%84%EC%9D%B4%EB%B2%88%EB%A7%A83" class="name">아이번맨3</a>
                                     <br>
-                                    <a href="/es/summoner/kr/%EC%A1%B0%EA%B4%91%ED%9D%AC1" class="subname">GrandMaster</a>
+                                    <a href="/es/summoner/kr/%EC%95%84%EC%9D%B4%EB%B2%88%EB%A7%A83" class="subname">Master</a>
                                 </div>
                             </div>
                         </td>
@@ -5481,12 +5500,12 @@ window['nitroAds'].createAd('mobile', {
                                 <span class="separator">/</span>
                                 <span class="deaths">0</span>
                                 <span class="separator">/</span>
-                                <span class="assists">15</span>
+                                <span class="assists">11</span>
                             </div>
                         </td>
 
                         <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/bkd2VWh2WUxZWnY5RERSOTZlTEw0aUY0OUhwdnRNUEd4dTBhY2ExOWxXZnBXekl5T2JCajl0Tm9wZndVb2MybERUK3dNN2lUQVRxRkVIdkVOeTVDNEE9PQ==" data-spectate-platform="KR" data-spectate-gameid="5161253787" data-spectate-encryptionkey="1jwPXKhE8MRheIRAUe48ygtx0SQ+OLp5" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
+                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/V3k5SjZ3OVFKRWZYa2xRL20wakpnZlhlU1pNTG9uOUFNQy9McDJ0RDNlWUZBK2RxTlVlQjlkYkk5MERONUVKaHg5SFR5alR4Q1B5MERuVU1ma3V6R2c9PQ==" data-spectate-platform="KR" data-spectate-gameid="5169117481" data-spectate-encryptionkey="nzm0TijXhKIPAbV1IpFRjYrOaOP4XIIG" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
                                 <button class="replay_button_small"><i class="fa fa-play"></i>Reproducir</button>
                             </a>
                         </td>
@@ -5499,25 +5518,25 @@ window['nitroAds'].createAd('mobile', {
                                         <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ivern" title="Ivern" height="36" width="36" class="champion-427-36 ">                                    </a>
                                 </div>
                                 <div class="txt">
-                                    <a href="/es/summoner/tr/G%C4%B0DENE+PAND%C4%B0K" class="name">GİDENE PANDİK</a>
+                                    <a href="/es/summoner/euw/Boaj" class="name">Boaj</a>
                                     <br>
-                                    <a href="/es/summoner/tr/G%C4%B0DENE+PAND%C4%B0K" class="subname">GrandMaster</a>
+                                    <a href="/es/summoner/euw/Boaj" class="subname">Master</a>
                                 </div>
                             </div>
                         </td>
 
                         <td class="text-center">
                             <div class="kda">
-                                <span class="kills">2</span>
+                                <span class="kills">6</span>
                                 <span class="separator">/</span>
                                 <span class="deaths">0</span>
                                 <span class="separator">/</span>
-                                <span class="assists">19</span>
+                                <span class="assists">12</span>
                             </div>
                         </td>
 
                         <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/cmNJMUJHUGJvVDROWlBRSGM5cjBJTGszVW5zY0N4QU9FRXcrcE9lZm5UUVVFazdjdnJyQXpoaHE3MVA5K1ZoVUNBL0JPRzQ1VG9qZ0RRNzh1d3AxUFE9PQ==" data-spectate-platform="TR1" data-spectate-gameid="1173465587" data-spectate-encryptionkey="CwiwGjqI7lNGha9ESRM4axz1EX63XOyv" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
+                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/VllXMDIxb3pldmhYSnhPNEgxVVlEaFFBVkxCZXVNN2I3M3l3Q3VEVTRVNmFCMkpSak1vZWowTXRDK0crOG4xNzlKMjg3alpCOGdSUi85U1N6a2VyaGc9PQ==" data-spectate-platform="EUW1" data-spectate-gameid="5244599774" data-spectate-encryptionkey="m2RsvVHVdQBgKHSn8Jno6QXzEXFFmGJ5" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
                                 <button class="replay_button_small"><i class="fa fa-play"></i>Reproducir</button>
                             </a>
                         </td>
@@ -5559,7 +5578,7 @@ window['nitroAds'].createAd('mobile', {
 </div>        </div>
 
     </div><script type="text/javascript">
-    var newTooltipData = {"item-3340":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Guardi\u00e1n invisible\" tooltip-var=\"item-3340\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3340-24 \"\/> Guardi\u00e1n invisible<\/itemname><br><stats><\/stats> <active>Activa - Talism\u00e1n:<\/active> Coloca un guardi\u00e1n invisible en el suelo que dura 90 - 120 s y los enemigos no pueden ver, pero otorga a tu equipo visi\u00f3n de la zona circundante. Almacena hasta 2 guardianes invisibles y genera un nuevo guardi\u00e1n cada 240 - 120 s. ","item-1039":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Espada de granizo\" tooltip-var=\"item-1039\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1039-24 \"\/> Espada de granizo<\/itemname><br><stats><\/stats>10% de omnisucci\u00f3n contra monstruos<br><li><passive>Abrasar:<\/passive> Da\u00f1ar a monstruos de la jungla les inflige (60 + 30% del poder de habilidad + 5% del da\u00f1o de ataque adicional + 2% de la vida adicional) de da\u00f1o m\u00e1gico por quemadura a lo largo de 5 s.<li><passive>Camino desalentador:<\/passive> Utilizar Aplastar 5 veces consume este objeto para mejorar Aplastar a <attention>Aplastamiento desalentador<\/attention>. Usar Aplastamiento desalentador contra campeones inflige 20 - 156 (seg\u00fan el nivel) de da\u00f1o verdadero y roba un 20% de su velocidad de movimiento durante 2 s.<li><passive>Cazador:<\/passive> Matar a monstruos gigantes de la jungla otorga experiencia adicional.<li><passive>Respiro:<\/passive> Regeneras hasta 8 - 18 (seg\u00fan el nivel) de man\u00e1 por segundo cuando te encuentras en la jungla o en el r\u00edo. <br><br><rules>Consumir este objeto otorga de forma permanente todos los efectos del objeto. Si has conseguido m\u00e1s oro de s\u00fabditos que de monstruos, se reduce mucho el oro y la experiencia que obtienes de s\u00fabditos. La curaci\u00f3n de los ataques con \u00e1rea de efecto no se reduce. <\/rules>","item-2031":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Poci\u00f3n reutilizable\" tooltip-var=\"item-2031\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-2031-24 \"\/> Poci\u00f3n reutilizable<\/itemname><br><stats><\/stats> <active>Activa - Consumir:<\/active> Consume una carga para restaurar 125 de vida a lo largo de 12 s. Contiene hasta 2 cargas y se rellena al visitar la tienda.","item-4642":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Espejo de cristal de Bandle\" tooltip-var=\"item-4642\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-4642-24 \"\/> Espejo de cristal de Bandle<\/itemname><br><stats><attention>+20<\/attention> de poder de habilidad<br><attention>+10<\/attention> de velocidad de habilidades<br><attention>+50%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats>","item-6617":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Renovaci\u00f3n de piedra lunar\" tooltip-var=\"item-6617\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-6617-24 \"\/> Renovaci\u00f3n de piedra lunar<\/itemname><br><stats><attention>+40<\/attention> de poder de habilidad<br><attention>+200<\/attention> de vida<br><attention>+20<\/attention> de velocidad de habilidades<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br><li><passive>Gracia estelar:<\/passive> Al afectar a campeones con ataques o habilidades en combate, restaura 70 de vida al aliado cercano m\u00e1s herido (2 s de enfriamiento). Por cada segundo en combate contra campeones, tu poder de curaciones y escudos aumenta un 4% (hasta un m\u00e1ximo de un 20%).<br><br><rarityMythic>Pasiva m\u00edtica:<\/rarityMythic> Se otorga a todos los dem\u00e1s objetos legendarios <attention>10<\/attention> de vida adicional de la curaci\u00f3n de <passive>Gracia estelar<\/passive>.","item-6616":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Bast\u00f3n de aguas fluidas\" tooltip-var=\"item-6616\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-6616-24 \"\/> Bast\u00f3n de aguas fluidas<\/itemname><br><stats><attention>+50<\/attention> de poder de habilidad<br><attention>+10%<\/attention> de poder de curaciones y escudos.<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br><li><passive>R\u00e1pidos:<\/passive> Al curar u otorgar un escudo a un aliado, ambos obten\u00e9is un 20 - 40 de poder de habilidad y 20 de velocidad de habilidades durante 4 s.<br><br><rules>El efecto progresa seg\u00fan el nivel del aliado.<\/rules>","item-3011":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Putrificador tecnoqu\u00edmico\" tooltip-var=\"item-3011\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3011-24 \"\/> Putrificador tecnoqu\u00edmico<\/itemname><br><stats><attention>+55<\/attention> de poder de habilidad<br><attention>+20<\/attention> de velocidad de habilidades<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br><li><passive>Toxina f\u00fangica:<\/passive> Infligir da\u00f1o m\u00e1gico aplica un 40% de Heridas graves a campeones durante 3 s. Las curaciones y escudos sobre otro aliado os potencian a ambos y provocan que vuestro siguiente da\u00f1o contra campeones enemigos aplique un 60% de Heridas graves.<br><br><rules>Heridas graves reduce los efectos de curaci\u00f3n y regeneraci\u00f3n.<\/rules>","item-3158":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Botas jonias de la lucidez\" tooltip-var=\"item-3158\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3158-24 \"\/> Botas jonias de la lucidez<\/itemname><br><stats><attention>+20<\/attention> de velocidad de habilidades<br><attention>+45<\/attention> de velocidad de movimiento<\/stats><br><li>Otorga 12 de velocidad de hechizos de invocador.<br><br>''Este objeto est\u00e1 dedicado a la victoria de Jonia contra Noxus en la revancha por las provincias meridionales del 10 de diciembre del 20 CLE''.","item-3107":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Redenci\u00f3n\" tooltip-var=\"item-3107\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3107-24 \"\/> Redenci\u00f3n<\/itemname><br><stats><attention>+20%<\/attention> de poder de curaciones y escudos.<br><attention>+200<\/attention> de vida<br><attention>+15<\/attention> de velocidad de habilidades<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br> <active>Activa -<\/active> <active>Intervenci\u00f3n:<\/active> Selecciona como objetivo un \u00e1rea dentro de un alcance de 5500. Despu\u00e9s de 2,5 s, invoca un rayo de luz que restaura 180 - 360 (progresa con el nivel de los aliados) de vida a los aliados y quema a los campeones enemigos un 10% de su vida m\u00e1xima como da\u00f1o verdadero (120 s de enfriamiento).<br><br><rules>El objeto se puede usar estando muerto. El da\u00f1o y la curaci\u00f3n se reducen un 50% si el objetivo ha recibido hace poco el efecto de otra <active>Intervenci\u00f3n<\/active>. El efecto progresa seg\u00fan el nivel del aliado.<\/rules>","item-3157":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Reloj de arena de Zhonya\" tooltip-var=\"item-3157\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3157-24 \"\/> Reloj de arena de Zhonya<\/itemname><br><stats><attention>+65<\/attention> de poder de habilidad<br><attention>+45<\/attention> de armadura<br><attention>+10<\/attention> de velocidad de habilidades<\/stats><br> <active>Activa -<\/active> <active>Estasis:<\/active> Se puede usar para volverse invulnerable e inalcanzable durante 2.5 s, pero no se puede realizar ninguna otra acci\u00f3n durante ese tiempo (120 s de enfriamiento).","perksdetails-1322437002":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8214.png\" width=\"48\" height=\"48\" alt=\"Invocar a Aery\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Invocar a Aery<\/div>Tus ataques y habilidades env\u00edan a Aery a un objetivo para da\u00f1ar a los enemigos u otorgar un escudo a los aliados.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8275.png\" width=\"30\" height=\"30\" alt=\"Capa del nimbo\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Capa del nimbo<\/div>Despu\u00e9s de lanzar un hechizo de invocador, obtienes un breve aumento de velocidad de movimiento que te permite atravesar unidades.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8210.png\" width=\"30\" height=\"30\" alt=\"Trascendencia\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Trascendencia<\/div>Obtienes bonificaciones al alcanzar los siguientes niveles:<br>Nivel 5: +5 de velocidad de habilidades <br>Nivel 8: +5 de velocidad de habilidades <br>Nivel 11: al conseguir un asesinato o asistencia, se reduce el enfriamiento restante de las habilidades b\u00e1sicas un 20%.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8232.png\" width=\"30\" height=\"30\" alt=\"Caminar sobre agua\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Caminar sobre agua<\/div>Obtienes velocidad de movimiento y PH o DA adaptable cuando est\u00e1s en el r\u00edo.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8347.png\" width=\"30\" height=\"30\" alt=\"Perspicacia c\u00f3smica\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Perspicacia c\u00f3smica<\/div>+18 de velocidad de hechizos de invocador<br>+10 de velocidad de objetos<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8321.png\" width=\"30\" height=\"30\" alt=\"Mercado del futuro\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Mercado del futuro<\/div>Puedes endeudarte para comprar objetos.<\/div><\/div><div class=\"statPerks\"><\/div><\/div>","spell-4":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Destello\" tooltip-var=\"spell-4\" height=\"24\" width=\"24\" class=\"requireTooltip spell-4-24 \"\/> Destello<\/itemname><br>Teleporta a tu campe\u00f3n una corta distancia hacia la posici\u00f3n del cursor.","spell-11":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Aplastar\" tooltip-var=\"spell-11\" height=\"24\" width=\"24\" class=\"requireTooltip spell-11-24 \"\/> Aplastar<\/itemname><br>Inflige de 390 a 1000 de da\u00f1o verdadero (seg\u00fan el nivel del campe\u00f3n) a monstruos \u00e9picos, gigantes o medianos o a s\u00fabditos enemigos. Regenera vida en funci\u00f3n de tu vida m\u00e1xima cuando se utiliza contra monstruos.","item-2065":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Canci\u00f3n de batalla de Shurelya\" tooltip-var=\"item-2065\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-2065-24 \"\/> Canci\u00f3n de batalla de Shurelya<\/itemname><br><stats><attention>+40<\/attention> de poder de habilidad<br><attention>+200<\/attention> de vida<br><attention>+20<\/attention> de velocidad de habilidades<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br> <active>Activa -<\/active> <active>Inspiraci\u00f3n:<\/active> Otorga a los aliados cercanos un 60% de velocidad de movimiento que disminuye durante 4 s (75 s  de enfriamiento).<br><li><passive>Motivaci\u00f3n:<\/passive> Al potenciar o proteger a otro campe\u00f3n aliado, ambos aliados obtienen un 25% de velocidad de movimiento durante 1.5 s.<br><br><rarityMythic>Pasiva m\u00edtica:<\/rarityMythic> Se otorga a todos los dem\u00e1s objetos legendarios <attention> 5<\/attention> de velocidad de habilidades.<br><br><rules>Los aliados solo pueden verse afectados por Motivaci\u00f3n una vez cada 4 s.<\/rules>","item-2055":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Guardi\u00e1n de control\" tooltip-var=\"item-2055\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-2055-24 \"\/> Guardi\u00e1n de control<\/itemname><br><stats><\/stats> <active>Activa - Consumir:<\/active> Coloca un poderoso guardi\u00e1n de control que otorga visi\u00f3n de la zona circundante. Este dispositivo tambi\u00e9n revela las trampas invisibles, los enemigos camuflados y deshabilita los guardianes invisibles del enemigo. <br><br><rules>Puedes llevar hasta 2 guardianes de control. Los guardianes de control no deshabilitan otros guardianes de control.<\/rules>","item-3364":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Lente del or\u00e1culo\" tooltip-var=\"item-3364\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3364-24 \"\/> Lente del or\u00e1culo<\/itemname><br><stats><\/stats> <active>Activa - Talism\u00e1n:<\/active> Escudri\u00f1a tus alrededores, alerta sobre unidades enemigas y revela las trampas invisibles y los guardianes invisibles cercanos del enemigo (y los desactiva temporalmente) durante 10 s (90 - 60 s de enfriamiento).","perksdetails-61010771":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8214.png\" width=\"48\" height=\"48\" alt=\"Invocar a Aery\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Invocar a Aery<\/div>Tus ataques y habilidades env\u00edan a Aery a un objetivo para da\u00f1ar a los enemigos u otorgar un escudo a los aliados.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8275.png\" width=\"30\" height=\"30\" alt=\"Capa del nimbo\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Capa del nimbo<\/div>Despu\u00e9s de lanzar un hechizo de invocador, obtienes un breve aumento de velocidad de movimiento que te permite atravesar unidades.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8210.png\" width=\"30\" height=\"30\" alt=\"Trascendencia\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Trascendencia<\/div>Obtienes bonificaciones al alcanzar los siguientes niveles:<br>Nivel 5: +5 de velocidad de habilidades <br>Nivel 8: +5 de velocidad de habilidades <br>Nivel 11: al conseguir un asesinato o asistencia, se reduce el enfriamiento restante de las habilidades b\u00e1sicas un 20%.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8232.png\" width=\"30\" height=\"30\" alt=\"Caminar sobre agua\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Caminar sobre agua<\/div>Obtienes velocidad de movimiento y PH o DA adaptable cuando est\u00e1s en el r\u00edo.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8313.png\" width=\"30\" height=\"30\" alt=\"Momento oportuno\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Momento oportuno<\/div>Obtienes un Cron\u00f3metro iniciado gratis. Despu\u00e9s de 14 minutos, se puede activar para entrar en estasis. <br>Cada asesinato o asistencia que consigues reduce el tiempo en 120 s.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8347.png\" width=\"30\" height=\"30\" alt=\"Perspicacia c\u00f3smica\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Perspicacia c\u00f3smica<\/div>+18 de velocidad de hechizos de invocador<br>+10 de velocidad de objetos<\/div><\/div><div class=\"statPerks\"><\/div><\/div>","item-3222":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Bendici\u00f3n de Mikael\" tooltip-var=\"item-3222\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3222-24 \"\/> Bendici\u00f3n de Mikael<\/itemname><br><stats><attention>+20%<\/attention> de poder de curaciones y escudos.<br><attention>+50<\/attention> de resistencia m\u00e1gica<br><attention>+15<\/attention> de velocidad de habilidades<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br> <active>Activa -<\/active> <active>Purificar:<\/active> Elimina todos los efectos de control de adversario (excepto supresi\u00f3n y levantamientos por los aires) de un campe\u00f3n aliado y restaura 100 - 200 (seg\u00fan el nivel del aliado) de vida (120 s de enfriamiento).","item-1082":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Sello oscuro\" tooltip-var=\"item-1082\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1082-24 \"\/> Sello oscuro<\/itemname><br><stats><attention>+15<\/attention> de poder de habilidad<br><attention>+40<\/attention> de vida<\/stats><br><li><passive>Gloria:<\/passive> Otorga 2 acumulaciones por asesinato de campe\u00f3n y 1 acumulaciones por asistencia (hasta 10 acumulaciones en total). Al morir se pierden 4 acumulaciones.<li><passive>Pavor:<\/passive> Otorga 5 de poder de habilidad por acumulaci\u00f3n de <passive>Gloria<\/passive>.<br><br><rules>Las acumulaciones de <passive>Gloria<\/passive> obtenidas pasan de este objeto a Robaalmas de Mejai.<\/rules>","perksdetails-2123163166":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8214.png\" width=\"48\" height=\"48\" alt=\"Invocar a Aery\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Invocar a Aery<\/div>Tus ataques y habilidades env\u00edan a Aery a un objetivo para da\u00f1ar a los enemigos u otorgar un escudo a los aliados.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8226.png\" width=\"30\" height=\"30\" alt=\"Banda de man\u00e1\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Banda de man\u00e1<\/div>Golpear a un campe\u00f3n enemigo con una habilidad aumenta permanentemente tu man\u00e1 m\u00e1ximo en 25, hasta 250 de man\u00e1.<br>Tras llegar a 250 de man\u00e1 adicional, recuperas un 1% del man\u00e1 que te falte cada 5 s.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8210.png\" width=\"30\" height=\"30\" alt=\"Trascendencia\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Trascendencia<\/div>Obtienes bonificaciones al alcanzar los siguientes niveles:<br>Nivel 5: +5 de velocidad de habilidades <br>Nivel 8: +5 de velocidad de habilidades <br>Nivel 11: al conseguir un asesinato o asistencia, se reduce el enfriamiento restante de las habilidades b\u00e1sicas un 20%.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8232.png\" width=\"30\" height=\"30\" alt=\"Caminar sobre agua\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Caminar sobre agua<\/div>Obtienes velocidad de movimiento y PH o DA adaptable cuando est\u00e1s en el r\u00edo.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8009.png\" width=\"30\" height=\"30\" alt=\"Claridad mental\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Claridad mental<\/div>Aumenta tu regeneraci\u00f3n de man\u00e1 o energ\u00eda al infligir da\u00f1o a un campe\u00f3n enemigo. Los asesinatos o asistencias restauran man\u00e1 o energ\u00eda.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/9105.png\" width=\"30\" height=\"30\" alt=\"Leyenda: Tenacidad\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Leyenda: Tenacidad<\/div>Los asesinatos y asistencias otorgan tenacidad permanente. <\/div><\/div><div class=\"statPerks\"><\/div><\/div>","item-1004":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Amuleto de las hadas\" tooltip-var=\"item-1004\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1004-24 \"\/> Amuleto de las hadas<\/itemname><br><stats><attention>+50%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats>","perksdetails-3163125464":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8214.png\" width=\"48\" height=\"48\" alt=\"Invocar a Aery\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Invocar a Aery<\/div>Tus ataques y habilidades env\u00edan a Aery a un objetivo para da\u00f1ar a los enemigos u otorgar un escudo a los aliados.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8275.png\" width=\"30\" height=\"30\" alt=\"Capa del nimbo\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Capa del nimbo<\/div>Despu\u00e9s de lanzar un hechizo de invocador, obtienes un breve aumento de velocidad de movimiento que te permite atravesar unidades.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8210.png\" width=\"30\" height=\"30\" alt=\"Trascendencia\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Trascendencia<\/div>Obtienes bonificaciones al alcanzar los siguientes niveles:<br>Nivel 5: +5 de velocidad de habilidades <br>Nivel 8: +5 de velocidad de habilidades <br>Nivel 11: al conseguir un asesinato o asistencia, se reduce el enfriamiento restante de las habilidades b\u00e1sicas un 20%.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8232.png\" width=\"30\" height=\"30\" alt=\"Caminar sobre agua\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Caminar sobre agua<\/div>Obtienes velocidad de movimiento y PH o DA adaptable cuando est\u00e1s en el r\u00edo.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8306.png\" width=\"30\" height=\"30\" alt=\"Destello hextech\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Destello hextech<\/div>Cuando Destello est\u00e1 en enfriamiento, se reemplaza por Hextello.<br>Hextello: Tras una canalizaci\u00f3n, te trasladas a una ubicaci\u00f3n nueva.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8347.png\" width=\"30\" height=\"30\" alt=\"Perspicacia c\u00f3smica\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Perspicacia c\u00f3smica<\/div>+18 de velocidad de hechizos de invocador<br>+10 de velocidad de objetos<\/div><\/div><div class=\"statPerks\"><\/div><\/div>","item-3114":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"\u00cddolo prohibido\" tooltip-var=\"item-3114\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3114-24 \"\/> \u00cddolo prohibido<\/itemname><br><stats><attention>+50%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<br><attention>+10%<\/attention> de poder de curaciones y escudos.<\/stats>","item-3504":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Incensario ardiente\" tooltip-var=\"item-3504\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3504-24 \"\/> Incensario ardiente<\/itemname><br><stats><attention>+60<\/attention> de poder de habilidad<br><attention>+10%<\/attention> de poder de curaciones y escudos.<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br><li><passive>Santificar:<\/passive> Cuando usas tus curaciones o escudos sobre otros campeones aliados, ambos obten\u00e9is durante 6 s un 10% - 30% (seg\u00fan el nivel del aliado) de velocidad de ataque y 5 - 20 (seg\u00fan el nivel del aliado) de da\u00f1o m\u00e1gico  al golpear. <br><br><rules>El efecto progresa seg\u00fan el nivel del aliado.<\/rules>","item-3117":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Botas de movilidad\" tooltip-var=\"item-3117\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3117-24 \"\/> Botas de movilidad<\/itemname><br><stats><\/stats><attention> 25<\/attention> de velocidad de movimiento <li>Al estar fuera de combate durante al menos 5 s, aumenta el efecto de este objeto a <attention> 115<\/attention>.","perksdetails-3035767893":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8465.png\" width=\"48\" height=\"48\" alt=\"Protector\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Protector<\/div>Protege a los aliados sobre los que has lanzado un hechizo y a aquellos que est\u00e1n muy cerca. Si t\u00fa o un campe\u00f3n aliado protegido cercano recib\u00eds da\u00f1o seg\u00fan el nivel, ambos obten\u00e9is un escudo.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8401.png\" width=\"30\" height=\"30\" alt=\"Golpe de escudo\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Golpe de escudo<\/div>Siempre que obtengas un escudo, tu siguiente ataque b\u00e1sico contra un campe\u00f3n inflige da\u00f1o adaptable adicional.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8473.png\" width=\"30\" height=\"30\" alt=\"Revestimiento de huesos\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Revestimiento de huesos<\/div>Tras recibir da\u00f1o de un campe\u00f3n enemigo, los siguientes 3 hechizos o ataques que recibas de ellos infligen 30-60 menos de da\u00f1o.<br>Duraci\u00f3n: 1.5 s.<br>Enfriamiento: 45 s.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8453.png\" width=\"30\" height=\"30\" alt=\"Revitalizar\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Revitalizar<\/div>Obtienes un 5% de poder de curaciones y escudos.<br>Las curaciones y los escudos que lanzas o recibes son un 10% m\u00e1s potentes para objetivos que se encuentren por debajo del 40% de vida.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8345.png\" width=\"30\" height=\"30\" alt=\"Entrega de galletas\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Entrega de galletas<\/div>Consigues una galleta gratis cada 2 min hasta el minuto 6. Consumir o vender una galleta aumenta permanentemente tu man\u00e1 m\u00e1ximo y restaura vida y man\u00e1.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8352.png\" width=\"30\" height=\"30\" alt=\"T\u00f3nico de distorsi\u00f3n temporal\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">T\u00f3nico de distorsi\u00f3n temporal<\/div>Las pociones y las galletas proporcionan algo de restauraci\u00f3n inmediata. Obtienes velocidad de movimiento mientras est\u00e9s bajo sus efectos.<\/div><\/div><div class=\"statPerks\"><\/div><\/div>","spell-3":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Extenuaci\u00f3n\" tooltip-var=\"spell-3\" height=\"24\" width=\"24\" class=\"requireTooltip spell-3-24 \"\/> Extenuaci\u00f3n<\/itemname><br>Exten\u00faa al campe\u00f3n enemigo objetivo, lo que reduce en un 30% su velocidad de movimiento y en un 40% su da\u00f1o durante 3 s.","item-3853":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Fragmento de Hielo Puro\" tooltip-var=\"item-3853\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3853-24 \"\/> Fragmento de Hielo Puro<\/itemname><br><stats><attention>+40<\/attention> de poder de habilidad<br><attention>+75<\/attention> de vida<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<br><attention>+3<\/attention> de oro cada 10 segundos<\/stats><br> <active>Activa -<\/active> <active>Guardi\u00e1n:<\/active> Coloca un guardi\u00e1n invisible en el suelo que los enemigos no pueden ver, pero otorga a tu equipo visi\u00f3n de la zona circundante. Contiene hasta 0 guardianes invisibles que se recargan al visitar la tienda. <br><br><rules>Este objeto otorga menos oro de los s\u00fabditos si matas una cantidad excesiva.<\/rules>"};
+    var newTooltipData = {"item-3340":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Guardi\u00e1n invisible\" tooltip-var=\"item-3340\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3340-24 \"\/> Guardi\u00e1n invisible<\/itemname><br><stats><\/stats> <active>Activa - Talism\u00e1n:<\/active> Coloca un guardi\u00e1n invisible en el suelo que dura 90 - 120 s y los enemigos no pueden ver, pero otorga a tu equipo visi\u00f3n de la zona circundante. Almacena hasta 2 guardianes invisibles y genera un nuevo guardi\u00e1n cada 240 - 120 s. ","item-1039":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Espada de granizo\" tooltip-var=\"item-1039\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1039-24 \"\/> Espada de granizo<\/itemname><br><stats><\/stats>10% de omnisucci\u00f3n contra monstruos<br><li><passive>Abrasar:<\/passive> Da\u00f1ar a monstruos de la jungla les inflige (60 + 30% del poder de habilidad + 5% del da\u00f1o de ataque adicional + 2% de la vida adicional) de da\u00f1o m\u00e1gico por quemadura a lo largo de 5 s.<li><passive>Camino desalentador:<\/passive> Utilizar Aplastar 5 veces consume este objeto para mejorar Aplastar a <attention>Aplastamiento desalentador<\/attention>. Usar Aplastamiento desalentador contra campeones inflige 20 - 156 (seg\u00fan el nivel) de da\u00f1o verdadero y roba un 20% de su velocidad de movimiento durante 2 s.<li><passive>Cazador:<\/passive> Matar a monstruos gigantes de la jungla otorga experiencia adicional.<li><passive>Respiro:<\/passive> Regeneras hasta 8 - 18 (seg\u00fan el nivel) de man\u00e1 por segundo cuando te encuentras en la jungla o en el r\u00edo. <br><br><rules>Consumir este objeto otorga de forma permanente todos los efectos del objeto. Si has conseguido m\u00e1s oro de s\u00fabditos que de monstruos, se reduce mucho el oro y la experiencia que obtienes de s\u00fabditos. La curaci\u00f3n de los ataques con \u00e1rea de efecto no se reduce. <\/rules>","item-2031":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Poci\u00f3n reutilizable\" tooltip-var=\"item-2031\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-2031-24 \"\/> Poci\u00f3n reutilizable<\/itemname><br><stats><\/stats> <active>Activa - Consumir:<\/active> Consume una carga para restaurar 125 de vida a lo largo de 12 s. Contiene hasta 2 cargas y se rellena al visitar la tienda.","item-4642":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Espejo de cristal de Bandle\" tooltip-var=\"item-4642\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-4642-24 \"\/> Espejo de cristal de Bandle<\/itemname><br><stats><attention>+20<\/attention> de poder de habilidad<br><attention>+10<\/attention> de velocidad de habilidades<br><attention>+50%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats>","item-6617":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Renovaci\u00f3n de piedra lunar\" tooltip-var=\"item-6617\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-6617-24 \"\/> Renovaci\u00f3n de piedra lunar<\/itemname><br><stats><attention>+40<\/attention> de poder de habilidad<br><attention>+200<\/attention> de vida<br><attention>+20<\/attention> de velocidad de habilidades<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br><li><passive>Gracia estelar:<\/passive> Al afectar a campeones con ataques o habilidades en combate, restaura 70 de vida al aliado cercano m\u00e1s herido (2 s de enfriamiento). Por cada segundo en combate contra campeones, tu poder de curaciones y escudos aumenta un 4% (hasta un m\u00e1ximo de un 20%).<br><br><rarityMythic>Pasiva m\u00edtica:<\/rarityMythic> Se otorga a todos los dem\u00e1s objetos legendarios <attention>10<\/attention> de vida adicional de la curaci\u00f3n de <passive>Gracia estelar<\/passive>.","item-6616":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Bast\u00f3n de aguas fluidas\" tooltip-var=\"item-6616\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-6616-24 \"\/> Bast\u00f3n de aguas fluidas<\/itemname><br><stats><attention>+50<\/attention> de poder de habilidad<br><attention>+10%<\/attention> de poder de curaciones y escudos.<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br><li><passive>R\u00e1pidos:<\/passive> Al curar u otorgar un escudo a un aliado, ambos obten\u00e9is un 20 - 40 de poder de habilidad y 20 de velocidad de habilidades durante 4 s.<br><br><rules>El efecto progresa seg\u00fan el nivel del aliado.<\/rules>","item-3504":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Incensario ardiente\" tooltip-var=\"item-3504\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3504-24 \"\/> Incensario ardiente<\/itemname><br><stats><attention>+60<\/attention> de poder de habilidad<br><attention>+10%<\/attention> de poder de curaciones y escudos.<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br><li><passive>Santificar:<\/passive> Cuando usas tus curaciones o escudos sobre otros campeones aliados, ambos obten\u00e9is durante 6 s un 10% - 30% (seg\u00fan el nivel del aliado) de velocidad de ataque y 5 - 20 (seg\u00fan el nivel del aliado) de da\u00f1o m\u00e1gico  al golpear. <br><br><rules>El efecto progresa seg\u00fan el nivel del aliado.<\/rules>","item-3158":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Botas jonias de la lucidez\" tooltip-var=\"item-3158\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3158-24 \"\/> Botas jonias de la lucidez<\/itemname><br><stats><attention>+20<\/attention> de velocidad de habilidades<br><attention>+45<\/attention> de velocidad de movimiento<\/stats><br><li>Otorga 12 de velocidad de hechizos de invocador.<br><br>''Este objeto est\u00e1 dedicado a la victoria de Jonia contra Noxus en la revancha por las provincias meridionales del 10 de diciembre del 20 CLE''.","item-3107":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Redenci\u00f3n\" tooltip-var=\"item-3107\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3107-24 \"\/> Redenci\u00f3n<\/itemname><br><stats><attention>+20%<\/attention> de poder de curaciones y escudos.<br><attention>+200<\/attention> de vida<br><attention>+15<\/attention> de velocidad de habilidades<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br> <active>Activa -<\/active> <active>Intervenci\u00f3n:<\/active> Selecciona como objetivo un \u00e1rea dentro de un alcance de 5500. Despu\u00e9s de 2,5 s, invoca un rayo de luz que restaura 180 - 360 (progresa con el nivel de los aliados) de vida a los aliados y quema a los campeones enemigos un 10% de su vida m\u00e1xima como da\u00f1o verdadero (120 s de enfriamiento).<br><br><rules>El objeto se puede usar estando muerto. El da\u00f1o y la curaci\u00f3n se reducen un 50% si el objetivo ha recibido hace poco el efecto de otra <active>Intervenci\u00f3n<\/active>. El efecto progresa seg\u00fan el nivel del aliado.<\/rules>","item-3011":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Putrificador tecnoqu\u00edmico\" tooltip-var=\"item-3011\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3011-24 \"\/> Putrificador tecnoqu\u00edmico<\/itemname><br><stats><attention>+55<\/attention> de poder de habilidad<br><attention>+20<\/attention> de velocidad de habilidades<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br><li><passive>Toxina f\u00fangica:<\/passive> Infligir da\u00f1o m\u00e1gico aplica un 40% de Heridas graves a campeones durante 3 s. Las curaciones y escudos sobre otro aliado os potencian a ambos y provocan que vuestro siguiente da\u00f1o contra campeones enemigos aplique un 60% de Heridas graves.<br><br><rules>Heridas graves reduce los efectos de curaci\u00f3n y regeneraci\u00f3n.<\/rules>","item-3157":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Reloj de arena de Zhonya\" tooltip-var=\"item-3157\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3157-24 \"\/> Reloj de arena de Zhonya<\/itemname><br><stats><attention>+65<\/attention> de poder de habilidad<br><attention>+45<\/attention> de armadura<br><attention>+10<\/attention> de velocidad de habilidades<\/stats><br> <active>Activa -<\/active> <active>Estasis:<\/active> Se puede usar para volverse invulnerable e inalcanzable durante 2.5 s, pero no se puede realizar ninguna otra acci\u00f3n durante ese tiempo (120 s de enfriamiento).","perksdetails-229007392":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8214.png\" width=\"48\" height=\"48\" alt=\"Invocar a Aery\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Invocar a Aery<\/div>Tus ataques y habilidades env\u00edan a Aery a un objetivo para da\u00f1ar a los enemigos u otorgar un escudo a los aliados.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8275.png\" width=\"30\" height=\"30\" alt=\"Capa del nimbo\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Capa del nimbo<\/div>Despu\u00e9s de lanzar un hechizo de invocador, obtienes un breve aumento de velocidad de movimiento que te permite atravesar unidades.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8210.png\" width=\"30\" height=\"30\" alt=\"Trascendencia\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Trascendencia<\/div>Obtienes bonificaciones al alcanzar los siguientes niveles:<br>Nivel 5: +5 de velocidad de habilidades <br>Nivel 8: +5 de velocidad de habilidades <br>Nivel 11: al conseguir un asesinato o asistencia, se reduce el enfriamiento restante de las habilidades b\u00e1sicas un 20%.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8232.png\" width=\"30\" height=\"30\" alt=\"Caminar sobre agua\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Caminar sobre agua<\/div>Obtienes velocidad de movimiento y PH o DA adaptable cuando est\u00e1s en el r\u00edo.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8306.png\" width=\"30\" height=\"30\" alt=\"Destello hextech\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Destello hextech<\/div>Cuando Destello est\u00e1 en enfriamiento, se reemplaza por Hextello.<br>Hextello: Tras una canalizaci\u00f3n, te trasladas a una ubicaci\u00f3n nueva.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8321.png\" width=\"30\" height=\"30\" alt=\"Mercado del futuro\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Mercado del futuro<\/div>Puedes endeudarte para comprar objetos.<\/div><\/div><div class=\"statPerks\"><\/div><\/div>","spell-11":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Aplastar\" tooltip-var=\"spell-11\" height=\"24\" width=\"24\" class=\"requireTooltip spell-11-24 \"\/> Aplastar<\/itemname><br>Inflige de 390 a 1000 de da\u00f1o verdadero (seg\u00fan el nivel del campe\u00f3n) a monstruos \u00e9picos, gigantes o medianos o a s\u00fabditos enemigos. Regenera vida en funci\u00f3n de tu vida m\u00e1xima cuando se utiliza contra monstruos.","spell-4":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Destello\" tooltip-var=\"spell-4\" height=\"24\" width=\"24\" class=\"requireTooltip spell-4-24 \"\/> Destello<\/itemname><br>Teleporta a tu campe\u00f3n una corta distancia hacia la posici\u00f3n del cursor.","item-2065":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Canci\u00f3n de batalla de Shurelya\" tooltip-var=\"item-2065\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-2065-24 \"\/> Canci\u00f3n de batalla de Shurelya<\/itemname><br><stats><attention>+40<\/attention> de poder de habilidad<br><attention>+200<\/attention> de vida<br><attention>+20<\/attention> de velocidad de habilidades<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br> <active>Activa -<\/active> <active>Inspiraci\u00f3n:<\/active> Otorga a los aliados cercanos un 60% de velocidad de movimiento que disminuye durante 4 s (75 s  de enfriamiento).<br><li><passive>Motivaci\u00f3n:<\/passive> Al potenciar o proteger a otro campe\u00f3n aliado, ambos aliados obtienen un 25% de velocidad de movimiento durante 1.5 s.<br><br><rarityMythic>Pasiva m\u00edtica:<\/rarityMythic> Se otorga a todos los dem\u00e1s objetos legendarios <attention> 5<\/attention> de velocidad de habilidades.<br><br><rules>Los aliados solo pueden verse afectados por Motivaci\u00f3n una vez cada 4 s.<\/rules>","item-3222":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Bendici\u00f3n de Mikael\" tooltip-var=\"item-3222\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3222-24 \"\/> Bendici\u00f3n de Mikael<\/itemname><br><stats><attention>+20%<\/attention> de poder de curaciones y escudos.<br><attention>+50<\/attention> de resistencia m\u00e1gica<br><attention>+15<\/attention> de velocidad de habilidades<br><attention>+100%<\/attention> de regeneraci\u00f3n de man\u00e1 b\u00e1sica<\/stats><br> <active>Activa -<\/active> <active>Purificar:<\/active> Elimina todos los efectos de control de adversario (excepto supresi\u00f3n y levantamientos por los aires) de un campe\u00f3n aliado y restaura 100 - 200 (seg\u00fan el nivel del aliado) de vida (120 s de enfriamiento).","item-3117":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Botas de movilidad\" tooltip-var=\"item-3117\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3117-24 \"\/> Botas de movilidad<\/itemname><br><stats><\/stats><attention> 25<\/attention> de velocidad de movimiento <li>Al estar fuera de combate durante al menos 5 s, aumenta el efecto de este objeto a <attention> 115<\/attention>.","item-1052":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Tomo amplificador\" tooltip-var=\"item-1052\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1052-24 \"\/> Tomo amplificador<\/itemname><br><stats><attention>+20<\/attention> de poder de habilidad<\/stats>","item-3363":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Visi\u00f3n lejana modificada\" tooltip-var=\"item-3363\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3363-24 \"\/> Visi\u00f3n lejana modificada<\/itemname><br><stats><\/stats> <active>Activa - Talism\u00e1n:<\/active> Revela una zona y coloca un guardi\u00e1n visible y vulnerable a un m\u00e1ximo de 4000 unidades de distancia. Los aliados no pueden seleccionar este guardi\u00e1n con habilidades o hechizos de invocador (198 - 99 s de enfriamiento).","perksdetails-3486821454":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/9923.png\" width=\"48\" height=\"48\" alt=\"Lluvia de cuchillas\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Lluvia de cuchillas<\/div>Obtienes una gran cantidad de velocidad de ataque en los primeros 3 ataques contra campeones enemigos.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8126.png\" width=\"30\" height=\"30\" alt=\"Golpe bajo\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Golpe bajo<\/div>Infliges da\u00f1o verdadero adicional a los campeones enemigos con movimiento o acciones debilitadas. <\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8138.png\" width=\"30\" height=\"30\" alt=\"Colecci\u00f3n de globos oculares\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Colecci\u00f3n de globos oculares<\/div>Coleccionas globos oculares por las eliminaciones de campeones. Obtienes DA o PH adaptable permanente por cada globo ocular y una cantidad adicional al completar la colecci\u00f3n.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8105.png\" width=\"30\" height=\"30\" alt=\"Cazador incesante\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Cazador incesante<\/div>Los asesinatos o asistencias \u00fanicos otorgan  velocidad de movimiento fuera de combate de forma permanente. <\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8275.png\" width=\"30\" height=\"30\" alt=\"Capa del nimbo\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Capa del nimbo<\/div>Despu\u00e9s de lanzar un hechizo de invocador, obtienes un breve aumento de velocidad de movimiento que te permite atravesar unidades.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8232.png\" width=\"30\" height=\"30\" alt=\"Caminar sobre agua\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Caminar sobre agua<\/div>Obtienes velocidad de movimiento y PH o DA adaptable cuando est\u00e1s en el r\u00edo.<\/div><\/div><div class=\"statPerks\"><\/div><\/div>","item-3116":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Cetro de cristal de Rylai\" tooltip-var=\"item-3116\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3116-24 \"\/> Cetro de cristal de Rylai<\/itemname><br><stats><attention>+90<\/attention> de poder de habilidad<br><attention>+350<\/attention> de vida<\/stats><br><li><passive>Escarcha helada:<\/passive> Las habilidades de da\u00f1o ralentizan a los enemigos un 30% durante 1 s.","item-6656":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Escarcha eterna\" tooltip-var=\"item-6656\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-6656-24 \"\/> Escarcha eterna<\/itemname><br><stats><attention>+80<\/attention> de poder de habilidad<br><attention>+250<\/attention> de vida<br><attention>+600<\/attention> de man\u00e1<br><attention>+20<\/attention> de velocidad de habilidades<\/stats><br> <active>Activa -<\/active> <active>Glaciaci\u00f3n:<\/active> Inflige (100+30% del poder de habilidad) de da\u00f1o m\u00e1gico en un cono, lo que ralentiza a los enemigos un 65% durante 1.5 s. Inmoviliza a los enemigos que se encuentren en el centro del cono (30 s de enfriamiento).<br><rarityMythic>Pasiva m\u00edtica:<\/rarityMythic> Se otorga a todos los dem\u00e1s objetos legendarios <attention> 15<\/attention> de poder de habilidad. ","item-1082":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Sello oscuro\" tooltip-var=\"item-1082\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1082-24 \"\/> Sello oscuro<\/itemname><br><stats><attention>+15<\/attention> de poder de habilidad<br><attention>+40<\/attention> de vida<\/stats><br><li><passive>Gloria:<\/passive> Otorga 2 acumulaciones por asesinato de campe\u00f3n y 1 acumulaciones por asistencia (hasta 10 acumulaciones en total). Al morir se pierden 4 acumulaciones.<li><passive>Pavor:<\/passive> Otorga 5 de poder de habilidad por acumulaci\u00f3n de <passive>Gloria<\/passive>.<br><br><rules>Las acumulaciones de <passive>Gloria<\/passive> obtenidas pasan de este objeto a Robaalmas de Mejai.<\/rules>","item-4629":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Impulso c\u00f3smico\" tooltip-var=\"item-4629\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-4629-24 \"\/> Impulso c\u00f3smico<\/itemname><br><stats><attention>+75<\/attention> de poder de habilidad<br><attention>+200<\/attention> de vida<br><attention>+20<\/attention> de velocidad de habilidades<\/stats><br><li><passive>Danza de hechizos:<\/passive> Si tienes al menos 160 de poder de habilidad, obtienes 20 de velocidad de habilidades y 10-30 de velocidad de movimiento.","item-3364":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Lente del or\u00e1culo\" tooltip-var=\"item-3364\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3364-24 \"\/> Lente del or\u00e1culo<\/itemname><br><stats><\/stats> <active>Activa - Talism\u00e1n:<\/active> Escudri\u00f1a tus alrededores, alerta sobre unidades enemigas y revela las trampas invisibles y los guardianes invisibles cercanos del enemigo (y los desactiva temporalmente) durante 10 s (90 - 60 s de enfriamiento).","perksdetails-3035767893":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8465.png\" width=\"48\" height=\"48\" alt=\"Protector\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Protector<\/div>Protege a los aliados sobre los que has lanzado un hechizo y a aquellos que est\u00e1n muy cerca. Si t\u00fa o un campe\u00f3n aliado protegido cercano recib\u00eds da\u00f1o seg\u00fan el nivel, ambos obten\u00e9is un escudo.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8401.png\" width=\"30\" height=\"30\" alt=\"Golpe de escudo\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Golpe de escudo<\/div>Siempre que obtengas un escudo, tu siguiente ataque b\u00e1sico contra un campe\u00f3n inflige da\u00f1o adaptable adicional.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8473.png\" width=\"30\" height=\"30\" alt=\"Revestimiento de huesos\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Revestimiento de huesos<\/div>Tras recibir da\u00f1o de un campe\u00f3n enemigo, los siguientes 3 hechizos o ataques que recibas de ellos infligen 30-60 menos de da\u00f1o.<br>Duraci\u00f3n: 1.5 s.<br>Enfriamiento: 45 s.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8453.png\" width=\"30\" height=\"30\" alt=\"Revitalizar\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Revitalizar<\/div>Obtienes un 5% de poder de curaciones y escudos.<br>Las curaciones y los escudos que lanzas o recibes son un 10% m\u00e1s potentes para objetivos que se encuentren por debajo del 40% de vida.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8345.png\" width=\"30\" height=\"30\" alt=\"Entrega de galletas\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Entrega de galletas<\/div>Consigues una galleta gratis cada 2 min hasta el minuto 6. Consumir o vender una galleta aumenta permanentemente tu man\u00e1 m\u00e1ximo y restaura vida y man\u00e1.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8352.png\" width=\"30\" height=\"30\" alt=\"T\u00f3nico de distorsi\u00f3n temporal\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">T\u00f3nico de distorsi\u00f3n temporal<\/div>Las pociones y las galletas proporcionan algo de restauraci\u00f3n inmediata. Obtienes velocidad de movimiento mientras est\u00e9s bajo sus efectos.<\/div><\/div><div class=\"statPerks\"><\/div><\/div>","item-3067":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Gema avivadora\" tooltip-var=\"item-3067\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3067-24 \"\/> Gema avivadora<\/itemname><br><stats><attention>+200<\/attention> de vida<br><attention>+10<\/attention> de velocidad de habilidades<\/stats>","item-2055":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Guardi\u00e1n de control\" tooltip-var=\"item-2055\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-2055-24 \"\/> Guardi\u00e1n de control<\/itemname><br><stats><\/stats> <active>Activa - Consumir:<\/active> Coloca un poderoso guardi\u00e1n de control que otorga visi\u00f3n de la zona circundante. Este dispositivo tambi\u00e9n revela las trampas invisibles, los enemigos camuflados y deshabilita los guardianes invisibles del enemigo. <br><br><rules>Puedes llevar hasta 2 guardianes de control. Los guardianes de control no deshabilitan otros guardianes de control.<\/rules>","perksdetails-1391203268":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8214.png\" width=\"48\" height=\"48\" alt=\"Invocar a Aery\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Invocar a Aery<\/div>Tus ataques y habilidades env\u00edan a Aery a un objetivo para da\u00f1ar a los enemigos u otorgar un escudo a los aliados.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8226.png\" width=\"30\" height=\"30\" alt=\"Banda de man\u00e1\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Banda de man\u00e1<\/div>Golpear a un campe\u00f3n enemigo con una habilidad aumenta permanentemente tu man\u00e1 m\u00e1ximo en 25, hasta 250 de man\u00e1.<br>Tras llegar a 250 de man\u00e1 adicional, recuperas un 1% del man\u00e1 que te falte cada 5 s.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8234.png\" width=\"30\" height=\"30\" alt=\"Celeridad\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Celeridad<\/div>Todas las bonificaciones de velocidad de movimiento son un 7% m\u00e1s efectivas sobre ti y tu velocidad de movimiento aumenta un 1%.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8237.png\" width=\"30\" height=\"30\" alt=\"Pirol\u00e1ser\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Pirol\u00e1ser<\/div>La primera habilidad con da\u00f1o que aciertes cada 10 s prende fuego a los campeones.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8345.png\" width=\"30\" height=\"30\" alt=\"Entrega de galletas\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Entrega de galletas<\/div>Consigues una galleta gratis cada 2 min hasta el minuto 6. Consumir o vender una galleta aumenta permanentemente tu man\u00e1 m\u00e1ximo y restaura vida y man\u00e1.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8347.png\" width=\"30\" height=\"30\" alt=\"Perspicacia c\u00f3smica\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Perspicacia c\u00f3smica<\/div>+18 de velocidad de hechizos de invocador<br>+10 de velocidad de objetos<\/div><\/div><div class=\"statPerks\"><\/div><\/div>"};
     if (window.tooltipData) {
         window.tooltipData = Object.assign(window.tooltipData, newTooltipData);
     } else {
@@ -5568,18 +5587,18 @@ window['nitroAds'].createAd('mobile', {
 </script>                        </div>
 
                         <div style="margin-top:0px; margin-bottom:0px; position: relative;">
-                        <div id="adasync236695" class="text-center"><div id="horizBottom"></div></div>
+                        <div id="adasync3750" class="text-center"><div id="horizBottom"></div></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(true){
-                                            document.getElementById('adasync236695').innerHTML = '<div id="horizBottom"></div>';
+                                            document.getElementById('adasync3750').innerHTML = '<div id="horizBottom"></div>';
                                             window['nitroAds'].createAd("horizBottom", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[728, 90]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(true) {
-                                            document.getElementById('adasync236695').innerHTML = '<div id="horizBottom-mobile"></div>';
+                                            document.getElementById('adasync3750').innerHTML = '<div id="horizBottom-mobile"></div>';
                                             window['nitroAds'].createAd("horizBottom-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250], [320, 50]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -5603,18 +5622,18 @@ window['nitroAds'].createAd('mobile', {
             </div>
 
             <div style="margin-top:0px; margin-bottom:0px; position: relative;">
-                        <div id="adasync661623" class="text-center"><div id="comments300x250"></div></div>
+                        <div id="adasync353285" class="text-center"><div id="comments300x250"></div></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(true){
-                                            document.getElementById('adasync661623').innerHTML = '<div id="comments300x250"></div>';
+                                            document.getElementById('adasync353285').innerHTML = '<div id="comments300x250"></div>';
                                             window['nitroAds'].createAd("comments300x250", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(false) {
-                                            document.getElementById('adasync661623').innerHTML = '<div id="comments300x250-mobile"></div>';
+                                            document.getElementById('adasync353285').innerHTML = '<div id="comments300x250-mobile"></div>';
                                             window['nitroAds'].createAd("comments300x250-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -5642,7 +5661,7 @@ window['nitroAds'].createAd('mobile', {
                                 <td>
                                     <div class="row">
                                         <div class="medium-10 small-24 columns">
-                                            <img id="captcha" width="120" height="40" title="Click to reload" alt="Captcha" src="/captcha.php?k=rerOSb">
+                                            <img id="captcha" width="120" height="40" title="Click to reload" alt="Captcha" src="/captcha.php?k=PNS4W4">
                                         </div>
 
                                         <div class="medium-14 small-24 columns">
@@ -5666,7 +5685,7 @@ window['nitroAds'].createAd('mobile', {
                         </tbody>
                     </table>
 
-                    <input id="rk" class="textform" type="hidden" size="25" name="rk" value="rerOSb">
+                    <input id="rk" class="textform" type="hidden" size="25" name="rk" value="PNS4W4">
                 </form>
             </div>
         </div>
@@ -5681,7 +5700,7 @@ window['nitroAds'].createAd('mobile', {
                         Also available on <a href="https://play.google.com/store/apps/details?id=leagueofgraphs.com.leagueofgraphs" target="_blank">Android</a>.
                         <span class="ccpaLink" data-ccpa-link="1"></span>.
                         <u><a href="/legal">Legal</a></u>.
-                        Página cargada en 0.008 segundos                        <br>
+                        Página cargada en 0.007 segundos                        <br>
                     </div>
                 </div>
 
@@ -5722,13 +5741,13 @@ window['nitroAds'].createAd('mobile', {
             RecentSearchesHelper.addChampionSeen(427);
 
         var allChampions = [{"championId":"1","championSlug":"annie","championName":"Annie","championNameWithBuild":"Builds de Annie "},{"championId":"2","championSlug":"olaf","championName":"Olaf","championNameWithBuild":"Builds de Olaf "},{"championId":"3","championSlug":"galio","championName":"Galio","championNameWithBuild":"Builds de Galio "},{"championId":"4","championSlug":"twistedfate","championName":"Twisted Fate","championNameWithBuild":"Builds de Twisted Fate "},{"championId":"5","championSlug":"xinzhao","championName":"Xin Zhao","championNameWithBuild":"Builds de Xin Zhao "},{"championId":"6","championSlug":"urgot","championName":"Urgot","championNameWithBuild":"Builds de Urgot "},{"championId":"7","championSlug":"leblanc","championName":"LeBlanc","championNameWithBuild":"Builds de LeBlanc "},{"championId":"8","championSlug":"vladimir","championName":"Vladimir","championNameWithBuild":"Builds de Vladimir "},{"championId":"9","championSlug":"fiddlesticks","championName":"Fiddlesticks","championNameWithBuild":"Builds de Fiddlesticks "},{"championId":"10","championSlug":"kayle","championName":"Kayle","championNameWithBuild":"Builds de Kayle "},{"championId":"11","championSlug":"masteryi","championName":"Maestro Yi","championNameWithBuild":"Builds de Maestro Yi "},{"championId":"12","championSlug":"alistar","championName":"Alistar","championNameWithBuild":"Builds de Alistar "},{"championId":"13","championSlug":"ryze","championName":"Ryze","championNameWithBuild":"Builds de Ryze "},{"championId":"14","championSlug":"sion","championName":"Sion","championNameWithBuild":"Builds de Sion "},{"championId":"15","championSlug":"sivir","championName":"Sivir","championNameWithBuild":"Builds de Sivir "},{"championId":"16","championSlug":"soraka","championName":"Soraka","championNameWithBuild":"Builds de Soraka "},{"championId":"17","championSlug":"teemo","championName":"Teemo","championNameWithBuild":"Builds de Teemo "},{"championId":"18","championSlug":"tristana","championName":"Tristana","championNameWithBuild":"Builds de Tristana "},{"championId":"19","championSlug":"warwick","championName":"Warwick","championNameWithBuild":"Builds de Warwick "},{"championId":"20","championSlug":"nunu","championName":"Nunu y Willump","championNameWithBuild":"Builds de Nunu y Willump "},{"championId":"21","championSlug":"missfortune","championName":"Miss Fortune","championNameWithBuild":"Builds de Miss Fortune "},{"championId":"22","championSlug":"ashe","championName":"Ashe","championNameWithBuild":"Builds de Ashe "},{"championId":"23","championSlug":"tryndamere","championName":"Tryndamere","championNameWithBuild":"Builds de Tryndamere "},{"championId":"24","championSlug":"jax","championName":"Jax","championNameWithBuild":"Builds de Jax "},{"championId":"25","championSlug":"morgana","championName":"Morgana","championNameWithBuild":"Builds de Morgana "},{"championId":"26","championSlug":"zilean","championName":"Zilean","championNameWithBuild":"Builds de Zilean "},{"championId":"27","championSlug":"singed","championName":"Singed","championNameWithBuild":"Builds de Singed "},{"championId":"28","championSlug":"evelynn","championName":"Evelynn","championNameWithBuild":"Builds de Evelynn "},{"championId":"29","championSlug":"twitch","championName":"Twitch","championNameWithBuild":"Builds de Twitch "},{"championId":"30","championSlug":"karthus","championName":"Karthus","championNameWithBuild":"Builds de Karthus "},{"championId":"31","championSlug":"chogath","championName":"Cho'Gath","championNameWithBuild":"Builds de Cho'Gath "},{"championId":"32","championSlug":"amumu","championName":"Amumu","championNameWithBuild":"Builds de Amumu "},{"championId":"33","championSlug":"rammus","championName":"Rammus","championNameWithBuild":"Builds de Rammus "},{"championId":"34","championSlug":"anivia","championName":"Anivia","championNameWithBuild":"Builds de Anivia "},{"championId":"35","championSlug":"shaco","championName":"Shaco","championNameWithBuild":"Builds de Shaco "},{"championId":"36","championSlug":"drmundo","championName":"Dr. Mundo","championNameWithBuild":"Builds de Dr. Mundo "},{"championId":"37","championSlug":"sona","championName":"Sona","championNameWithBuild":"Builds de Sona "},{"championId":"38","championSlug":"kassadin","championName":"Kassadin","championNameWithBuild":"Builds de Kassadin "},{"championId":"39","championSlug":"irelia","championName":"Irelia","championNameWithBuild":"Builds de Irelia "},{"championId":"40","championSlug":"janna","championName":"Janna","championNameWithBuild":"Builds de Janna "},{"championId":"41","championSlug":"gangplank","championName":"Gangplank","championNameWithBuild":"Builds de Gangplank "},{"championId":"42","championSlug":"corki","championName":"Corki","championNameWithBuild":"Builds de Corki "},{"championId":"43","championSlug":"karma","championName":"Karma","championNameWithBuild":"Builds de Karma "},{"championId":"44","championSlug":"taric","championName":"Taric","championNameWithBuild":"Builds de Taric "},{"championId":"45","championSlug":"veigar","championName":"Veigar","championNameWithBuild":"Builds de Veigar "},{"championId":"48","championSlug":"trundle","championName":"Trundle","championNameWithBuild":"Builds de Trundle "},{"championId":"50","championSlug":"swain","championName":"Swain","championNameWithBuild":"Builds de Swain "},{"championId":"51","championSlug":"caitlyn","championName":"Caitlyn","championNameWithBuild":"Builds de Caitlyn "},{"championId":"53","championSlug":"blitzcrank","championName":"Blitzcrank","championNameWithBuild":"Builds de Blitzcrank "},{"championId":"54","championSlug":"malphite","championName":"Malphite","championNameWithBuild":"Builds de Malphite "},{"championId":"55","championSlug":"katarina","championName":"Katarina","championNameWithBuild":"Builds de Katarina "},{"championId":"56","championSlug":"nocturne","championName":"Nocturne","championNameWithBuild":"Builds de Nocturne "},{"championId":"57","championSlug":"maokai","championName":"Maokai","championNameWithBuild":"Builds de Maokai "},{"championId":"58","championSlug":"renekton","championName":"Renekton","championNameWithBuild":"Builds de Renekton "},{"championId":"59","championSlug":"jarvaniv","championName":"Jarvan IV","championNameWithBuild":"Builds de Jarvan IV "},{"championId":"60","championSlug":"elise","championName":"Elise","championNameWithBuild":"Builds de Elise "},{"championId":"61","championSlug":"orianna","championName":"Orianna","championNameWithBuild":"Builds de Orianna "},{"championId":"62","championSlug":"monkeyking","championName":"Wukong","championNameWithBuild":"Builds de Wukong "},{"championId":"63","championSlug":"brand","championName":"Brand","championNameWithBuild":"Builds de Brand "},{"championId":"64","championSlug":"leesin","championName":"Lee Sin","championNameWithBuild":"Builds de Lee Sin "},{"championId":"67","championSlug":"vayne","championName":"Vayne","championNameWithBuild":"Builds de Vayne "},{"championId":"68","championSlug":"rumble","championName":"Rumble","championNameWithBuild":"Builds de Rumble "},{"championId":"69","championSlug":"cassiopeia","championName":"Cassiopeia","championNameWithBuild":"Builds de Cassiopeia "},{"championId":"72","championSlug":"skarner","championName":"Skarner","championNameWithBuild":"Builds de Skarner "},{"championId":"74","championSlug":"heimerdinger","championName":"Heimerdinger","championNameWithBuild":"Builds de Heimerdinger "},{"championId":"75","championSlug":"nasus","championName":"Nasus","championNameWithBuild":"Builds de Nasus "},{"championId":"76","championSlug":"nidalee","championName":"Nidalee","championNameWithBuild":"Builds de Nidalee "},{"championId":"77","championSlug":"udyr","championName":"Udyr","championNameWithBuild":"Builds de Udyr "},{"championId":"78","championSlug":"poppy","championName":"Poppy","championNameWithBuild":"Builds de Poppy "},{"championId":"79","championSlug":"gragas","championName":"Gragas","championNameWithBuild":"Builds de Gragas "},{"championId":"80","championSlug":"pantheon","championName":"Pantheon","championNameWithBuild":"Builds de Pantheon "},{"championId":"81","championSlug":"ezreal","championName":"Ezreal","championNameWithBuild":"Builds de Ezreal "},{"championId":"82","championSlug":"mordekaiser","championName":"Mordekaiser","championNameWithBuild":"Builds de Mordekaiser "},{"championId":"83","championSlug":"yorick","championName":"Yorick","championNameWithBuild":"Builds de Yorick "},{"championId":"84","championSlug":"akali","championName":"Akali","championNameWithBuild":"Builds de Akali "},{"championId":"85","championSlug":"kennen","championName":"Kennen","championNameWithBuild":"Builds de Kennen "},{"championId":"86","championSlug":"garen","championName":"Garen","championNameWithBuild":"Builds de Garen "},{"championId":"89","championSlug":"leona","championName":"Leona","championNameWithBuild":"Builds de Leona "},{"championId":"90","championSlug":"malzahar","championName":"Malzahar","championNameWithBuild":"Builds de Malzahar "},{"championId":"91","championSlug":"talon","championName":"Talon","championNameWithBuild":"Builds de Talon "},{"championId":"92","championSlug":"riven","championName":"Riven","championNameWithBuild":"Builds de Riven "},{"championId":"96","championSlug":"kogmaw","championName":"Kog'Maw","championNameWithBuild":"Builds de Kog'Maw "},{"championId":"98","championSlug":"shen","championName":"Shen","championNameWithBuild":"Builds de Shen "},{"championId":"99","championSlug":"lux","championName":"Lux","championNameWithBuild":"Builds de Lux "},{"championId":"101","championSlug":"xerath","championName":"Xerath","championNameWithBuild":"Builds de Xerath "},{"championId":"102","championSlug":"shyvana","championName":"Shyvana","championNameWithBuild":"Builds de Shyvana "},{"championId":"103","championSlug":"ahri","championName":"Ahri","championNameWithBuild":"Builds de Ahri "},{"championId":"104","championSlug":"graves","championName":"Graves","championNameWithBuild":"Builds de Graves "},{"championId":"105","championSlug":"fizz","championName":"Fizz","championNameWithBuild":"Builds de Fizz "},{"championId":"106","championSlug":"volibear","championName":"Volibear","championNameWithBuild":"Builds de Volibear "},{"championId":"107","championSlug":"rengar","championName":"Rengar","championNameWithBuild":"Builds de Rengar "},{"championId":"110","championSlug":"varus","championName":"Varus","championNameWithBuild":"Builds de Varus "},{"championId":"111","championSlug":"nautilus","championName":"Nautilus","championNameWithBuild":"Builds de Nautilus "},{"championId":"112","championSlug":"viktor","championName":"Viktor","championNameWithBuild":"Builds de Viktor "},{"championId":"113","championSlug":"sejuani","championName":"Sejuani","championNameWithBuild":"Builds de Sejuani "},{"championId":"114","championSlug":"fiora","championName":"Fiora","championNameWithBuild":"Builds de Fiora "},{"championId":"115","championSlug":"ziggs","championName":"Ziggs","championNameWithBuild":"Builds de Ziggs "},{"championId":"117","championSlug":"lulu","championName":"Lulu","championNameWithBuild":"Builds de Lulu "},{"championId":"119","championSlug":"draven","championName":"Draven","championNameWithBuild":"Builds de Draven "},{"championId":"120","championSlug":"hecarim","championName":"Hecarim","championNameWithBuild":"Builds de Hecarim "},{"championId":"121","championSlug":"khazix","championName":"Kha'Zix","championNameWithBuild":"Builds de Kha'Zix "},{"championId":"122","championSlug":"darius","championName":"Darius","championNameWithBuild":"Builds de Darius "},{"championId":"126","championSlug":"jayce","championName":"Jayce","championNameWithBuild":"Builds de Jayce "},{"championId":"127","championSlug":"lissandra","championName":"Lissandra","championNameWithBuild":"Builds de Lissandra "},{"championId":"131","championSlug":"diana","championName":"Diana","championNameWithBuild":"Builds de Diana "},{"championId":"133","championSlug":"quinn","championName":"Quinn","championNameWithBuild":"Builds de Quinn "},{"championId":"134","championSlug":"syndra","championName":"Syndra","championNameWithBuild":"Builds de Syndra "},{"championId":"136","championSlug":"aurelionsol","championName":"Aurelion Sol","championNameWithBuild":"Builds de Aurelion Sol "},{"championId":"141","championSlug":"kayn","championName":"Kayn","championNameWithBuild":"Builds de Kayn "},{"championId":"142","championSlug":"zoe","championName":"Zoe","championNameWithBuild":"Builds de Zoe "},{"championId":"143","championSlug":"zyra","championName":"Zyra","championNameWithBuild":"Builds de Zyra "},{"championId":"145","championSlug":"kaisa","championName":"Kai'Sa","championNameWithBuild":"Builds de Kai'Sa "},{"championId":"147","championSlug":"seraphine","championName":"Seraphine","championNameWithBuild":"Builds de Seraphine "},{"championId":"150","championSlug":"gnar","championName":"Gnar","championNameWithBuild":"Builds de Gnar "},{"championId":"154","championSlug":"zac","championName":"Zac","championNameWithBuild":"Builds de Zac "},{"championId":"157","championSlug":"yasuo","championName":"Yasuo","championNameWithBuild":"Builds de Yasuo "},{"championId":"161","championSlug":"velkoz","championName":"Vel'Koz","championNameWithBuild":"Builds de Vel'Koz "},{"championId":"163","championSlug":"taliyah","championName":"Taliyah","championNameWithBuild":"Builds de Taliyah "},{"championId":"164","championSlug":"camille","championName":"Camille","championNameWithBuild":"Builds de Camille "},{"championId":"201","championSlug":"braum","championName":"Braum","championNameWithBuild":"Builds de Braum "},{"championId":"202","championSlug":"jhin","championName":"Jhin","championNameWithBuild":"Builds de Jhin "},{"championId":"203","championSlug":"kindred","championName":"Kindred","championNameWithBuild":"Builds de Kindred "},{"championId":"222","championSlug":"jinx","championName":"Jinx","championNameWithBuild":"Builds de Jinx "},{"championId":"223","championSlug":"tahmkench","championName":"Tahm Kench","championNameWithBuild":"Builds de Tahm Kench "},{"championId":"234","championSlug":"viego","championName":"Viego","championNameWithBuild":"Builds de Viego "},{"championId":"235","championSlug":"senna","championName":"Senna","championNameWithBuild":"Builds de Senna "},{"championId":"236","championSlug":"lucian","championName":"Lucian","championNameWithBuild":"Builds de Lucian "},{"championId":"238","championSlug":"zed","championName":"Zed","championNameWithBuild":"Builds de Zed "},{"championId":"240","championSlug":"kled","championName":"Kled","championNameWithBuild":"Builds de Kled "},{"championId":"245","championSlug":"ekko","championName":"Ekko","championNameWithBuild":"Builds de Ekko "},{"championId":"246","championSlug":"qiyana","championName":"Qiyana","championNameWithBuild":"Builds de Qiyana "},{"championId":"254","championSlug":"vi","championName":"Vi","championNameWithBuild":"Builds de Vi "},{"championId":"266","championSlug":"aatrox","championName":"Aatrox","championNameWithBuild":"Builds de Aatrox "},{"championId":"267","championSlug":"nami","championName":"Nami","championNameWithBuild":"Builds de Nami "},{"championId":"268","championSlug":"azir","championName":"Azir","championNameWithBuild":"Builds de Azir "},{"championId":"350","championSlug":"yuumi","championName":"Yuumi","championNameWithBuild":"Builds de Yuumi "},{"championId":"360","championSlug":"samira","championName":"Samira","championNameWithBuild":"Builds de Samira "},{"championId":"412","championSlug":"thresh","championName":"Thresh","championNameWithBuild":"Builds de Thresh "},{"championId":"420","championSlug":"illaoi","championName":"Illaoi","championNameWithBuild":"Builds de Illaoi "},{"championId":"421","championSlug":"reksai","championName":"Rek'Sai","championNameWithBuild":"Builds de Rek'Sai "},{"championId":"427","championSlug":"ivern","championName":"Ivern","championNameWithBuild":"Builds de Ivern "},{"championId":"429","championSlug":"kalista","championName":"Kalista","championNameWithBuild":"Builds de Kalista "},{"championId":"432","championSlug":"bard","championName":"Bardo","championNameWithBuild":"Builds de Bardo "},{"championId":"497","championSlug":"rakan","championName":"Rakan","championNameWithBuild":"Builds de Rakan "},{"championId":"498","championSlug":"xayah","championName":"Xayah","championNameWithBuild":"Builds de Xayah "},{"championId":"516","championSlug":"ornn","championName":"Ornn","championNameWithBuild":"Builds de Ornn "},{"championId":"517","championSlug":"sylas","championName":"Sylas","championNameWithBuild":"Builds de Sylas "},{"championId":"518","championSlug":"neeko","championName":"Neeko","championNameWithBuild":"Builds de Neeko "},{"championId":"523","championSlug":"aphelios","championName":"Aphelios","championNameWithBuild":"Builds de Aphelios "},{"championId":"526","championSlug":"rell","championName":"Rell","championNameWithBuild":"Builds de Rell "},{"championId":"555","championSlug":"pyke","championName":"Pyke","championNameWithBuild":"Builds de Pyke "},{"championId":"777","championSlug":"yone","championName":"Yone","championNameWithBuild":"Builds de Yone "},{"championId":"875","championSlug":"sett","championName":"Sett","championNameWithBuild":"Builds de Sett "},{"championId":"876","championSlug":"lillia","championName":"Lillia","championNameWithBuild":"Builds de Lillia "},{"championId":"887","championSlug":"gwen","championName":"Gwen","championNameWithBuild":"Builds de Gwen "}];
-        var topChampions = [145,157,99,25,81];
+        var topChampions = [145,157,99,25,64];
         var locales = {"champions": 'Campeones', "builds": 'Builds', "summoners": 'Jugadores', "recent": 'Reciente', "proPlayers": 'Jugadores profesionales', "cards": 'Cartas'};
         var autocompleteManager = new AutoCompleteManager('lol', '/es', $('#topnavbarform .search_field')[0], 'autocomplete-area-topnav', 100, locales, topChampions, allChampions, isMobile, false);
         var autocompleteManagerHomepage = new AutoCompleteManager('lol', '/es', $('#homepageForm .search_field')[0], 'autocomplete-area-homepage', 100, locales, topChampions, allChampions, isMobile, false);
     });
 </script>
-        <script src="//lolg-cdn.porofessor.gg/app.js?v=1619800783"></script>
+        <script src="//lolg-cdn.porofessor.gg/app.js?v=1620083836"></script>
             <!-- Google Analytics -->
     <script>
         (function (i, s, o, g, r, a, m) {

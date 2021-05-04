@@ -1,8 +1,8 @@
 <html lang="es" xmlns="http://www.w3.org/1999/xhtml"><head>
         
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700" rel="stylesheet" type="text/css" media="all" onload="this.media='all'">        <link rel="stylesheet" type="text/css" href="//lolg-cdn.porofessor.gg/style.css?v=1619800783">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700" rel="stylesheet" type="text/css" media="all" onload="this.media='all'">        <link rel="stylesheet" type="text/css" href="//lolg-cdn.porofessor.gg/style.css?v=1620083831">
         <link rel="stylesheet" type="text/css" href="//lolg-cdn.porofessor.gg/style.sprite.css?v=f1a331754017dab823a4d7a64218864c">
-        <script src="https://rules.quantcount.com/rules-p-w9vzu-sGKCA0U.js" async=""></script><script type="text/javascript" src="https://s.jsrdn.com/s/1.js?p=22687&amp;r=svwc&amp;k=dmMJMjAyMTAxMjUJdQk0YjYyZjEzNS0zZjJiLTRjNDAtOTAwNy04ZGRlMGNiNmEzYzMJdW4JMAl2CTk0NjYxZjg1LWFmYWUtNDI5Ny05YTdhLTgwZDFhZDJkZTc5Ngl0Zwljcy5qcwlidAkyMDIxLTA0LTMwVDE1OjA0OjM5LTA0OjAwCWRjCXV0Zi04CWJsCWVzCWJmCTMJZHcJMTM2NglkaAk2MTUJYmMJMQlicAkxCWJkCTI0CWJ3CTEzNjYJYmgJNzY4CWYJaHR0cHM6Ly93d3cubGVhZ3Vlb2ZncmFwaHMuY29tL2VzL2NoYW1waW9ucy9idWlsZHMvamhpbgl1ZAkJcGIJMAlwdgkwCXBxCTAJY3cJCWFjcgl1bmRlZmluZWQJZHIJCWt3CW1lam9yZXMgYnVpbGRzIHJ1bmFzIG9yZGVuIGRlIGhhYmlsaWRhZGVzIHBhcmEgamhpbiBzZWcgbiBsb3MgbWlsbG9uZXMgZGUgcGFydGlkYXMgcXVlIGFuYWxpemFtb3MgZGlhcmlvIHRhbWJpIG4gaW5jbHV5ZSBlc3RhZCBzdGljYXMgZGVsIGNhbXBlIG4gcG9wdWxhcmlkYWQgd2lucmF0ZSB5IHJhbmtpbmdzIHBhcmEgZXN0ZSBjYW1wZSBuCXByZgl1bmRlZmluZWQ" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" defer="" src="https://static.developer.riotgames.com/js/rgea.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//lolg-cdn.porofessor.gg/jquery.js?v=3"></script>
+        <script src="https://rules.quantcount.com/rules-p-w9vzu-sGKCA0U.js" async=""></script><script type="text/javascript" src="https://s.jsrdn.com/s/1.js?p=22687&amp;r=vuw8&amp;k=dmMJMjAyMTAxMjUJdQk1ZmJkYTNmNi02MjA3LTQzYjAtYjA4Zi1jMWE2MjllMDlkY2MJdW4JMAl2CWVmMjEwNjVjLTAzNzctNDNkNC05ODg5LTQ4ZTZiZmQyOTZlOAl0Zwljcy5qcwlidAkyMDIxLTA1LTA0VDEzOjAzOjU3LTA0OjAwCWRjCXV0Zi04CWJsCWVzCWJmCTMJZHcJMTM2NglkaAk2MTUJYmMJMQlicAkxCWJkCTI0CWJ3CTEzNjYJYmgJNzY4CWYJaHR0cHM6Ly93d3cubGVhZ3Vlb2ZncmFwaHMuY29tL2VzL2NoYW1waW9ucy9idWlsZHMvamhpbgl1ZAkJcGIJMAlwdgkwCXBxCTAJY3cJCWFjcgl1bmRlZmluZWQJZHIJCWt3CW1lam9yZXMgYnVpbGRzIHJ1bmFzIG9yZGVuIGRlIGhhYmlsaWRhZGVzIHBhcmEgamhpbiBzZWcgbiBsb3MgbWlsbG9uZXMgZGUgcGFydGlkYXMgcXVlIGFuYWxpemFtb3MgZGlhcmlvIHRhbWJpIG4gaW5jbHV5ZSBlc3RhZCBzdGljYXMgZGVsIGNhbXBlIG4gcG9wdWxhcmlkYWQgd2lucmF0ZSB5IHJhbmtpbmdzIHBhcmEgZXN0ZSBjYW1wZSBuCXByZgl1bmRlZmluZWQ" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" defer="" src="https://static.developer.riotgames.com/js/rgea.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//lolg-cdn.porofessor.gg/jquery.js?v=3"></script>
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -59,7 +59,7 @@ window['nitroAds'].createAd('mobile', {
   "mediaQuery": "(min-width: 0px) and (max-width: 640px)"
 });
 </script>
-        <meta name="cv" content="CV-CmxPl9BYP3Km:"><script type="text/javascript">var cvs = (window["cvs"] || []);cvs.push("CV-CmxPl9BYP3Km:");</script>
+        <meta name="cv" content="CV-d30uwEW6y64G:"><script type="text/javascript">var cvs = (window["cvs"] || []);cvs.push("CV-d30uwEW6y64G:");</script>
                     <script type="text/javascript">
                 var isDarkMode = false;
             </script>
@@ -522,7 +522,7 @@ window['nitroAds'].createAd('mobile', {
     <div id="site-infos">
     <div class="patch">Parche: 11.9</div>
     <div>
-        6,330,523 partidas        (Últimos 2 días)
+        7,625,473 partidas        (Últimos 2 días)
     </div>
 </div>
     <div id="site-links">
@@ -556,7 +556,7 @@ window['nitroAds'].createAd('mobile', {
             </div>
 
                             <div class="additionalData hide-for-small-down">
-                    <span id="matchesCountNumber">55,475</span>  partidas                    (<span id="matchesCountTimeframe">
+                    <span id="matchesCountNumber">74,286</span>  partidas                    (<span id="matchesCountTimeframe">
                         Últimos 2 días                    </span>)
                 </div>
                             
@@ -3990,18 +3990,18 @@ window['nitroAds'].createAd('mobile', {
 
                     <div id="mainContentContainer">
                         <div style="margin-top:0px; margin-bottom:15px; position: relative;">
-                        <div id="adasync876195" class="text-center"><div id="horizTop"></div></div>
+                        <div id="adasync866079" class="text-center"><div id="horizTop"></div></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(true){
-                                            document.getElementById('adasync876195').innerHTML = '<div id="horizTop"></div>';
+                                            document.getElementById('adasync866079').innerHTML = '<div id="horizTop"></div>';
                                             window['nitroAds'].createAd("horizTop", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[728, 90]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(false) {
-                                            document.getElementById('adasync876195').innerHTML = '<div id="horizTop-mobile"></div>';
+                                            document.getElementById('adasync866079').innerHTML = '<div id="horizTop-mobile"></div>';
                                             window['nitroAds'].createAd("horizTop-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250], [320, 50]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -4021,7 +4021,7 @@ window['nitroAds'].createAd('mobile', {
                         <script language="javascript" type="text/javascript">var graphFunctions = new Array();</script><div class="pie-chart-container">
     
     <div id="graphDD1" class="pie-chart small" style="padding: 0px; position: relative;">
-        14.2%    <canvas class="flot-base" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
+        17.0%    <canvas class="flot-base" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
 
             <div class="pie-chart-title pie-chart-title-bottom small ">Popularidad</div>
     </div>
@@ -4034,8 +4034,8 @@ window['nitroAds'].createAd('mobile', {
         if ($("#graphDD1").is(":visible")) {
             $.plot(placeholder,
                     [
-                        {data: 14.2, color: window['wgblue'] || "wgblue"},
-                        {data: 85.8, color: (pieChartDefaultColor || '#EEE')}
+                        {data: 17, color: window['wgblue'] || "wgblue"},
+                        {data: 83, color: (pieChartDefaultColor || '#EEE')}
                     ],
                     {
                         series: {
@@ -4062,7 +4062,7 @@ window['nitroAds'].createAd('mobile', {
                         <div class="pie-chart-container">
     
     <div id="graphDD2" class="pie-chart small" style="padding: 0px; position: relative;">
-        51.5%    <canvas class="flot-base" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
+        51.7%    <canvas class="flot-base" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
 
             <div class="pie-chart-title pie-chart-title-bottom small ">% de victorias</div>
     </div>
@@ -4075,8 +4075,8 @@ window['nitroAds'].createAd('mobile', {
         if ($("#graphDD2").is(":visible")) {
             $.plot(placeholder,
                     [
-                        {data: 51.5, color: window['wggreen'] || "wggreen"},
-                        {data: 48.5, color: (pieChartDefaultColor || '#EEE')}
+                        {data: 51.7, color: window['wggreen'] || "wggreen"},
+                        {data: 48.3, color: (pieChartDefaultColor || '#EEE')}
                     ],
                     {
                         series: {
@@ -4103,7 +4103,7 @@ window['nitroAds'].createAd('mobile', {
                         <div class="pie-chart-container">
     
     <div id="graphDD3" class="pie-chart small" style="padding: 0px; position: relative;">
-        2.1%    <canvas class="flot-base" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
+        2.2%    <canvas class="flot-base" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="100" height="100" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
 
             <div class="pie-chart-title pie-chart-title-bottom small ">Porcentaje de baneos</div>
     </div>
@@ -4116,8 +4116,8 @@ window['nitroAds'].createAd('mobile', {
         if ($("#graphDD3").is(":visible")) {
             $.plot(placeholder,
                     [
-                        {data: 2.1, color: window['wgred'] || "wgred"},
-                        {data: 97.9, color: (pieChartDefaultColor || '#EEE')}
+                        {data: 2.2, color: window['wgred'] || "wgred"},
+                        {data: 97.8, color: (pieChartDefaultColor || '#EEE')}
                     ],
                     {
                         series: {
@@ -4153,18 +4153,18 @@ window['nitroAds'].createAd('mobile', {
     </div>
 </a>
             <div style="margin-top:0px; margin-bottom:20px; position: relative;">
-                        <div id="adasync750920" class="text-center"></div>
+                        <div id="adasync587163" class="text-center"></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(false){
-                                            document.getElementById('adasync750920').innerHTML = '<div id="overviewChampion1"></div>';
+                                            document.getElementById('adasync587163').innerHTML = '<div id="overviewChampion1"></div>';
                                             window['nitroAds'].createAd("overviewChampion1", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(true) {
-                                            document.getElementById('adasync750920').innerHTML = '<div id="overviewChampion1-mobile"></div>';
+                                            document.getElementById('adasync587163').innerHTML = '<div id="overviewChampion1-mobile"></div>';
                                             window['nitroAds'].createAd("overviewChampion1-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -4384,8 +4384,8 @@ window['nitroAds'].createAd('mobile', {
         </div>
 
         <div class="figures">
-            Popularidad: 40.3% -
-            % de victorias: 50.8%
+            Popularidad: 40.2% -
+            % de victorias: 51.2%
         </div>
 
         <div class="seeMoreButtonRow">
@@ -4415,8 +4415,8 @@ window['nitroAds'].createAd('mobile', {
     </div>
 
 <div class="figures">
-    Popularidad: 94.2%<br>
-    % de victorias: 51.4%
+    Popularidad: 93.4%<br>
+    % de victorias: 51.5%
 </div>            </div>
             <div class="medium-13 columns">
                 
@@ -4442,8 +4442,8 @@ window['nitroAds'].createAd('mobile', {
     </div>
 
 <div class="figures">
-    Popularidad: 29.6%<br>
-    % de victorias: 59.0%
+    Popularidad: 31.4%<br>
+    % de victorias: 60.6%
 </div>            </div>
         </div>
         <div class="row">
@@ -4459,8 +4459,8 @@ window['nitroAds'].createAd('mobile', {
 </div>
 
 <div class="figures">
-    Popularidad: 90.1%<br>
-    % de victorias: 52.3%
+    Popularidad: 89.8%<br>
+    % de victorias: 52.4%
 </div>            </div>
             <div class="medium-13 columns">
                 <h3 class="box-title">
@@ -4471,9 +4471,9 @@ window['nitroAds'].createAd('mobile', {
             <div class="championSpell small-margin">
             <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ángel de la guarda" tooltip-var="item-3026" tooltip-class="itemTooltip" height="48" width="48" class="requireTooltip item-3026-48 ">        </div>
             <div class="championSpell small-margin">
-            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Filo infinito" tooltip-var="item-3031" tooltip-class="itemTooltip" height="48" width="48" class="requireTooltip item-3031-48 ">        </div>
-            <div class="championSpell small-margin">
             <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Recuerdos de lord Dominik" tooltip-var="item-3036" tooltip-class="itemTooltip" height="48" width="48" class="requireTooltip item-3036-48 ">        </div>
+            <div class="championSpell small-margin">
+            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Filo infinito" tooltip-var="item-3031" tooltip-class="itemTooltip" height="48" width="48" class="requireTooltip item-3031-48 ">        </div>
     </div>
             </div>
         </div>
@@ -4485,18 +4485,18 @@ window['nitroAds'].createAd('mobile', {
     </div>  
 </a>
             <div style="margin-top:0px; margin-bottom:0px; position: relative;">
-                        <div id="adasync395558" class="text-center"></div>
+                        <div id="adasync531994" class="text-center"></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(false){
-                                            document.getElementById('adasync395558').innerHTML = '<div id="overviewChampion2"></div>';
+                                            document.getElementById('adasync531994').innerHTML = '<div id="overviewChampion2"></div>';
                                             window['nitroAds'].createAd("overviewChampion2", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(true) {
-                                            document.getElementById('adasync395558').innerHTML = '<div id="overviewChampion2-mobile"></div>';
+                                            document.getElementById('adasync531994').innerHTML = '<div id="overviewChampion2-mobile"></div>';
                                             window['nitroAds'].createAd("overviewChampion2-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -4515,76 +4515,19 @@ window['nitroAds'].createAd('mobile', {
                 Builds de jugadores profesionales de Jhin             </th>
         </tr>
 
-                    <tr onclick="window.location = '/es/match/na/3886372904#participant8'" style="cursor: pointer">
-                <td class="small-padding-lateral text-center" width="80">
-                    <a href="/es/summoner/na/TL+Yeon">
-                        <div>
-                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/105510944671654183.jpg" alt="Yeon" title="Yeon" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
-                        <div class="probuildsProname">                                    
-                            Yeon                        </div>
-                        <div class="gameDate" data-timestamp-date="1619728950788">29/4/2021</div>
-
-                        <div>                            
-                            <span class="kills">7</span> / 
-                            <span class="deaths">4</span> / 
-                            <span class="assists">11</span>
-                        </div>
-                    </a>
-                </td>
-
-                <td class="small-padding-lateral" width="31">
-                    <div class="img-align-block">
-                        <div class="margin-centered">
-                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jhin" title="Jhin" height="24" width="24" class="champion-202-24 ">                        </div>
-                    </div>
-                    <div class="text-center">
-                        VS                    </div>
-                    <div class="img-align-block">
-                        <div class="margin-centered">
-                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Samira" title="Samira" height="24" width="24" class="champion-360-24 ">                        </div>
-                    </div>
-                </td>                        
-
-                <td class="no-padding-lateral text-center" width="62">         
-                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8021.png" tooltip-var="perksdetails-2429327485" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
-
-                <td class="small-padding-lateral text-center font-size-0" width="31">           
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Destello" tooltip-var="spell-4" height="24" width="24" class="requireTooltip spell-4-24 marginIcon"></div>
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Curar" tooltip-var="spell-7" height="24" width="24" class="requireTooltip spell-7-24 marginIcon"></div>
-                </td>
-
-                <td class="small-padding-lateral text-center font-size-0">
-                                                <div class="championSpell championSpell-no-margin-right">
-                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Granada danzante" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Granada danzante&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-0-24 &quot;/> Granada danzante</itemname><br>Jhin lanza un cartucho mágico a un enemigo. Podrá impactar a un máximo de cuatro objetivos y cada vez que mata suma daño.<br/><br/>Coste: 40 / 45 / 50 / 55 / 60<br/>Enfriamiento: 7 / 6.5 / 6 / 5.5 / 5" height="36" width="36" class="requireTooltip championspell-202-0-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Granada danzante&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-0-24 &quot;/> Granada danzante</itemname><br>Jhin lanza un cartucho mágico a un enemigo. Podrá impactar a un máximo de cuatro objetivos y cada vez que mata suma daño.<br/><br/>Coste: 40 / 45 / 50 / 55 / 60<br/>Enfriamiento: 7 / 6.5 / 6 / 5.5 / 5">
-                                    Q                                </div>
-                            </div>
-                                                    <div class="championSpell championSpell-no-margin-right">
-                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Florecer mortal" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Florecer mortal&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-1-24 &quot;/> Florecer mortal</itemname><br>Jhin blande su bastón y dispara un proyectil con un alcance increíble. Atraviesa a los súbditos y los monstruos, pero se detiene en el primer campeón impactado. El objetivo queda inmovilizado si ha sido víctima de los ataques de los aliados de Jhin, de las trampas de loto o del daño de Jhin.<br/><br/>Coste: 50 / 60 / 70 / 80 / 90<br/>Enfriamiento: 12" height="36" width="36" class="requireTooltip championspell-202-1-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Florecer mortal&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-1-24 &quot;/> Florecer mortal</itemname><br>Jhin blande su bastón y dispara un proyectil con un alcance increíble. Atraviesa a los súbditos y los monstruos, pero se detiene en el primer campeón impactado. El objetivo queda inmovilizado si ha sido víctima de los ataques de los aliados de Jhin, de las trampas de loto o del daño de Jhin.<br/><br/>Coste: 50 / 60 / 70 / 80 / 90<br/>Enfriamiento: 12">
-                                    W                                </div>
-                            </div>
-                                                    <div class="championSpell championSpell-no-margin-right">
-                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Público entregado" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Público entregado&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-2-24 &quot;/> Público entregado</itemname><br>Jhin coloca una trampa de loto invisible que florece al pasar sobre ella. Ralentiza a los enemigos cercanos antes de infligir daño con una explosión de pétalos serrados. <br><br>Belleza en la muerte: Cuando Jhin mate a un campeón enemigo, florecerá una trampa de loto junto a su cadáver.<br/><br/>Coste: 30 / 35 / 40 / 45 / 50<br/>Enfriamiento: 2" height="36" width="36" class="requireTooltip championspell-202-2-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Público entregado&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-2-24 &quot;/> Público entregado</itemname><br>Jhin coloca una trampa de loto invisible que florece al pasar sobre ella. Ralentiza a los enemigos cercanos antes de infligir daño con una explosión de pétalos serrados. <br><br>Belleza en la muerte: Cuando Jhin mate a un campeón enemigo, florecerá una trampa de loto junto a su cadáver.<br/><br/>Coste: 30 / 35 / 40 / 45 / 50<br/>Enfriamiento: 2">
-                                    E                                </div>
-                            </div>
-                                                            </td>
-
-                <td class="small-padding-lateral text-center font-size-0">
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Viento huracanado" tooltip-var="item-6671" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6671-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Filo infinito" tooltip-var="item-3031" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3031-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Espada de Doran" tooltip-var="item-1055" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1055-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Recaudadora" tooltip-var="item-6676" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6676-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas de rapidez" tooltip-var="item-3009" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3009-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Visión lejana modificada" tooltip-var="item-3363" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3363-24 marginIcon"></div>                    
-                </td>
-            </tr>
-                    <tr onclick="window.location = '/es/match/euw/5239713493#participant9'" style="cursor: pointer">
+                    <tr onclick="window.location = '/es/match/euw/5248624912#participant2'" style="cursor: pointer">
                 <td class="small-padding-lateral text-center" width="80">
                     <a href="/es/summoner/euw/el+tetoncito">
                         <div>
                             <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/103461966879623046.jpg" alt="Flakked" title="Flakked" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
                         <div class="probuildsProname">                                    
                             Flakked                        </div>
-                        <div class="gameDate" data-timestamp-date="1619728476177">29/4/2021</div>
+                        <div class="gameDate" data-timestamp-date="1620098148498">3/5/2021</div>
 
                         <div>                            
-                            <span class="kills">4</span> / 
-                            <span class="deaths">1</span> / 
-                            <span class="assists">9</span>
+                            <span class="kills">3</span> / 
+                            <span class="deaths">3</span> / 
+                            <span class="assists">8</span>
                         </div>
                     </a>
                 </td>
@@ -4598,7 +4541,7 @@ window['nitroAds'].createAd('mobile', {
                         VS                    </div>
                     <div class="img-align-block">
                         <div class="margin-centered">
-                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Heimerdinger" title="Heimerdinger" height="24" width="24" class="champion-74-24 ">                        </div>
+                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Aphelios" title="Aphelios" height="24" width="24" class="champion-523-24 ">                        </div>
                     </div>
                 </td>                        
 
@@ -4626,79 +4569,22 @@ window['nitroAds'].createAd('mobile', {
                                                             </td>
 
                 <td class="small-padding-lateral text-center font-size-0">
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Viento huracanado" tooltip-var="item-6671" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6671-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Daga dentada" tooltip-var="item-3134" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3134-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Daga" tooltip-var="item-1042" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1042-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas de rapidez" tooltip-var="item-3009" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3009-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Daga" tooltip-var="item-1042" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1042-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Capa de agilidad" tooltip-var="item-1018" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1018-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Visión lejana modificada" tooltip-var="item-3363" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3363-24 marginIcon">                    
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Viento huracanado" tooltip-var="item-6671" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6671-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Cañón de fuego rápido" tooltip-var="item-3094" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3094-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Espadón" tooltip-var="item-1038" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1038-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Recaudadora" tooltip-var="item-6676" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6676-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Pico" tooltip-var="item-1037" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1037-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas de rapidez" tooltip-var="item-3009" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3009-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Visión lejana modificada" tooltip-var="item-3363" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3363-24 marginIcon">                    
                 </div></td>
             </tr>
-                    <tr onclick="window.location = '/es/match/br/2252175725#participant9'" style="cursor: pointer">
+                    <tr onclick="window.location = '/es/match/na/3892559608#participant10'" style="cursor: pointer">
                 <td class="small-padding-lateral text-center" width="80">
-                    <a href="/es/summoner/br/Tutsz">
+                    <a href="/es/summoner/na/Dhokla">
                         <div>
-                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/103478281329357326.jpg" alt="Tutsz" title="Tutsz" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
+                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/99322408701435122.jpg" alt="Dhokla" title="Dhokla" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
                         <div class="probuildsProname">                                    
-                            Tutsz                        </div>
-                        <div class="gameDate" data-timestamp-date="1619725828826">29/4/2021</div>
+                            Dhokla                        </div>
+                        <div class="gameDate" data-timestamp-date="1620085406452">3/5/2021</div>
 
                         <div>                            
-                            <span class="kills">6</span> / 
-                            <span class="deaths">7</span> / 
-                            <span class="assists">10</span>
-                        </div>
-                    </a>
-                </td>
-
-                <td class="small-padding-lateral" width="31">
-                    <div class="img-align-block">
-                        <div class="margin-centered">
-                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jhin" title="Jhin" height="24" width="24" class="champion-202-24 ">                        </div>
-                    </div>
-                    <div class="text-center">
-                        VS                    </div>
-                    <div class="img-align-block">
-                        <div class="margin-centered">
-                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jinx" title="Jinx" height="24" width="24" class="champion-222-24 ">                        </div>
-                    </div>
-                </td>                        
-
-                <td class="no-padding-lateral text-center" width="62">         
-                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8021.png" tooltip-var="perksdetails-1894126786" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
-
-                <td class="small-padding-lateral text-center font-size-0" width="31">           
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Curar" tooltip-var="spell-7" height="24" width="24" class="requireTooltip spell-7-24 marginIcon"></div>
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Destello" tooltip-var="spell-4" height="24" width="24" class="requireTooltip spell-4-24 marginIcon"></div>
-                </td>
-
-                <td class="small-padding-lateral text-center font-size-0">
-                                                <div class="championSpell championSpell-no-margin-right">
-                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Granada danzante" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Granada danzante&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-0-24 &quot;/> Granada danzante</itemname><br>Jhin lanza un cartucho mágico a un enemigo. Podrá impactar a un máximo de cuatro objetivos y cada vez que mata suma daño.<br/><br/>Coste: 40 / 45 / 50 / 55 / 60<br/>Enfriamiento: 7 / 6.5 / 6 / 5.5 / 5" height="36" width="36" class="requireTooltip championspell-202-0-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Granada danzante&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-0-24 &quot;/> Granada danzante</itemname><br>Jhin lanza un cartucho mágico a un enemigo. Podrá impactar a un máximo de cuatro objetivos y cada vez que mata suma daño.<br/><br/>Coste: 40 / 45 / 50 / 55 / 60<br/>Enfriamiento: 7 / 6.5 / 6 / 5.5 / 5">
-                                    Q                                </div>
-                            </div>
-                                                    <div class="championSpell championSpell-no-margin-right">
-                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Florecer mortal" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Florecer mortal&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-1-24 &quot;/> Florecer mortal</itemname><br>Jhin blande su bastón y dispara un proyectil con un alcance increíble. Atraviesa a los súbditos y los monstruos, pero se detiene en el primer campeón impactado. El objetivo queda inmovilizado si ha sido víctima de los ataques de los aliados de Jhin, de las trampas de loto o del daño de Jhin.<br/><br/>Coste: 50 / 60 / 70 / 80 / 90<br/>Enfriamiento: 12" height="36" width="36" class="requireTooltip championspell-202-1-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Florecer mortal&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-1-24 &quot;/> Florecer mortal</itemname><br>Jhin blande su bastón y dispara un proyectil con un alcance increíble. Atraviesa a los súbditos y los monstruos, pero se detiene en el primer campeón impactado. El objetivo queda inmovilizado si ha sido víctima de los ataques de los aliados de Jhin, de las trampas de loto o del daño de Jhin.<br/><br/>Coste: 50 / 60 / 70 / 80 / 90<br/>Enfriamiento: 12">
-                                    W                                </div>
-                            </div>
-                                                    <div class="championSpell championSpell-no-margin-right">
-                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Público entregado" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Público entregado&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-2-24 &quot;/> Público entregado</itemname><br>Jhin coloca una trampa de loto invisible que florece al pasar sobre ella. Ralentiza a los enemigos cercanos antes de infligir daño con una explosión de pétalos serrados. <br><br>Belleza en la muerte: Cuando Jhin mate a un campeón enemigo, florecerá una trampa de loto junto a su cadáver.<br/><br/>Coste: 30 / 35 / 40 / 45 / 50<br/>Enfriamiento: 2" height="36" width="36" class="requireTooltip championspell-202-2-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Público entregado&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-2-24 &quot;/> Público entregado</itemname><br>Jhin coloca una trampa de loto invisible que florece al pasar sobre ella. Ralentiza a los enemigos cercanos antes de infligir daño con una explosión de pétalos serrados. <br><br>Belleza en la muerte: Cuando Jhin mate a un campeón enemigo, florecerá una trampa de loto junto a su cadáver.<br/><br/>Coste: 30 / 35 / 40 / 45 / 50<br/>Enfriamiento: 2">
-                                    E                                </div>
-                            </div>
-                                                            </td>
-
-                <td class="small-padding-lateral text-center font-size-0">
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Recaudadora" tooltip-var="item-6676" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6676-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Eclipse" tooltip-var="item-6692" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6692-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas jonias de la lucidez" tooltip-var="item-3158" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3158-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Cañón de fuego rápido" tooltip-var="item-3094" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3094-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Filo infinito" tooltip-var="item-3031" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3031-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Visión lejana modificada" tooltip-var="item-3363" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3363-24 marginIcon"></div>                    
-                </td>
-            </tr>
-                    <tr onclick="window.location = '/es/match/euw/5239339165#participant8'" style="cursor: pointer">
-                <td class="small-padding-lateral text-center" width="80">
-                    <a href="/es/summoner/euw/el+tetoncito">
-                        <div>
-                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/103461966879623046.jpg" alt="Flakked" title="Flakked" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
-                        <div class="probuildsProname">                                    
-                            Flakked                        </div>
-                        <div class="gameDate" data-timestamp-date="1619719123245">29/4/2021</div>
-
-                        <div>                            
-                            <span class="kills">9</span> / 
-                            <span class="deaths">2</span> / 
-                            <span class="assists">11</span>
+                            <span class="kills">0</span> / 
+                            <span class="deaths">3</span> / 
+                            <span class="assists">0</span>
                         </div>
                     </a>
                 </td>
@@ -4717,11 +4603,56 @@ window['nitroAds'].createAd('mobile', {
                 </td>                        
 
                 <td class="no-padding-lateral text-center" width="62">         
+                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8128.png" tooltip-var="perksdetails-2661123514" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
+
+                <td class="small-padding-lateral text-center font-size-0" width="31">           
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Destello" tooltip-var="spell-4" height="24" width="24" class="requireTooltip spell-4-24 marginIcon"></div>
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Curar" tooltip-var="spell-7" height="24" width="24" class="requireTooltip spell-7-24 marginIcon"></div>
+                </td>
+
+                <td class="small-padding-lateral text-center font-size-0">
+                                    </td>
+
+                <td class="small-padding-lateral text-center font-size-0">
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Espada de Doran" tooltip-var="item-1055" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1055-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Poción de vida" tooltip-var="item-2003" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2003-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas" tooltip-var="item-1001" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1001-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Carcaj del mediodía" tooltip-var="item-6670" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6670-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Guardián invisible" tooltip-var="item-3340" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3340-24 marginIcon">                    
+                </div></td>
+            </tr>
+                    <tr onclick="window.location = '/es/match/euw/5248501248#participant7'" style="cursor: pointer">
+                <td class="small-padding-lateral text-center" width="80">
+                    <a href="/es/summoner/euw/Menino69">
+                        <div>
+                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/99566408311664521.jpg" alt="Kz" title="Kz" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
+                        <div class="probuildsProname">                                    
+                            Kz                        </div>
+                        <div class="gameDate" data-timestamp-date="1620083356731">3/5/2021</div>
+
+                        <div>                            
+                            <span class="kills">1</span> / 
+                            <span class="deaths">4</span> / 
+                            <span class="assists">4</span>
+                        </div>
+                    </a>
+                </td>
+
+                <td class="small-padding-lateral" width="31">
+                    <div class="img-align-block">
+                        <div class="margin-centered">
+                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jhin" title="Jhin" height="24" width="24" class="champion-202-24 ">                        </div>
+                    </div>
+                    <div class="text-center">
+                        VS                    </div>
+                    <div class="img-align-block">
+                        <div class="margin-centered">
+                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jinx" title="Jinx" height="24" width="24" class="champion-222-24 ">                        </div>
+                    </div>
+                </td>                        
+
+                <td class="no-padding-lateral text-center" width="62">         
                     <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8021.png" tooltip-var="perksdetails-1875877156" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
 
                 <td class="small-padding-lateral text-center font-size-0" width="31">           
                     <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Destello" tooltip-var="spell-4" height="24" width="24" class="requireTooltip spell-4-24 marginIcon"></div>
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Extenuación" tooltip-var="spell-3" height="24" width="24" class="requireTooltip spell-3-24 marginIcon"></div>
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Curar" tooltip-var="spell-7" height="24" width="24" class="requireTooltip spell-7-24 marginIcon"></div>
                 </td>
 
                 <td class="small-padding-lateral text-center font-size-0">
@@ -4740,21 +4671,21 @@ window['nitroAds'].createAd('mobile', {
                                                             </td>
 
                 <td class="small-padding-lateral text-center font-size-0">
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Viento huracanado" tooltip-var="item-6671" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6671-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Cronómetro" tooltip-var="item-2420" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2420-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Recordatorio letal" tooltip-var="item-3033" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3033-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Recaudadora" tooltip-var="item-6676" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6676-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas de rapidez" tooltip-var="item-3009" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3009-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Filo infinito" tooltip-var="item-3031" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3031-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Visión lejana modificada" tooltip-var="item-3363" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3363-24 marginIcon">                    
-                </div></td>
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Pico" tooltip-var="item-1037" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1037-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Viento huracanado" tooltip-var="item-6671" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6671-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Poción reutilizable" tooltip-var="item-2031" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-2031-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas blindadas" tooltip-var="item-3047" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3047-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Daga dentada" tooltip-var="item-3134" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3134-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Visión lejana modificada" tooltip-var="item-3363" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3363-24 marginIcon"></div>                    
+                </td>
             </tr>
-                    <tr onclick="window.location = '/es/match/euw/5239193946#participant3'" style="cursor: pointer">
+                    <tr onclick="window.location = '/es/match/euw/5248394509#participant10'" style="cursor: pointer">
                 <td class="small-padding-lateral text-center" width="80">
-                    <a href="/es/summoner/euw/Supp+for+cats">
+                    <a href="/es/summoner/euw/Kite+Machine">
                         <div>
-                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/102787200106595079.jpg" alt="denyk" title="denyk" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
+                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/103536921420956640.jpg" alt="Comp" title="Comp" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
                         <div class="probuildsProname">                                    
-                            denyk                        </div>
-                        <div class="gameDate" data-timestamp-date="1619714193789">29/4/2021</div>
+                            Comp                        </div>
+                        <div class="gameDate" data-timestamp-date="1620080191391">3/5/2021</div>
 
                         <div>                            
-                            <span class="kills">2</span> / 
-                            <span class="deaths">3</span> / 
+                            <span class="kills">3</span> / 
+                            <span class="deaths">0</span> / 
                             <span class="assists">1</span>
                         </div>
                     </a>
@@ -4769,7 +4700,7 @@ window['nitroAds'].createAd('mobile', {
                         VS                    </div>
                     <div class="img-align-block">
                         <div class="margin-centered">
-                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Kalista" title="Kalista" height="24" width="24" class="champion-429-24 ">                        </div>
+                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jinx" title="Jinx" height="24" width="24" class="champion-222-24 ">                        </div>
                     </div>
                 </td>                        
 
@@ -4797,8 +4728,65 @@ window['nitroAds'].createAd('mobile', {
                                                             </td>
 
                 <td class="small-padding-lateral text-center font-size-0">
-                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Espada larga" tooltip-var="item-1036" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1036-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Espada de Doran" tooltip-var="item-1055" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1055-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Espada larga" tooltip-var="item-1036" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1036-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas" tooltip-var="item-1001" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1001-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Viento huracanado" tooltip-var="item-6671" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6671-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Guardián invisible" tooltip-var="item-3340" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3340-24 marginIcon"></div>                    
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas de rapidez" tooltip-var="item-3009" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3009-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Viento huracanado" tooltip-var="item-6671" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6671-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Recaudadora" tooltip-var="item-6676" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6676-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Espada de Doran" tooltip-var="item-1055" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1055-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Espadón" tooltip-var="item-1038" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-1038-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Visión lejana modificada" tooltip-var="item-3363" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3363-24 marginIcon"></div>                    
                 </td>
+            </tr>
+                    <tr onclick="window.location = '/es/match/euw/5248120089#participant8'" style="cursor: pointer">
+                <td class="small-padding-lateral text-center" width="80">
+                    <a href="/es/summoner/euw/el+tetoncito">
+                        <div>
+                            <img src="//lolg-cdn.porofessor.gg/img/lcs/players/48/103461966879623046.jpg" alt="Flakked" title="Flakked" height="48" width="48" class="" onerror="if(this.src != '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg') this.src = '//lolg-cdn.porofessor.gg/img/lcs/players/48/default.jpg';">                        </div>
+                        <div class="probuildsProname">                                    
+                            Flakked                        </div>
+                        <div class="gameDate" data-timestamp-date="1620078085823">3/5/2021</div>
+
+                        <div>                            
+                            <span class="kills">5</span> / 
+                            <span class="deaths">6</span> / 
+                            <span class="assists">7</span>
+                        </div>
+                    </a>
+                </td>
+
+                <td class="small-padding-lateral" width="31">
+                    <div class="img-align-block">
+                        <div class="margin-centered">
+                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jhin" title="Jhin" height="24" width="24" class="champion-202-24 ">                        </div>
+                    </div>
+                    <div class="text-center">
+                        VS                    </div>
+                    <div class="img-align-block">
+                        <div class="margin-centered">
+                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Kai'Sa" title="Kai'Sa" height="24" width="24" class="champion-145-24 ">                        </div>
+                    </div>
+                </td>                        
+
+                <td class="no-padding-lateral text-center" width="62">         
+                    <img src="//lolg-cdn.porofessor.gg/img/perks/11.9/64/8021.png" tooltip-var="perksdetails-1875877156" tooltip-class="perkTooltip" height="30" width="30" class="requireTooltip">                </td>
+
+                <td class="small-padding-lateral text-center font-size-0" width="31">           
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Destello" tooltip-var="spell-4" height="24" width="24" class="requireTooltip spell-4-24 marginIcon"></div>
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Curar" tooltip-var="spell-7" height="24" width="24" class="requireTooltip spell-7-24 marginIcon"></div>
+                </td>
+
+                <td class="small-padding-lateral text-center font-size-0">
+                                                <div class="championSpell championSpell-no-margin-right">
+                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Granada danzante" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Granada danzante&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-0-24 &quot;/> Granada danzante</itemname><br>Jhin lanza un cartucho mágico a un enemigo. Podrá impactar a un máximo de cuatro objetivos y cada vez que mata suma daño.<br/><br/>Coste: 40 / 45 / 50 / 55 / 60<br/>Enfriamiento: 7 / 6.5 / 6 / 5.5 / 5" height="36" width="36" class="requireTooltip championspell-202-0-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Granada danzante&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-0-24 &quot;/> Granada danzante</itemname><br>Jhin lanza un cartucho mágico a un enemigo. Podrá impactar a un máximo de cuatro objetivos y cada vez que mata suma daño.<br/><br/>Coste: 40 / 45 / 50 / 55 / 60<br/>Enfriamiento: 7 / 6.5 / 6 / 5.5 / 5">
+                                    Q                                </div>
+                            </div>
+                                                    <div class="championSpell championSpell-no-margin-right">
+                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Florecer mortal" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Florecer mortal&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-1-24 &quot;/> Florecer mortal</itemname><br>Jhin blande su bastón y dispara un proyectil con un alcance increíble. Atraviesa a los súbditos y los monstruos, pero se detiene en el primer campeón impactado. El objetivo queda inmovilizado si ha sido víctima de los ataques de los aliados de Jhin, de las trampas de loto o del daño de Jhin.<br/><br/>Coste: 50 / 60 / 70 / 80 / 90<br/>Enfriamiento: 12" height="36" width="36" class="requireTooltip championspell-202-1-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Florecer mortal&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-1-24 &quot;/> Florecer mortal</itemname><br>Jhin blande su bastón y dispara un proyectil con un alcance increíble. Atraviesa a los súbditos y los monstruos, pero se detiene en el primer campeón impactado. El objetivo queda inmovilizado si ha sido víctima de los ataques de los aliados de Jhin, de las trampas de loto o del daño de Jhin.<br/><br/>Coste: 50 / 60 / 70 / 80 / 90<br/>Enfriamiento: 12">
+                                    W                                </div>
+                            </div>
+                                                    <div class="championSpell championSpell-no-margin-right">
+                                <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Público entregado" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Público entregado&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-2-24 &quot;/> Público entregado</itemname><br>Jhin coloca una trampa de loto invisible que florece al pasar sobre ella. Ralentiza a los enemigos cercanos antes de infligir daño con una explosión de pétalos serrados. <br><br>Belleza en la muerte: Cuando Jhin mate a un campeón enemigo, florecerá una trampa de loto junto a su cadáver.<br/><br/>Coste: 30 / 35 / 40 / 45 / 50<br/>Enfriamiento: 2" height="36" width="36" class="requireTooltip championspell-202-2-36 marginIcon">                                <div class="championSpellLetter championSpellLetter-36 requireTooltip" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Público entregado&quot; tooltip=&quot;&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;requireTooltip championspell-202-2-24 &quot;/> Público entregado</itemname><br>Jhin coloca una trampa de loto invisible que florece al pasar sobre ella. Ralentiza a los enemigos cercanos antes de infligir daño con una explosión de pétalos serrados. <br><br>Belleza en la muerte: Cuando Jhin mate a un campeón enemigo, florecerá una trampa de loto junto a su cadáver.<br/><br/>Coste: 30 / 35 / 40 / 45 / 50<br/>Enfriamiento: 2">
+                                    E                                </div>
+                            </div>
+                                                            </td>
+
+                <td class="small-padding-lateral text-center font-size-0">
+                    <div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Viento huracanado" tooltip-var="item-6671" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6671-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ángel de la guarda" tooltip-var="item-3026" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3026-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Recaudadora" tooltip-var="item-6676" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-6676-24 marginIcon"><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Botas de rapidez" tooltip-var="item-3009" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3009-24 marginIcon"></div><div><img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Visión lejana modificada" tooltip-var="item-3363" tooltip-class="itemTooltip" height="24" width="24" class="requireTooltip item-3363-24 marginIcon">                    
+                </div></td>
             </tr>
         
         <tr>
@@ -4812,18 +4800,18 @@ window['nitroAds'].createAd('mobile', {
 </div>        </div>
 
         <div class="medium-12 small-24 columns">
-            <div id="anyclip-container-481838" style="margin-top:0px; margin-bottom:20px; position: relative; width:400px; display:flex;justify-content:center;align-items:center; ">
-                        <div id="anyclip-481838" class="text-center" style="width:400px; margin: 0 auto;"></div>
+            <div id="anyclip-container-720389" style="margin-top:0px; margin-bottom:20px; position: relative; width:400px; display:flex;justify-content:center;align-items:center; ">
+                        <div id="anyclip-720389" class="text-center" style="width:400px; margin: 0 auto;"></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(true){
-                                            window['nitroAds'].createAd("anyclip-481838", {"format": "video-ac"});
+                                            window['nitroAds'].createAd("anyclip-720389", {"format": "video-ac"});
                                         }
                                     } else {
                                         if(false) {
-                                            window['nitroAds'].createAd("anyclip-481838", {"format": "video-ac"});
+                                            window['nitroAds'].createAd("anyclip-720389", {"format": "video-ac"});
                                         }
                                     }
                                 }
@@ -4841,17 +4829,17 @@ window['nitroAds'].createAd('mobile', {
                                     
                             <div class="championSpell">
                                 <a href="/es/champions/counters/jhin">
+                                    <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Tahm Kench" title="Tahm Kench" height="48" width="48" class="champion-223-48 ">                                </a>
+                            </div>
+                                    
+                            <div class="championSpell">
+                                <a href="/es/champions/counters/jhin">
+                                    <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Veigar" title="Veigar" height="48" width="48" class="champion-45-48 ">                                </a>
+                            </div>
+                                    
+                            <div class="championSpell">
+                                <a href="/es/champions/counters/jhin">
                                     <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ezreal" title="Ezreal" height="48" width="48" class="champion-81-48 ">                                </a>
-                            </div>
-                                    
-                            <div class="championSpell">
-                                <a href="/es/champions/counters/jhin">
-                                    <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Ashe" title="Ashe" height="48" width="48" class="champion-22-48 ">                                </a>
-                            </div>
-                                    
-                            <div class="championSpell">
-                                <a href="/es/champions/counters/jhin">
-                                    <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Vayne" title="Vayne" height="48" width="48" class="champion-67-48 ">                                </a>
                             </div>
                                             </div>
                 </div>
@@ -4892,7 +4880,7 @@ window['nitroAds'].createAd('mobile', {
             <div class="row">
                                     <div class="medium-12 small-24 columns">
                         
-<div class="box box-padding-10 overviewBox rolesOverviewBox " tooltip="<table><tr><th></th><th>Popularidad</th><th>% de victorias</th></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;AD Carry&quot; title=&quot;AD Carry&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-adc-24 &quot;/></div><div class=&quot;txt&quot;>AD Carry</div></td><td><progressBar data-value=&quot;0.99102298332582&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.99102298332582&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.51525183258454&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Mid&quot; title=&quot;Mid&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-middle-24 &quot;/></div><div class=&quot;txt&quot;>Mid</div></td><td><progressBar data-value=&quot;0.0065434880576836&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.99102298332582&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.48209366391185&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Top&quot; title=&quot;Top&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-top-24 &quot;/></div><div class=&quot;txt&quot;>Top</div></td><td><progressBar data-value=&quot;0.0016944569625958&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.99102298332582&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.46808510638298&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Support&quot; title=&quot;Support&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-support-24 &quot;/></div><div class=&quot;txt&quot;>Support</div></td><td><progressBar data-value=&quot;0.00045065344749887&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.99102298332582&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.28&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Jungler&quot; title=&quot;Jungler&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-jungle-24 &quot;/></div><div class=&quot;txt&quot;>Jungler</div></td><td><progressBar data-value=&quot;0.00028841820639928&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.99102298332582&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.375&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr></table>" tooltip-class="tooltipRolesUsage">
+<div class="box box-padding-10 overviewBox rolesOverviewBox " tooltip="<table><tr><th></th><th>Popularidad</th><th>% de victorias</th></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;AD Carry&quot; title=&quot;AD Carry&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-adc-24 &quot;/></div><div class=&quot;txt&quot;>AD Carry</div></td><td><progressBar data-value=&quot;0.99234041407533&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.99234041407533&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.51708561118874&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Mid&quot; title=&quot;Mid&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-middle-24 &quot;/></div><div class=&quot;txt&quot;>Mid</div></td><td><progressBar data-value=&quot;0.0055057480548152&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.99234041407533&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.49388753056235&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Top&quot; title=&quot;Top&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-top-24 &quot;/></div><div class=&quot;txt&quot;>Top</div></td><td><progressBar data-value=&quot;0.0014538405621517&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.99234041407533&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.41666666666667&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Support&quot; title=&quot;Support&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-support-24 &quot;/></div><div class=&quot;txt&quot;>Support</div></td><td><progressBar data-value=&quot;0.00045769054734405&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.99234041407533&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.20588235294118&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr><tr><td><div class=&quot;img-align-block&quot;><div><img src=&quot;//lolg-cdn.porofessor.gg/img/fond_sprite.png&quot; alt=&quot;Jungler&quot; title=&quot;Jungler&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;role-jungle-24 &quot;/></div><div class=&quot;txt&quot;>Jungler</div></td><td><progressBar data-value=&quot;0.00024230676035861&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;0.99234041407533&quot;data-color=&quot;wgblue&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;0&quot; style=&quot;padding-right: 1px&quot;/></td><td><progressBar data-value=&quot;0.16666666666667&quot;data-minValue=&quot;0&quot;data-maxValue=&quot;1&quot;data-color=&quot;wggreen&quot;data-largeDevicesWidth=&quot;60&quot;data-mediumDevicesWidth=&quot;60&quot;data-smallDevicesWidth=&quot;60&quot;data-isPercentage=&quot;1&quot;data-alwaysShowSign=&quot;0&quot;data-isDuration=&quot;0&quot;data-decimalsCount=&quot;1&quot;data-fullWidthForPercentageDarkMode=&quot;1&quot; style=&quot;padding-right: 1px&quot;/></td></tr></table>" tooltip-class="tooltipRolesUsage">
     <a href="/es/champions/stats/jhin">
 
         <h3 class="box-title">
@@ -4912,8 +4900,8 @@ window['nitroAds'].createAd('mobile', {
                         </div>
 
                         <div class="figures">
-                            Popularidad: 99.1%<br>
-                            % de victorias: 51.5%
+                            Popularidad: 99.2%<br>
+                            % de victorias: 51.7%
                         </div>
                     </div>
                 </a>
@@ -4943,8 +4931,8 @@ window['nitroAds'].createAd('mobile', {
         </div>
 
         <div class="figures">
-            Popularidad: 86.9%<br>
-            % de victorias: 51.6%
+            Popularidad: 87.1%<br>
+            % de victorias: 51.8%
         </div>
 
         <div class="seeMoreButtonRow">
@@ -5198,8 +5186,8 @@ window['nitroAds'].createAd('mobile', {
         </div>
 
         <div class="figures">
-            Popularidad: 56.3% -
-            % de victorias: 51.4%
+            Popularidad: 59.9% -
+            % de victorias: 52.0%
         </div>
 
         <div class="seeMoreButtonRow">
@@ -5209,18 +5197,18 @@ window['nitroAds'].createAd('mobile', {
     </div>
 </a>
             <div style="margin-top:0px; margin-bottom:0px; position: relative;">
-                        <div id="adasync621579" class="text-center"></div>
+                        <div id="adasync952374" class="text-center"></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(false){
-                                            document.getElementById('adasync621579').innerHTML = '<div id="overviewChampion3"></div>';
+                                            document.getElementById('adasync952374').innerHTML = '<div id="overviewChampion3"></div>';
                                             window['nitroAds'].createAd("overviewChampion3", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(false) {
-                                            document.getElementById('adasync621579').innerHTML = '<div id="overviewChampion3-mobile"></div>';
+                                            document.getElementById('adasync952374').innerHTML = '<div id="overviewChampion3-mobile"></div>';
                                             window['nitroAds'].createAd("overviewChampion3-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -5243,37 +5231,6 @@ window['nitroAds'].createAd('mobile', {
                             <tr>
                 <td class="text-right hide-for-super-small-only">
                     1.                </td>
-
-                <td class="text-left ">
-                    <a href="/es/summoner/champions/jhin/ru/TotoFinko/all">
-                        <div class="img-align-block">
-                            <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/summonerIcons/11.9/36/4908.png" alt="TotoFinko" title="TotoFinko" height="36" width="36" class="">                            </div>
-                            <div class="txt">
-                                <span class="name">
-                                    TotoFinko                                </span>
-                                <br>
-                                <span class="subname">RU</span>
-                                <i class="show-for-super-small-only">(#)</i>
-                            </div>
-                        </div>
-                    </a>
-                </td>
-
-                <td class="hide-for-small-down text-center">
-                                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="GrandMaster" title="GrandMaster" height="36" width="36" class="leagueicons-36-8-1 ">                                    </td>
-
-                <td class="text-center">
-
-                    76.7%                </td>
-
-                <td class="hide-for-small-down text-center">
-                    <i>60</i>
-                </td>
-            </tr>
-                    <tr>
-                <td class="text-right hide-for-super-small-only">
-                    2.                </td>
 
                 <td class="text-left ">
                     <a href="/es/summoner/champions/jhin/tr/chill+asf/all">
@@ -5304,13 +5261,44 @@ window['nitroAds'].createAd('mobile', {
             </tr>
                     <tr>
                 <td class="text-right hide-for-super-small-only">
+                    2.                </td>
+
+                <td class="text-left ">
+                    <a href="/es/summoner/champions/jhin/ru/TotoFinko/all">
+                        <div class="img-align-block">
+                            <div>
+                                <img src="//lolg-cdn.porofessor.gg/img/summonerIcons/11.9/36/4908.png" alt="TotoFinko" title="TotoFinko" height="36" width="36" class="">                            </div>
+                            <div class="txt">
+                                <span class="name">
+                                    TotoFinko                                </span>
+                                <br>
+                                <span class="subname">RU</span>
+                                <i class="show-for-super-small-only">(#)</i>
+                            </div>
+                        </div>
+                    </a>
+                </td>
+
+                <td class="hide-for-small-down text-center">
+                                            <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="GrandMaster" title="GrandMaster" height="36" width="36" class="leagueicons-36-8-1 ">                                    </td>
+
+                <td class="text-center">
+
+                    74.2%                </td>
+
+                <td class="hide-for-small-down text-center">
+                    <i>62</i>
+                </td>
+            </tr>
+                    <tr>
+                <td class="text-right hide-for-super-small-only">
                     3.                </td>
 
                 <td class="text-left ">
                     <a href="/es/summoner/champions/jhin/las/paroparoparodais/all">
                         <div class="img-align-block">
                             <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/summonerIcons/11.9/36/578.png" alt="paroparoparodais" title="paroparoparodais" height="36" width="36" class="">                            </div>
+                                <img src="//lolg-cdn.porofessor.gg/img/summonerIcons/11.9/36/683.png" alt="paroparoparodais" title="paroparoparodais" height="36" width="36" class="">                            </div>
                             <div class="txt">
                                 <span class="name">
                                     paroparoparodais                                </span>
@@ -5327,10 +5315,10 @@ window['nitroAds'].createAd('mobile', {
 
                 <td class="text-center">
 
-                    80.0%                </td>
+                    76.6%                </td>
 
                 <td class="hide-for-small-down text-center">
-                    <i>45</i>
+                    <i>47</i>
                 </td>
             </tr>
                     <tr>
@@ -5372,7 +5360,7 @@ window['nitroAds'].createAd('mobile', {
                     <a href="/es/summoner/champions/jhin/euw/Robocules/all">
                         <div class="img-align-block">
                             <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/summonerIcons/11.9/36/579.png" alt="Robocules" title="Robocules" height="36" width="36" class="">                            </div>
+                                <img src="//lolg-cdn.porofessor.gg/img/summonerIcons/11.9/36/1212.png" alt="Robocules" title="Robocules" height="36" width="36" class="">                            </div>
                             <div class="txt">
                                 <span class="name">
                                     Robocules                                </span>
@@ -5389,10 +5377,10 @@ window['nitroAds'].createAd('mobile', {
 
                 <td class="text-center">
 
-                    66.2%                </td>
+                    66.3%                </td>
 
                 <td class="hide-for-small-down text-center">
-                    <i>77</i>
+                    <i>80</i>
                 </td>
             </tr>
         
@@ -5421,40 +5409,9 @@ window['nitroAds'].createAd('mobile', {
                                         <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jhin" title="Jhin" height="36" width="36" class="champion-202-36 ">                                    </a>
                                 </div>
                                 <div class="txt">
-                                    <a href="/es/summoner/euw/GXR+Monk" class="name">GXR Monk</a>
+                                    <a href="/es/summoner/na/%C3%9Fazz+B" class="name">ßazz B</a>
                                     <br>
-                                    <a href="/es/summoner/euw/GXR+Monk" class="subname">GrandMaster</a>
-                                </div>
-                            </div>
-                        </td>
-
-                        <td class="text-center">
-                            <div class="kda">
-                                <span class="kills">10</span>
-                                <span class="separator">/</span>
-                                <span class="deaths">1</span>
-                                <span class="separator">/</span>
-                                <span class="assists">9</span>
-                            </div>
-                        </td>
-
-                        <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/ZWZmUFRMV0k3WDBPTHp3Y1I5ZUhGa2FRV0NNU2dxaEtuU1RkbjBlNXhSNUtDLytLUHAvMTUyNUZlNFVpc0pydmR1SHNpYXQzYlJVZ2FsTTNPbHhLM2c9PQ==" data-spectate-platform="EUW1" data-spectate-gameid="5240200693" data-spectate-encryptionkey="4BAX5mE50Yp7qaGYC9rOeSRDwM7CiYz6" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
-                                <button class="replay_button_small"><i class="fa fa-play"></i>Reproducir</button>
-                            </a>
-                        </td>
-                    </tr>
-                                        <tr>
-                        <td class="text-left summoner_column">
-                            <div class="img-align-block">
-                                <div>
-                                    <a href="/es/replays/with-high-kda/jhin">
-                                        <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jhin" title="Jhin" height="36" width="36" class="champion-202-36 ">                                    </a>
-                                </div>
-                                <div class="txt">
-                                    <a href="/es/summoner/br/Eletrizante" class="name">Eletrizante</a>
-                                    <br>
-                                    <a href="/es/summoner/br/Eletrizante" class="subname">Master</a>
+                                    <a href="/es/summoner/na/%C3%9Fazz+B" class="subname">Challenger</a>
                                 </div>
                             </div>
                         </td>
@@ -5465,12 +5422,12 @@ window['nitroAds'].createAd('mobile', {
                                 <span class="separator">/</span>
                                 <span class="deaths">1</span>
                                 <span class="separator">/</span>
-                                <span class="assists">11</span>
+                                <span class="assists">15</span>
                             </div>
                         </td>
 
                         <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/SEZwQnZTMGxTcCtmSEdlMjhkd2crQ3Rmcjg5NllJYmNvbVNUaHZua2t1ZHVCUGp1QkNBLzljKzdaQVF6bVpnVm1TN1NvV25UajFYNEIxSUlVdThtaHc9PQ==" data-spectate-platform="BR1" data-spectate-gameid="2252353072" data-spectate-encryptionkey="5mKA09ozRm0LF5vgQ+4FQ1n0HDf1rScJ" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
+                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/bjJRY3FWays0UXNwNDI1d3IycWpaQVJoVG1aVnZ0Y29TRExnLzFyV1pCVmpkZDBtV1ZlMjFpalBqQUFGSng0dUIvbjlkbFJFeWlpYis0ZUF0K3hqenc9PQ==" data-spectate-platform="NA1" data-spectate-gameid="3892611064" data-spectate-encryptionkey="BVpuDBr1sWMSXIRkGZDR0PPrJWzFXT4S" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
                                 <button class="replay_button_small"><i class="fa fa-play"></i>Reproducir</button>
                             </a>
                         </td>
@@ -5483,47 +5440,16 @@ window['nitroAds'].createAd('mobile', {
                                         <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jhin" title="Jhin" height="36" width="36" class="champion-202-36 ">                                    </a>
                                 </div>
                                 <div class="txt">
-                                    <a href="/es/summoner/las/INS+9000IQ" class="name">INS 9000IQ</a>
+                                    <a href="/es/summoner/br/FFT01SDSA5568" class="name">FFT01SDSA5568</a>
                                     <br>
-                                    <a href="/es/summoner/las/INS+9000IQ" class="subname">Master</a>
+                                    <a href="/es/summoner/br/FFT01SDSA5568" class="subname">Master</a>
                                 </div>
                             </div>
                         </td>
 
                         <td class="text-center">
                             <div class="kda">
-                                <span class="kills">12</span>
-                                <span class="separator">/</span>
-                                <span class="deaths">1</span>
-                                <span class="separator">/</span>
-                                <span class="assists">9</span>
-                            </div>
-                        </td>
-
-                        <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/VlFDTFREUzRRdE9CTTBjTXRWMnVPai96dmozYzRNaGMwbVdrWHg0WnRQZHkxV3pGWjhTUkM1OXBkRnVGdEpMV0o1Y0t0M1R0KzNaK0cydG5NOW5iWEE9PQ==" data-spectate-platform="LA2" data-spectate-gameid="1021531531" data-spectate-encryptionkey="1dWghKqTeNJM+pzyYPL/H8LSU+3Ftmgm" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
-                                <button class="replay_button_small"><i class="fa fa-play"></i>Reproducir</button>
-                            </a>
-                        </td>
-                    </tr>
-                                        <tr>
-                        <td class="text-left summoner_column">
-                            <div class="img-align-block">
-                                <div>
-                                    <a href="/es/replays/with-high-kda/jhin">
-                                        <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jhin" title="Jhin" height="36" width="36" class="champion-202-36 ">                                    </a>
-                                </div>
-                                <div class="txt">
-                                    <a href="/es/summoner/br/kakashi3" class="name">kakashi3</a>
-                                    <br>
-                                    <a href="/es/summoner/br/kakashi3" class="subname">Challenger</a>
-                                </div>
-                            </div>
-                        </td>
-
-                        <td class="text-center">
-                            <div class="kda">
-                                <span class="kills">10</span>
+                                <span class="kills">11</span>
                                 <span class="separator">/</span>
                                 <span class="deaths">1</span>
                                 <span class="separator">/</span>
@@ -5532,7 +5458,7 @@ window['nitroAds'].createAd('mobile', {
                         </td>
 
                         <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/QXZTNnY5TEM2M242M1czMEdzd0JqU2prQngvcnBYMWt1MmtoMG42YUxZSmlQTks4QmpraGtkbWZ4ajQzWU82OXUxalVBQkJZTGNHZDlDTEVod2R5N0E9PQ==" data-spectate-platform="BR1" data-spectate-gameid="2252334141" data-spectate-encryptionkey="8mJGZI0kB0RumRZeLsSX8hSPLkmV2FKg" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
+                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/WXAxZHNNL2VLT0hpUklkZVg2dzU1RFp1VXBLSXhJMHUzSUwrUWw2NHBwamQ0bm9SbERZeGJLazlpRG5GaEt1UW9PYzNmakNuc1dLbk1rZTU3eVVHWGc9PQ==" data-spectate-platform="BR1" data-spectate-gameid="2255684994" data-spectate-encryptionkey="ejAZEnKSsCHqFiEyt8dXnpRPa93Y6fqr" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
                                 <button class="replay_button_small"><i class="fa fa-play"></i>Reproducir</button>
                             </a>
                         </td>
@@ -5545,25 +5471,87 @@ window['nitroAds'].createAd('mobile', {
                                         <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jhin" title="Jhin" height="36" width="36" class="champion-202-36 ">                                    </a>
                                 </div>
                                 <div class="txt">
-                                    <a href="/es/summoner/euw/Ashes" class="name">Ashes</a>
+                                    <a href="/es/summoner/kr/%EB%B6%88%ED%83%9C%EC%9B%8C%EB%9D%BC" class="name">불태워라</a>
                                     <br>
-                                    <a href="/es/summoner/euw/Ashes" class="subname">Master</a>
+                                    <a href="/es/summoner/kr/%EB%B6%88%ED%83%9C%EC%9B%8C%EB%9D%BC" class="subname">Master</a>
                                 </div>
                             </div>
                         </td>
 
                         <td class="text-center">
                             <div class="kda">
-                                <span class="kills">14</span>
+                                <span class="kills">7</span>
                                 <span class="separator">/</span>
                                 <span class="deaths">1</span>
                                 <span class="separator">/</span>
-                                <span class="assists">8</span>
+                                <span class="assists">15</span>
                             </div>
                         </td>
 
                         <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/RmlUZmlScTQ1M1lpNnFIeWowZUcrTkx1ckYzQ29QK0dvSTl6alJVanEwemNPb1hTaUtmbEdPVWxLWSthSnFlWnRYK1ZQUmF5c0FBSTlmRDB2RVprOXc9PQ==" data-spectate-platform="EUW1" data-spectate-gameid="5239953604" data-spectate-encryptionkey="zcfo3r8TBBLMDopViYW1iCIXZ4NuCegD" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
+                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/Y3hsSStQL1Q0MEVSU0Y5NmUxMXlybTVsM3YyQWkzVWE0MlkxR0VGejVEK2dzUUFhTXVzZndoWjcvcE8rTzA5Q29uU2Q1dncwTGhLOUhDakdtR2JPK2c9PQ==" data-spectate-platform="KR" data-spectate-gameid="5171926961" data-spectate-encryptionkey="x7GmeJMGvcJYgzbmQtw1Xok0dWLuYvAa" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
+                                <button class="replay_button_small"><i class="fa fa-play"></i>Reproducir</button>
+                            </a>
+                        </td>
+                    </tr>
+                                        <tr>
+                        <td class="text-left summoner_column">
+                            <div class="img-align-block">
+                                <div>
+                                    <a href="/es/replays/with-high-kda/jhin">
+                                        <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jhin" title="Jhin" height="36" width="36" class="champion-202-36 ">                                    </a>
+                                </div>
+                                <div class="txt">
+                                    <a href="/es/summoner/oce/Getback" class="name">Getback</a>
+                                    <br>
+                                    <a href="/es/summoner/oce/Getback" class="subname">Challenger</a>
+                                </div>
+                            </div>
+                        </td>
+
+                        <td class="text-center">
+                            <div class="kda">
+                                <span class="kills">9</span>
+                                <span class="separator">/</span>
+                                <span class="deaths">1</span>
+                                <span class="separator">/</span>
+                                <span class="assists">10</span>
+                            </div>
+                        </td>
+
+                        <td class="text-center hide-for-small-down">
+                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/N1FnR0RzaFhuYUFQVWM4b2xZcDVKNG5lMkkvNy9yZEFiYTlkQUMrd2JvelpwUDRPRC9ZbkY2VkFnQzcwTFh3VU1KK2U2QTFpN2VNeEJPNjVKUnNqWXc9PQ==" data-spectate-platform="OC1" data-spectate-gameid="439674029" data-spectate-encryptionkey="Kwhc7i8WzISwneQInqrwVdlMxVKPkb3h" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
+                                <button class="replay_button_small"><i class="fa fa-play"></i>Reproducir</button>
+                            </a>
+                        </td>
+                    </tr>
+                                        <tr>
+                        <td class="text-left summoner_column">
+                            <div class="img-align-block">
+                                <div>
+                                    <a href="/es/replays/with-high-kda/jhin">
+                                        <img src="//lolg-cdn.porofessor.gg/img/fond_sprite.png" alt="Jhin" title="Jhin" height="36" width="36" class="champion-202-36 ">                                    </a>
+                                </div>
+                                <div class="txt">
+                                    <a href="/es/summoner/kr/%EC%B4%8C%EC%8A%A4%EB%9F%AC%EC%9A%B4+%EA%B0%9C" class="name">촌스러운 개</a>
+                                    <br>
+                                    <a href="/es/summoner/kr/%EC%B4%8C%EC%8A%A4%EB%9F%AC%EC%9A%B4+%EA%B0%9C" class="subname">Challenger</a>
+                                </div>
+                            </div>
+                        </td>
+
+                        <td class="text-center">
+                            <div class="kda">
+                                <span class="kills">7</span>
+                                <span class="separator">/</span>
+                                <span class="deaths">1</span>
+                                <span class="separator">/</span>
+                                <span class="assists">10</span>
+                            </div>
+                        </td>
+
+                        <td class="text-center hide-for-small-down">
+                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/WDA5VHpwRmUvV0NXclAzSWNYUTdwN1BjVElNSk10bURYZ20zZWMzN3FxQWVSZzcweWYyTXM5Q3JPMkptcHpjNlJFUU5sb1pYTFZQNTJhQzFWZmlPalE9PQ==" data-spectate-platform="KR" data-spectate-gameid="5170187613" data-spectate-encryptionkey="Qn+Uo2/tZfEZqooUFka3L1Ajr7lutl+Z" data-spectate-endpoint="replays.leagueofgraphs.com:80" data-client-version="0.0.2.21">
                                 <button class="replay_button_small"><i class="fa fa-play"></i>Reproducir</button>
                             </a>
                         </td>
@@ -5605,7 +5593,7 @@ window['nitroAds'].createAd('mobile', {
 </div>        </div>
 
     </div><script type="text/javascript">
-    var newTooltipData = {"item-3340":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Guardi\u00e1n invisible\" tooltip-var=\"item-3340\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3340-24 \"\/> Guardi\u00e1n invisible<\/itemname><br><stats><\/stats> <active>Activa - Talism\u00e1n:<\/active> Coloca un guardi\u00e1n invisible en el suelo que dura 90 - 120 s y los enemigos no pueden ver, pero otorga a tu equipo visi\u00f3n de la zona circundante. Almacena hasta 2 guardianes invisibles y genera un nuevo guardi\u00e1n cada 240 - 120 s. ","item-1055":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Espada de Doran\" tooltip-var=\"item-1055\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1055-24 \"\/> Espada de Doran<\/itemname><br><stats><attention>+8<\/attention> de da\u00f1o de ataque<br><attention>+80<\/attention> de vida<\/stats><br><li><passive>Belicista:<\/passive> Otorga un 2.5% de omnisucci\u00f3n.<br><br><rules>La omnisucci\u00f3n se reduce a un 33% de efectividad cuando se trata de da\u00f1o en \u00e1rea de efecto y el da\u00f1o de mascotas.<\/rules>","item-2003":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Poci\u00f3n de vida\" tooltip-var=\"item-2003\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-2003-24 \"\/> Poci\u00f3n de vida<\/itemname><br><stats><\/stats> <active>Activa - Consumir:<\/active> Consume la poci\u00f3n para restaurar 150 de vida a lo largo de 15 s.<br><br><rules>Puedes llevar hasta 5 pociones de vida.<\/rules>","item-6670":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Carcaj del mediod\u00eda\" tooltip-var=\"item-6670\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-6670-24 \"\/> Carcaj del mediod\u00eda<\/itemname><br><stats><attention>+30<\/attention> de da\u00f1o de ataque<br><attention>+15%<\/attention> de velocidad de ataque<\/stats><br><li><passive>Precisi\u00f3n:<\/passive> Los ataques infligen 20 de da\u00f1o f\u00edsico adicional a los s\u00fabditos y monstruos.","item-6671":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Viento huracanado\" tooltip-var=\"item-6671\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-6671-24 \"\/> Viento huracanado<\/itemname><br><stats><attention>+60<\/attention> de da\u00f1o de ataque<br><attention>+20%<\/attention> de velocidad de ataque<br><attention>+20%<\/attention> de probabilidad de impacto cr\u00edtico<\/stats><br> <active>Activa -<\/active> <active>Aguacero:<\/active> Te deslizas hacia la direcci\u00f3n seleccionada y disparas tres misiles al enemigo con menos vida que se encuentre cerca de tu destino (prioriza a los campeones). Inflige un total de (180 - 220 (seg\u00fan el nivel) + 45% del da\u00f1o de ataque adicional) de da\u00f1o m\u00e1gico, que aumenta contra objetivos con poca vida hasta un 50% (90 s de enfriamiento).<br><br><rarityMythic>Pasiva m\u00edtica:<\/rarityMythic> Se otorga a todos los dem\u00e1s objetos legendarios <attention> 3%<\/attention> de velocidad de movimiento<br><br><rules>Da\u00f1o m\u00e1ximo del misil cuando la vida del enemigo est\u00e1 por debajo del 30%.<br>El deslizamiento de Aguacero no puede atravesar obst\u00e1culos del terreno.<\/rules>","item-6676":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Recaudadora\" tooltip-var=\"item-6676\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-6676-24 \"\/> Recaudadora<\/itemname><br><stats><attention>+55<\/attention> de da\u00f1o de ataque<br><attention>+20%<\/attention> de probabilidad de impacto cr\u00edtico<br><attention>+12<\/attention> de letalidad<\/stats><br><li><passive>Muerte e impuestos:<\/passive> Si infliges da\u00f1o a un campe\u00f3n enemigo y lo dejas con menos del 5% de vida, lo ejecutas. Los asesinatos de campeones otorgan 25 de oro adicional.","item-3094":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Ca\u00f1\u00f3n de fuego r\u00e1pido\" tooltip-var=\"item-3094\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3094-24 \"\/> Ca\u00f1\u00f3n de fuego r\u00e1pido<\/itemname><br><stats><attention>+35%<\/attention> de velocidad de ataque<br><attention>+20%<\/attention> de probabilidad de impacto cr\u00edtico<br><attention>+7%<\/attention> de velocidad de movimiento<\/stats><br><li><passive>Vigor:<\/passive> Moverse y atacar generar\u00e1 un ataque con vigor.<li><passive>Francotirador:<\/passive> Tus ataques con vigor infligen 120 de da\u00f1o m\u00e1gico adicional. Adem\u00e1s, los ataques con vigor obtienen hasta un 35% de alcance de ataque adicional.<br><br><rules>El alcance de ataque no puede aumentar m\u00e1s de 150 unidades.<\/rules>","item-3009":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Botas de rapidez\" tooltip-var=\"item-3009\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3009-24 \"\/> Botas de rapidez<\/itemname><br><stats><attention>+60<\/attention> de velocidad de movimiento<\/stats><br><li>La fuerza de los efectos de ralentizaci\u00f3n de movimiento se reduce un 25%.","item-3026":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"\u00c1ngel de la guarda\" tooltip-var=\"item-3026\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3026-24 \"\/> \u00c1ngel de la guarda<\/itemname><br><stats><attention>+40<\/attention> de da\u00f1o de ataque<br><attention>+40<\/attention> de armadura<\/stats><br><li><passive>Gracia salvadora:<\/passive> Al sufrir da\u00f1o letal, restaura un 50% de la vida b\u00e1sica y un 30% del man\u00e1 m\u00e1ximo tras 4 s de estasis (300 s de enfriamiento).","item-3031":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Filo infinito\" tooltip-var=\"item-3031\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3031-24 \"\/> Filo infinito<\/itemname><br><stats><attention>+70<\/attention> de da\u00f1o de ataque<br><attention>+20%<\/attention> de probabilidad de impacto cr\u00edtico<\/stats><br><li><passive>Perfecci\u00f3n:<\/passive> Si tienes al menos un 60% de probabilidad de impacto cr\u00edtico, obtienes un 35% de da\u00f1o de impacto cr\u00edtico.","item-3036":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Recuerdos de lord Dominik\" tooltip-var=\"item-3036\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3036-24 \"\/> Recuerdos de lord Dominik<\/itemname><br><stats><attention>+30<\/attention> de da\u00f1o de ataque<br><attention>+20%<\/attention> de probabilidad de impacto cr\u00edtico<br><attention>+35%<\/attention> de penetraci\u00f3n de armadura<\/stats><br><li><passive>Verdugo de gigantes:<\/passive> Infliges hasta un 15% de da\u00f1o f\u00edsico adicional a campeones que tengan m\u00e1s vida m\u00e1xima que t\u00fa.<br><br><rules>Mejora m\u00e1xima con 2000 de vida m\u00e1xima de diferencia).<\/rules>","perksdetails-2429327485":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8021.png\" width=\"48\" height=\"48\" alt=\"Pies veloces\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Pies veloces<\/div>Atacar y moverse genera acumulaciones de energ\u00eda. A las 100 acumulaciones, tu siguiente ataque te cura y te otorga velocidad de movimiento adicional.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8009.png\" width=\"30\" height=\"30\" alt=\"Claridad mental\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Claridad mental<\/div>Aumenta tu regeneraci\u00f3n de man\u00e1 o energ\u00eda al infligir da\u00f1o a un campe\u00f3n enemigo. Los asesinatos o asistencias restauran man\u00e1 o energ\u00eda.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/9103.png\" width=\"30\" height=\"30\" alt=\"Leyenda: Linaje\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Leyenda: Linaje<\/div>Los asesinatos y asistencias otorgan robo de vida permanente. Es m\u00e1s d\u00e9bil al principio, pero m\u00e1s fuerte que otras runas Leyenda cuando avanza la partida.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8017.png\" width=\"30\" height=\"30\" alt=\"Derribado\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Derribado<\/div>Infliges m\u00e1s da\u00f1o a todos los campeones que tengan m\u00e1s vida m\u00e1xima que t\u00fa.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8139.png\" width=\"30\" height=\"30\" alt=\"Sabor a sangre\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Sabor a sangre<\/div>Recuperas vida cuando da\u00f1as a un campe\u00f3n enemigo.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8135.png\" width=\"30\" height=\"30\" alt=\"Cazador voraz\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Cazador voraz<\/div>Las asistencias y asesinatos \u00fanicos otorgan omnisucci\u00f3n permanente. <\/div><\/div><div class=\"statPerks\"><\/div><\/div>","spell-4":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Destello\" tooltip-var=\"spell-4\" height=\"24\" width=\"24\" class=\"requireTooltip spell-4-24 \"\/> Destello<\/itemname><br>Teleporta a tu campe\u00f3n una corta distancia hacia la posici\u00f3n del cursor.","spell-7":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Curar\" tooltip-var=\"spell-7\" height=\"24\" width=\"24\" class=\"requireTooltip spell-7-24 \"\/> Curar<\/itemname><br>Restaura 90-345 de vida (seg\u00fan el nivel del campe\u00f3n) y otorga un 30% de velocidad de movimiento adicional durante 1 s tanto a ti como al campe\u00f3n aliado objetivo. La curaci\u00f3n se reduce a la mitad para las unidades afectadas recientemente por Curar.","item-3363":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Visi\u00f3n lejana modificada\" tooltip-var=\"item-3363\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3363-24 \"\/> Visi\u00f3n lejana modificada<\/itemname><br><stats><\/stats> <active>Activa - Talism\u00e1n:<\/active> Revela una zona y coloca un guardi\u00e1n visible y vulnerable a un m\u00e1ximo de 4000 unidades de distancia. Los aliados no pueden seleccionar este guardi\u00e1n con habilidades o hechizos de invocador (198 - 99 s de enfriamiento).","perksdetails-1875877156":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8021.png\" width=\"48\" height=\"48\" alt=\"Pies veloces\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Pies veloces<\/div>Atacar y moverse genera acumulaciones de energ\u00eda. A las 100 acumulaciones, tu siguiente ataque te cura y te otorga velocidad de movimiento adicional.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8009.png\" width=\"30\" height=\"30\" alt=\"Claridad mental\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Claridad mental<\/div>Aumenta tu regeneraci\u00f3n de man\u00e1 o energ\u00eda al infligir da\u00f1o a un campe\u00f3n enemigo. Los asesinatos o asistencias restauran man\u00e1 o energ\u00eda.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/9103.png\" width=\"30\" height=\"30\" alt=\"Leyenda: Linaje\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Leyenda: Linaje<\/div>Los asesinatos y asistencias otorgan robo de vida permanente. Es m\u00e1s d\u00e9bil al principio, pero m\u00e1s fuerte que otras runas Leyenda cuando avanza la partida.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8014.png\" width=\"30\" height=\"30\" alt=\"Golpe de gracia\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Golpe de gracia<\/div>Infliges m\u00e1s da\u00f1o a los campeones enemigos con poca vida.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8275.png\" width=\"30\" height=\"30\" alt=\"Capa del nimbo\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Capa del nimbo<\/div>Despu\u00e9s de lanzar un hechizo de invocador, obtienes un breve aumento de velocidad de movimiento que te permite atravesar unidades.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8234.png\" width=\"30\" height=\"30\" alt=\"Celeridad\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Celeridad<\/div>Todas las bonificaciones de velocidad de movimiento son un 7% m\u00e1s efectivas sobre ti y tu velocidad de movimiento aumenta un 1%.<\/div><\/div><div class=\"statPerks\"><\/div><\/div>","item-3134":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Daga dentada\" tooltip-var=\"item-3134\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3134-24 \"\/> Daga dentada<\/itemname><br><stats><attention>+30<\/attention> de da\u00f1o de ataque<\/stats><br><li><passive>Trinchar:<\/passive> Otorga 10 de letalidad.","item-1042":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Daga\" tooltip-var=\"item-1042\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1042-24 \"\/> Daga<\/itemname><br><stats><attention>+12%<\/attention> de velocidad de ataque<\/stats>","item-1018":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Capa de agilidad\" tooltip-var=\"item-1018\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1018-24 \"\/> Capa de agilidad<\/itemname><br><stats><attention>+15%<\/attention> de probabilidad de impacto cr\u00edtico<\/stats>","perksdetails-1894126786":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8021.png\" width=\"48\" height=\"48\" alt=\"Pies veloces\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Pies veloces<\/div>Atacar y moverse genera acumulaciones de energ\u00eda. A las 100 acumulaciones, tu siguiente ataque te cura y te otorga velocidad de movimiento adicional.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8009.png\" width=\"30\" height=\"30\" alt=\"Claridad mental\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Claridad mental<\/div>Aumenta tu regeneraci\u00f3n de man\u00e1 o energ\u00eda al infligir da\u00f1o a un campe\u00f3n enemigo. Los asesinatos o asistencias restauran man\u00e1 o energ\u00eda.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/9103.png\" width=\"30\" height=\"30\" alt=\"Leyenda: Linaje\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Leyenda: Linaje<\/div>Los asesinatos y asistencias otorgan robo de vida permanente. Es m\u00e1s d\u00e9bil al principio, pero m\u00e1s fuerte que otras runas Leyenda cuando avanza la partida.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8014.png\" width=\"30\" height=\"30\" alt=\"Golpe de gracia\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Golpe de gracia<\/div>Infliges m\u00e1s da\u00f1o a los campeones enemigos con poca vida.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8139.png\" width=\"30\" height=\"30\" alt=\"Sabor a sangre\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Sabor a sangre<\/div>Recuperas vida cuando da\u00f1as a un campe\u00f3n enemigo.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8135.png\" width=\"30\" height=\"30\" alt=\"Cazador voraz\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Cazador voraz<\/div>Las asistencias y asesinatos \u00fanicos otorgan omnisucci\u00f3n permanente. <\/div><\/div><div class=\"statPerks\"><\/div><\/div>","item-6692":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Eclipse\" tooltip-var=\"item-6692\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-6692-24 \"\/> Eclipse<\/itemname><br><stats><attention>+55<\/attention> de da\u00f1o de ataque<br><attention>+18<\/attention> de letalidad<br><attention>+8%<\/attention> de omnisucci\u00f3n<\/stats><br><li><passive>Luna creciente:<\/passive> Golpear a un campe\u00f3n con 2 ataques o habilidades independientes en 1.5 s o menos inflige un 6% de su vida m\u00e1xima como da\u00f1o f\u00edsico, te otorga un 15% de velocidad de movimiento y un escudo de (150 + 40% del da\u00f1o de ataque adicional) (100 + 30% del da\u00f1o de ataque adicional para campeones a distancia) durante 2 s (8 s de enfriamiento, 16 s de enfriamiento para campeones a distancia).<br><br><rarityMythic>Pasiva m\u00edtica:<\/rarityMythic> Se otorga a todos los dem\u00e1s objetos legendarios <attention> 4%<\/attention> de penetraci\u00f3n de armadura","item-3158":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Botas jonias de la lucidez\" tooltip-var=\"item-3158\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3158-24 \"\/> Botas jonias de la lucidez<\/itemname><br><stats><attention>+20<\/attention> de velocidad de habilidades<br><attention>+45<\/attention> de velocidad de movimiento<\/stats><br><li>Otorga 12 de velocidad de hechizos de invocador.<br><br>''Este objeto est\u00e1 dedicado a la victoria de Jonia contra Noxus en la revancha por las provincias meridionales del 10 de diciembre del 20 CLE''.","spell-3":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Extenuaci\u00f3n\" tooltip-var=\"spell-3\" height=\"24\" width=\"24\" class=\"requireTooltip spell-3-24 \"\/> Extenuaci\u00f3n<\/itemname><br>Exten\u00faa al campe\u00f3n enemigo objetivo, lo que reduce en un 30% su velocidad de movimiento y en un 40% su da\u00f1o durante 3 s.","item-2420":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Cron\u00f3metro\" tooltip-var=\"item-2420\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-2420-24 \"\/> Cron\u00f3metro<\/itemname><br><stats><\/stats> <active>Activa -<\/active> <active>Estasis:<\/active> Se puede usar una vez para volverse invulnerable e inalcanzable durante 2.5 s, pero no se puede realizar ninguna otra acci\u00f3n durante ese tiempo (se transforma en Cron\u00f3metro estropeado).","item-3033":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Recordatorio letal\" tooltip-var=\"item-3033\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3033-24 \"\/> Recordatorio letal<\/itemname><br><stats><attention>+25<\/attention> de da\u00f1o de ataque<br><attention>+25%<\/attention> de velocidad de ataque<br><attention>+20%<\/attention> de probabilidad de impacto cr\u00edtico<br><attention>+7%<\/attention> de velocidad de movimiento<\/stats><br><li><passive>Sepsis:<\/passive> Infligir da\u00f1o f\u00edsico aplica un 40% de Heridas graves a los campeones enemigos durante 3 s. Atacar 3 veces seguidas a un campe\u00f3n enemigo mejora este efecto a un 60% de Heridas graves contra dicho enemigo hasta que el efecto acaba.<br><br><rules>Heridas graves reduce los efectos de curaci\u00f3n y regeneraci\u00f3n.<\/rules>","perksdetails-370292124":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8021.png\" width=\"48\" height=\"48\" alt=\"Pies veloces\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Pies veloces<\/div>Atacar y moverse genera acumulaciones de energ\u00eda. A las 100 acumulaciones, tu siguiente ataque te cura y te otorga velocidad de movimiento adicional.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8009.png\" width=\"30\" height=\"30\" alt=\"Claridad mental\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Claridad mental<\/div>Aumenta tu regeneraci\u00f3n de man\u00e1 o energ\u00eda al infligir da\u00f1o a un campe\u00f3n enemigo. Los asesinatos o asistencias restauran man\u00e1 o energ\u00eda.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/9103.png\" width=\"30\" height=\"30\" alt=\"Leyenda: Linaje\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Leyenda: Linaje<\/div>Los asesinatos y asistencias otorgan robo de vida permanente. Es m\u00e1s d\u00e9bil al principio, pero m\u00e1s fuerte que otras runas Leyenda cuando avanza la partida.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8017.png\" width=\"30\" height=\"30\" alt=\"Derribado\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Derribado<\/div>Infliges m\u00e1s da\u00f1o a todos los campeones que tengan m\u00e1s vida m\u00e1xima que t\u00fa.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8275.png\" width=\"30\" height=\"30\" alt=\"Capa del nimbo\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Capa del nimbo<\/div>Despu\u00e9s de lanzar un hechizo de invocador, obtienes un breve aumento de velocidad de movimiento que te permite atravesar unidades.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8234.png\" width=\"30\" height=\"30\" alt=\"Celeridad\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Celeridad<\/div>Todas las bonificaciones de velocidad de movimiento son un 7% m\u00e1s efectivas sobre ti y tu velocidad de movimiento aumenta un 1%.<\/div><\/div><div class=\"statPerks\"><\/div><\/div>","item-1036":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Espada larga\" tooltip-var=\"item-1036\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1036-24 \"\/> Espada larga<\/itemname><br><stats><attention>+10<\/attention> de da\u00f1o de ataque<\/stats>","item-1001":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Botas\" tooltip-var=\"item-1001\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1001-24 \"\/> Botas<\/itemname><br><stats><attention>+25<\/attention> de velocidad de movimiento<\/stats>"};
+    var newTooltipData = {"item-3340":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Guardi\u00e1n invisible\" tooltip-var=\"item-3340\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3340-24 \"\/> Guardi\u00e1n invisible<\/itemname><br><stats><\/stats> <active>Activa - Talism\u00e1n:<\/active> Coloca un guardi\u00e1n invisible en el suelo que dura 90 - 120 s y los enemigos no pueden ver, pero otorga a tu equipo visi\u00f3n de la zona circundante. Almacena hasta 2 guardianes invisibles y genera un nuevo guardi\u00e1n cada 240 - 120 s. ","item-1055":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Espada de Doran\" tooltip-var=\"item-1055\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1055-24 \"\/> Espada de Doran<\/itemname><br><stats><attention>+8<\/attention> de da\u00f1o de ataque<br><attention>+80<\/attention> de vida<\/stats><br><li><passive>Belicista:<\/passive> Otorga un 2.5% de omnisucci\u00f3n.<br><br><rules>La omnisucci\u00f3n se reduce a un 33% de efectividad cuando se trata de da\u00f1o en \u00e1rea de efecto y el da\u00f1o de mascotas.<\/rules>","item-2003":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Poci\u00f3n de vida\" tooltip-var=\"item-2003\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-2003-24 \"\/> Poci\u00f3n de vida<\/itemname><br><stats><\/stats> <active>Activa - Consumir:<\/active> Consume la poci\u00f3n para restaurar 150 de vida a lo largo de 15 s.<br><br><rules>Puedes llevar hasta 5 pociones de vida.<\/rules>","item-6670":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Carcaj del mediod\u00eda\" tooltip-var=\"item-6670\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-6670-24 \"\/> Carcaj del mediod\u00eda<\/itemname><br><stats><attention>+30<\/attention> de da\u00f1o de ataque<br><attention>+15%<\/attention> de velocidad de ataque<\/stats><br><li><passive>Precisi\u00f3n:<\/passive> Los ataques infligen 20 de da\u00f1o f\u00edsico adicional a los s\u00fabditos y monstruos.","item-6671":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Viento huracanado\" tooltip-var=\"item-6671\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-6671-24 \"\/> Viento huracanado<\/itemname><br><stats><attention>+60<\/attention> de da\u00f1o de ataque<br><attention>+20%<\/attention> de velocidad de ataque<br><attention>+20%<\/attention> de probabilidad de impacto cr\u00edtico<\/stats><br> <active>Activa -<\/active> <active>Aguacero:<\/active> Te deslizas hacia la direcci\u00f3n seleccionada y disparas tres misiles al enemigo con menos vida que se encuentre cerca de tu destino (prioriza a los campeones). Inflige un total de (180 - 220 (seg\u00fan el nivel) + 45% del da\u00f1o de ataque adicional) de da\u00f1o m\u00e1gico, que aumenta contra objetivos con poca vida hasta un 50% (90 s de enfriamiento).<br><br><rarityMythic>Pasiva m\u00edtica:<\/rarityMythic> Se otorga a todos los dem\u00e1s objetos legendarios <attention> 3%<\/attention> de velocidad de movimiento<br><br><rules>Da\u00f1o m\u00e1ximo del misil cuando la vida del enemigo est\u00e1 por debajo del 30%.<br>El deslizamiento de Aguacero no puede atravesar obst\u00e1culos del terreno.<\/rules>","item-6676":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Recaudadora\" tooltip-var=\"item-6676\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-6676-24 \"\/> Recaudadora<\/itemname><br><stats><attention>+55<\/attention> de da\u00f1o de ataque<br><attention>+20%<\/attention> de probabilidad de impacto cr\u00edtico<br><attention>+12<\/attention> de letalidad<\/stats><br><li><passive>Muerte e impuestos:<\/passive> Si infliges da\u00f1o a un campe\u00f3n enemigo y lo dejas con menos del 5% de vida, lo ejecutas. Los asesinatos de campeones otorgan 25 de oro adicional.","item-3094":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Ca\u00f1\u00f3n de fuego r\u00e1pido\" tooltip-var=\"item-3094\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3094-24 \"\/> Ca\u00f1\u00f3n de fuego r\u00e1pido<\/itemname><br><stats><attention>+35%<\/attention> de velocidad de ataque<br><attention>+20%<\/attention> de probabilidad de impacto cr\u00edtico<br><attention>+7%<\/attention> de velocidad de movimiento<\/stats><br><li><passive>Vigor:<\/passive> Moverse y atacar generar\u00e1 un ataque con vigor.<li><passive>Francotirador:<\/passive> Tus ataques con vigor infligen 120 de da\u00f1o m\u00e1gico adicional. Adem\u00e1s, los ataques con vigor obtienen hasta un 35% de alcance de ataque adicional.<br><br><rules>El alcance de ataque no puede aumentar m\u00e1s de 150 unidades.<\/rules>","item-3009":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Botas de rapidez\" tooltip-var=\"item-3009\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3009-24 \"\/> Botas de rapidez<\/itemname><br><stats><attention>+60<\/attention> de velocidad de movimiento<\/stats><br><li>La fuerza de los efectos de ralentizaci\u00f3n de movimiento se reduce un 25%.","item-3026":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"\u00c1ngel de la guarda\" tooltip-var=\"item-3026\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3026-24 \"\/> \u00c1ngel de la guarda<\/itemname><br><stats><attention>+40<\/attention> de da\u00f1o de ataque<br><attention>+40<\/attention> de armadura<\/stats><br><li><passive>Gracia salvadora:<\/passive> Al sufrir da\u00f1o letal, restaura un 50% de la vida b\u00e1sica y un 30% del man\u00e1 m\u00e1ximo tras 4 s de estasis (300 s de enfriamiento).","item-3036":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Recuerdos de lord Dominik\" tooltip-var=\"item-3036\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3036-24 \"\/> Recuerdos de lord Dominik<\/itemname><br><stats><attention>+30<\/attention> de da\u00f1o de ataque<br><attention>+20%<\/attention> de probabilidad de impacto cr\u00edtico<br><attention>+35%<\/attention> de penetraci\u00f3n de armadura<\/stats><br><li><passive>Verdugo de gigantes:<\/passive> Infliges hasta un 15% de da\u00f1o f\u00edsico adicional a campeones que tengan m\u00e1s vida m\u00e1xima que t\u00fa.<br><br><rules>Mejora m\u00e1xima con 2000 de vida m\u00e1xima de diferencia).<\/rules>","item-3031":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Filo infinito\" tooltip-var=\"item-3031\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3031-24 \"\/> Filo infinito<\/itemname><br><stats><attention>+70<\/attention> de da\u00f1o de ataque<br><attention>+20%<\/attention> de probabilidad de impacto cr\u00edtico<\/stats><br><li><passive>Perfecci\u00f3n:<\/passive> Si tienes al menos un 60% de probabilidad de impacto cr\u00edtico, obtienes un 35% de da\u00f1o de impacto cr\u00edtico.","perksdetails-1875877156":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8021.png\" width=\"48\" height=\"48\" alt=\"Pies veloces\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Pies veloces<\/div>Atacar y moverse genera acumulaciones de energ\u00eda. A las 100 acumulaciones, tu siguiente ataque te cura y te otorga velocidad de movimiento adicional.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8009.png\" width=\"30\" height=\"30\" alt=\"Claridad mental\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Claridad mental<\/div>Aumenta tu regeneraci\u00f3n de man\u00e1 o energ\u00eda al infligir da\u00f1o a un campe\u00f3n enemigo. Los asesinatos o asistencias restauran man\u00e1 o energ\u00eda.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/9103.png\" width=\"30\" height=\"30\" alt=\"Leyenda: Linaje\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Leyenda: Linaje<\/div>Los asesinatos y asistencias otorgan robo de vida permanente. Es m\u00e1s d\u00e9bil al principio, pero m\u00e1s fuerte que otras runas Leyenda cuando avanza la partida.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8014.png\" width=\"30\" height=\"30\" alt=\"Golpe de gracia\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Golpe de gracia<\/div>Infliges m\u00e1s da\u00f1o a los campeones enemigos con poca vida.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8275.png\" width=\"30\" height=\"30\" alt=\"Capa del nimbo\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Capa del nimbo<\/div>Despu\u00e9s de lanzar un hechizo de invocador, obtienes un breve aumento de velocidad de movimiento que te permite atravesar unidades.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8234.png\" width=\"30\" height=\"30\" alt=\"Celeridad\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Celeridad<\/div>Todas las bonificaciones de velocidad de movimiento son un 7% m\u00e1s efectivas sobre ti y tu velocidad de movimiento aumenta un 1%.<\/div><\/div><div class=\"statPerks\"><\/div><\/div>","spell-4":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Destello\" tooltip-var=\"spell-4\" height=\"24\" width=\"24\" class=\"requireTooltip spell-4-24 \"\/> Destello<\/itemname><br>Teleporta a tu campe\u00f3n una corta distancia hacia la posici\u00f3n del cursor.","spell-7":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Curar\" tooltip-var=\"spell-7\" height=\"24\" width=\"24\" class=\"requireTooltip spell-7-24 \"\/> Curar<\/itemname><br>Restaura 90-345 de vida (seg\u00fan el nivel del campe\u00f3n) y otorga un 30% de velocidad de movimiento adicional durante 1 s tanto a ti como al campe\u00f3n aliado objetivo. La curaci\u00f3n se reduce a la mitad para las unidades afectadas recientemente por Curar.","item-1038":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Espad\u00f3n\" tooltip-var=\"item-1038\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1038-24 \"\/> Espad\u00f3n<\/itemname><br><stats><attention>+40<\/attention> de da\u00f1o de ataque<\/stats>","item-1037":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Pico\" tooltip-var=\"item-1037\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1037-24 \"\/> Pico<\/itemname><br><stats><attention>+25<\/attention> de da\u00f1o de ataque<\/stats>","item-3363":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Visi\u00f3n lejana modificada\" tooltip-var=\"item-3363\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3363-24 \"\/> Visi\u00f3n lejana modificada<\/itemname><br><stats><\/stats> <active>Activa - Talism\u00e1n:<\/active> Revela una zona y coloca un guardi\u00e1n visible y vulnerable a un m\u00e1ximo de 4000 unidades de distancia. Los aliados no pueden seleccionar este guardi\u00e1n con habilidades o hechizos de invocador (198 - 99 s de enfriamiento).","perksdetails-2661123514":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8128.png\" width=\"48\" height=\"48\" alt=\"Cosecha oscura\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Cosecha oscura<\/div>Da\u00f1ar a un campe\u00f3n con poca vida inflige da\u00f1o adaptable y cosecha una alma de la v\u00edctima.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8139.png\" width=\"30\" height=\"30\" alt=\"Sabor a sangre\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Sabor a sangre<\/div>Recuperas vida cuando da\u00f1as a un campe\u00f3n enemigo.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8138.png\" width=\"30\" height=\"30\" alt=\"Colecci\u00f3n de globos oculares\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Colecci\u00f3n de globos oculares<\/div>Coleccionas globos oculares por las eliminaciones de campeones. Obtienes DA o PH adaptable permanente por cada globo ocular y una cantidad adicional al completar la colecci\u00f3n.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8135.png\" width=\"30\" height=\"30\" alt=\"Cazador voraz\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Cazador voraz<\/div>Las asistencias y asesinatos \u00fanicos otorgan omnisucci\u00f3n permanente. <\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/9103.png\" width=\"30\" height=\"30\" alt=\"Leyenda: Linaje\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Leyenda: Linaje<\/div>Los asesinatos y asistencias otorgan robo de vida permanente. Es m\u00e1s d\u00e9bil al principio, pero m\u00e1s fuerte que otras runas Leyenda cuando avanza la partida.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8014.png\" width=\"30\" height=\"30\" alt=\"Golpe de gracia\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Golpe de gracia<\/div>Infliges m\u00e1s da\u00f1o a los campeones enemigos con poca vida.<\/div><\/div><div class=\"statPerks\"><\/div><\/div>","item-1001":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Botas\" tooltip-var=\"item-1001\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-1001-24 \"\/> Botas<\/itemname><br><stats><attention>+25<\/attention> de velocidad de movimiento<\/stats>","item-2031":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Poci\u00f3n reutilizable\" tooltip-var=\"item-2031\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-2031-24 \"\/> Poci\u00f3n reutilizable<\/itemname><br><stats><\/stats> <active>Activa - Consumir:<\/active> Consume una carga para restaurar 125 de vida a lo largo de 12 s. Contiene hasta 2 cargas y se rellena al visitar la tienda.","item-3047":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Botas blindadas\" tooltip-var=\"item-3047\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3047-24 \"\/> Botas blindadas<\/itemname><br><stats><attention>+20<\/attention> de armadura<br><attention>+45<\/attention> de velocidad de movimiento<\/stats><br><li>Reduce un 12% el da\u00f1o sufrido por ataques.","item-3134":"<itemname><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/fond_sprite.png\" alt=\"Daga dentada\" tooltip-var=\"item-3134\" tooltip-class=\"itemTooltip\" height=\"24\" width=\"24\" class=\"requireTooltip item-3134-24 \"\/> Daga dentada<\/itemname><br><stats><attention>+30<\/attention> de da\u00f1o de ataque<\/stats><br><li><passive>Trinchar:<\/passive> Otorga 10 de letalidad.","perksdetails-370292124":"<div class=\"tooltipColumns\"><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8021.png\" width=\"48\" height=\"48\" alt=\"Pies veloces\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Pies veloces<\/div>Atacar y moverse genera acumulaciones de energ\u00eda. A las 100 acumulaciones, tu siguiente ataque te cura y te otorga velocidad de movimiento adicional.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8009.png\" width=\"30\" height=\"30\" alt=\"Claridad mental\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Claridad mental<\/div>Aumenta tu regeneraci\u00f3n de man\u00e1 o energ\u00eda al infligir da\u00f1o a un campe\u00f3n enemigo. Los asesinatos o asistencias restauran man\u00e1 o energ\u00eda.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/9103.png\" width=\"30\" height=\"30\" alt=\"Leyenda: Linaje\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Leyenda: Linaje<\/div>Los asesinatos y asistencias otorgan robo de vida permanente. Es m\u00e1s d\u00e9bil al principio, pero m\u00e1s fuerte que otras runas Leyenda cuando avanza la partida.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8017.png\" width=\"30\" height=\"30\" alt=\"Derribado\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Derribado<\/div>Infliges m\u00e1s da\u00f1o a todos los campeones que tengan m\u00e1s vida m\u00e1xima que t\u00fa.<\/div><\/div><\/div><div class=\"tooltipColumn\"><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8275.png\" width=\"30\" height=\"30\" alt=\"Capa del nimbo\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Capa del nimbo<\/div>Despu\u00e9s de lanzar un hechizo de invocador, obtienes un breve aumento de velocidad de movimiento que te permite atravesar unidades.<\/div><\/div><div class=\"img-align-block verticalTop perksDescription\"><div><img src=\"\/\/lolg-cdn.porofessor.gg\/img\/perks\/11.9\/64\/8234.png\" width=\"30\" height=\"30\" alt=\"Celeridad\" \/><\/div><div class=\"txt\"><div class=\"perkTitle\">Celeridad<\/div>Todas las bonificaciones de velocidad de movimiento son un 7% m\u00e1s efectivas sobre ti y tu velocidad de movimiento aumenta un 1%.<\/div><\/div><div class=\"statPerks\"><\/div><\/div>"};
     if (window.tooltipData) {
         window.tooltipData = Object.assign(window.tooltipData, newTooltipData);
     } else {
@@ -5614,18 +5602,18 @@ window['nitroAds'].createAd('mobile', {
 </script>                        </div>
 
                         <div style="margin-top:0px; margin-bottom:0px; position: relative;">
-                        <div id="adasync790730" class="text-center"><div id="horizBottom"></div></div>
+                        <div id="adasync358399" class="text-center"><div id="horizBottom"></div></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(true){
-                                            document.getElementById('adasync790730').innerHTML = '<div id="horizBottom"></div>';
+                                            document.getElementById('adasync358399').innerHTML = '<div id="horizBottom"></div>';
                                             window['nitroAds'].createAd("horizBottom", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[728, 90]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(true) {
-                                            document.getElementById('adasync790730').innerHTML = '<div id="horizBottom-mobile"></div>';
+                                            document.getElementById('adasync358399').innerHTML = '<div id="horizBottom-mobile"></div>';
                                             window['nitroAds'].createAd("horizBottom-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250], [320, 50]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -5649,18 +5637,18 @@ window['nitroAds'].createAd('mobile', {
             </div>
 
             <div style="margin-top:0px; margin-bottom:0px; position: relative;">
-                        <div id="adasync551022" class="text-center"><div id="comments300x250"></div></div>
+                        <div id="adasync992124" class="text-center"><div id="comments300x250"></div></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 640){
                                         if(true){
-                                            document.getElementById('adasync551022').innerHTML = '<div id="comments300x250"></div>';
+                                            document.getElementById('adasync992124').innerHTML = '<div id="comments300x250"></div>';
                                             window['nitroAds'].createAd("comments300x250", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(false) {
-                                            document.getElementById('adasync551022').innerHTML = '<div id="comments300x250-mobile"></div>';
+                                            document.getElementById('adasync992124').innerHTML = '<div id="comments300x250-mobile"></div>';
                                             window['nitroAds'].createAd("comments300x250-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -5688,7 +5676,7 @@ window['nitroAds'].createAd('mobile', {
                                 <td>
                                     <div class="row">
                                         <div class="medium-10 small-24 columns">
-                                            <img id="captcha" width="120" height="40" title="Click to reload" alt="Captcha" src="/captcha.php?k=8RfsGr">
+                                            <img id="captcha" width="120" height="40" title="Click to reload" alt="Captcha" src="/captcha.php?k=17NqB7">
                                         </div>
 
                                         <div class="medium-14 small-24 columns">
@@ -5712,7 +5700,7 @@ window['nitroAds'].createAd('mobile', {
                         </tbody>
                     </table>
 
-                    <input id="rk" class="textform" type="hidden" size="25" name="rk" value="8RfsGr">
+                    <input id="rk" class="textform" type="hidden" size="25" name="rk" value="17NqB7">
                 </form>
             </div>
         </div>
@@ -5727,7 +5715,7 @@ window['nitroAds'].createAd('mobile', {
                         Also available on <a href="https://play.google.com/store/apps/details?id=leagueofgraphs.com.leagueofgraphs" target="_blank">Android</a>.
                         <span class="ccpaLink" data-ccpa-link="1"></span>.
                         <u><a href="/legal">Legal</a></u>.
-                        Página cargada en 0.009 segundos                        <br>
+                        Página cargada en 0.006 segundos                        <br>
                     </div>
                 </div>
 
@@ -5768,13 +5756,13 @@ window['nitroAds'].createAd('mobile', {
             RecentSearchesHelper.addChampionSeen(202);
 
         var allChampions = [{"championId":"1","championSlug":"annie","championName":"Annie","championNameWithBuild":"Builds de Annie "},{"championId":"2","championSlug":"olaf","championName":"Olaf","championNameWithBuild":"Builds de Olaf "},{"championId":"3","championSlug":"galio","championName":"Galio","championNameWithBuild":"Builds de Galio "},{"championId":"4","championSlug":"twistedfate","championName":"Twisted Fate","championNameWithBuild":"Builds de Twisted Fate "},{"championId":"5","championSlug":"xinzhao","championName":"Xin Zhao","championNameWithBuild":"Builds de Xin Zhao "},{"championId":"6","championSlug":"urgot","championName":"Urgot","championNameWithBuild":"Builds de Urgot "},{"championId":"7","championSlug":"leblanc","championName":"LeBlanc","championNameWithBuild":"Builds de LeBlanc "},{"championId":"8","championSlug":"vladimir","championName":"Vladimir","championNameWithBuild":"Builds de Vladimir "},{"championId":"9","championSlug":"fiddlesticks","championName":"Fiddlesticks","championNameWithBuild":"Builds de Fiddlesticks "},{"championId":"10","championSlug":"kayle","championName":"Kayle","championNameWithBuild":"Builds de Kayle "},{"championId":"11","championSlug":"masteryi","championName":"Maestro Yi","championNameWithBuild":"Builds de Maestro Yi "},{"championId":"12","championSlug":"alistar","championName":"Alistar","championNameWithBuild":"Builds de Alistar "},{"championId":"13","championSlug":"ryze","championName":"Ryze","championNameWithBuild":"Builds de Ryze "},{"championId":"14","championSlug":"sion","championName":"Sion","championNameWithBuild":"Builds de Sion "},{"championId":"15","championSlug":"sivir","championName":"Sivir","championNameWithBuild":"Builds de Sivir "},{"championId":"16","championSlug":"soraka","championName":"Soraka","championNameWithBuild":"Builds de Soraka "},{"championId":"17","championSlug":"teemo","championName":"Teemo","championNameWithBuild":"Builds de Teemo "},{"championId":"18","championSlug":"tristana","championName":"Tristana","championNameWithBuild":"Builds de Tristana "},{"championId":"19","championSlug":"warwick","championName":"Warwick","championNameWithBuild":"Builds de Warwick "},{"championId":"20","championSlug":"nunu","championName":"Nunu y Willump","championNameWithBuild":"Builds de Nunu y Willump "},{"championId":"21","championSlug":"missfortune","championName":"Miss Fortune","championNameWithBuild":"Builds de Miss Fortune "},{"championId":"22","championSlug":"ashe","championName":"Ashe","championNameWithBuild":"Builds de Ashe "},{"championId":"23","championSlug":"tryndamere","championName":"Tryndamere","championNameWithBuild":"Builds de Tryndamere "},{"championId":"24","championSlug":"jax","championName":"Jax","championNameWithBuild":"Builds de Jax "},{"championId":"25","championSlug":"morgana","championName":"Morgana","championNameWithBuild":"Builds de Morgana "},{"championId":"26","championSlug":"zilean","championName":"Zilean","championNameWithBuild":"Builds de Zilean "},{"championId":"27","championSlug":"singed","championName":"Singed","championNameWithBuild":"Builds de Singed "},{"championId":"28","championSlug":"evelynn","championName":"Evelynn","championNameWithBuild":"Builds de Evelynn "},{"championId":"29","championSlug":"twitch","championName":"Twitch","championNameWithBuild":"Builds de Twitch "},{"championId":"30","championSlug":"karthus","championName":"Karthus","championNameWithBuild":"Builds de Karthus "},{"championId":"31","championSlug":"chogath","championName":"Cho'Gath","championNameWithBuild":"Builds de Cho'Gath "},{"championId":"32","championSlug":"amumu","championName":"Amumu","championNameWithBuild":"Builds de Amumu "},{"championId":"33","championSlug":"rammus","championName":"Rammus","championNameWithBuild":"Builds de Rammus "},{"championId":"34","championSlug":"anivia","championName":"Anivia","championNameWithBuild":"Builds de Anivia "},{"championId":"35","championSlug":"shaco","championName":"Shaco","championNameWithBuild":"Builds de Shaco "},{"championId":"36","championSlug":"drmundo","championName":"Dr. Mundo","championNameWithBuild":"Builds de Dr. Mundo "},{"championId":"37","championSlug":"sona","championName":"Sona","championNameWithBuild":"Builds de Sona "},{"championId":"38","championSlug":"kassadin","championName":"Kassadin","championNameWithBuild":"Builds de Kassadin "},{"championId":"39","championSlug":"irelia","championName":"Irelia","championNameWithBuild":"Builds de Irelia "},{"championId":"40","championSlug":"janna","championName":"Janna","championNameWithBuild":"Builds de Janna "},{"championId":"41","championSlug":"gangplank","championName":"Gangplank","championNameWithBuild":"Builds de Gangplank "},{"championId":"42","championSlug":"corki","championName":"Corki","championNameWithBuild":"Builds de Corki "},{"championId":"43","championSlug":"karma","championName":"Karma","championNameWithBuild":"Builds de Karma "},{"championId":"44","championSlug":"taric","championName":"Taric","championNameWithBuild":"Builds de Taric "},{"championId":"45","championSlug":"veigar","championName":"Veigar","championNameWithBuild":"Builds de Veigar "},{"championId":"48","championSlug":"trundle","championName":"Trundle","championNameWithBuild":"Builds de Trundle "},{"championId":"50","championSlug":"swain","championName":"Swain","championNameWithBuild":"Builds de Swain "},{"championId":"51","championSlug":"caitlyn","championName":"Caitlyn","championNameWithBuild":"Builds de Caitlyn "},{"championId":"53","championSlug":"blitzcrank","championName":"Blitzcrank","championNameWithBuild":"Builds de Blitzcrank "},{"championId":"54","championSlug":"malphite","championName":"Malphite","championNameWithBuild":"Builds de Malphite "},{"championId":"55","championSlug":"katarina","championName":"Katarina","championNameWithBuild":"Builds de Katarina "},{"championId":"56","championSlug":"nocturne","championName":"Nocturne","championNameWithBuild":"Builds de Nocturne "},{"championId":"57","championSlug":"maokai","championName":"Maokai","championNameWithBuild":"Builds de Maokai "},{"championId":"58","championSlug":"renekton","championName":"Renekton","championNameWithBuild":"Builds de Renekton "},{"championId":"59","championSlug":"jarvaniv","championName":"Jarvan IV","championNameWithBuild":"Builds de Jarvan IV "},{"championId":"60","championSlug":"elise","championName":"Elise","championNameWithBuild":"Builds de Elise "},{"championId":"61","championSlug":"orianna","championName":"Orianna","championNameWithBuild":"Builds de Orianna "},{"championId":"62","championSlug":"monkeyking","championName":"Wukong","championNameWithBuild":"Builds de Wukong "},{"championId":"63","championSlug":"brand","championName":"Brand","championNameWithBuild":"Builds de Brand "},{"championId":"64","championSlug":"leesin","championName":"Lee Sin","championNameWithBuild":"Builds de Lee Sin "},{"championId":"67","championSlug":"vayne","championName":"Vayne","championNameWithBuild":"Builds de Vayne "},{"championId":"68","championSlug":"rumble","championName":"Rumble","championNameWithBuild":"Builds de Rumble "},{"championId":"69","championSlug":"cassiopeia","championName":"Cassiopeia","championNameWithBuild":"Builds de Cassiopeia "},{"championId":"72","championSlug":"skarner","championName":"Skarner","championNameWithBuild":"Builds de Skarner "},{"championId":"74","championSlug":"heimerdinger","championName":"Heimerdinger","championNameWithBuild":"Builds de Heimerdinger "},{"championId":"75","championSlug":"nasus","championName":"Nasus","championNameWithBuild":"Builds de Nasus "},{"championId":"76","championSlug":"nidalee","championName":"Nidalee","championNameWithBuild":"Builds de Nidalee "},{"championId":"77","championSlug":"udyr","championName":"Udyr","championNameWithBuild":"Builds de Udyr "},{"championId":"78","championSlug":"poppy","championName":"Poppy","championNameWithBuild":"Builds de Poppy "},{"championId":"79","championSlug":"gragas","championName":"Gragas","championNameWithBuild":"Builds de Gragas "},{"championId":"80","championSlug":"pantheon","championName":"Pantheon","championNameWithBuild":"Builds de Pantheon "},{"championId":"81","championSlug":"ezreal","championName":"Ezreal","championNameWithBuild":"Builds de Ezreal "},{"championId":"82","championSlug":"mordekaiser","championName":"Mordekaiser","championNameWithBuild":"Builds de Mordekaiser "},{"championId":"83","championSlug":"yorick","championName":"Yorick","championNameWithBuild":"Builds de Yorick "},{"championId":"84","championSlug":"akali","championName":"Akali","championNameWithBuild":"Builds de Akali "},{"championId":"85","championSlug":"kennen","championName":"Kennen","championNameWithBuild":"Builds de Kennen "},{"championId":"86","championSlug":"garen","championName":"Garen","championNameWithBuild":"Builds de Garen "},{"championId":"89","championSlug":"leona","championName":"Leona","championNameWithBuild":"Builds de Leona "},{"championId":"90","championSlug":"malzahar","championName":"Malzahar","championNameWithBuild":"Builds de Malzahar "},{"championId":"91","championSlug":"talon","championName":"Talon","championNameWithBuild":"Builds de Talon "},{"championId":"92","championSlug":"riven","championName":"Riven","championNameWithBuild":"Builds de Riven "},{"championId":"96","championSlug":"kogmaw","championName":"Kog'Maw","championNameWithBuild":"Builds de Kog'Maw "},{"championId":"98","championSlug":"shen","championName":"Shen","championNameWithBuild":"Builds de Shen "},{"championId":"99","championSlug":"lux","championName":"Lux","championNameWithBuild":"Builds de Lux "},{"championId":"101","championSlug":"xerath","championName":"Xerath","championNameWithBuild":"Builds de Xerath "},{"championId":"102","championSlug":"shyvana","championName":"Shyvana","championNameWithBuild":"Builds de Shyvana "},{"championId":"103","championSlug":"ahri","championName":"Ahri","championNameWithBuild":"Builds de Ahri "},{"championId":"104","championSlug":"graves","championName":"Graves","championNameWithBuild":"Builds de Graves "},{"championId":"105","championSlug":"fizz","championName":"Fizz","championNameWithBuild":"Builds de Fizz "},{"championId":"106","championSlug":"volibear","championName":"Volibear","championNameWithBuild":"Builds de Volibear "},{"championId":"107","championSlug":"rengar","championName":"Rengar","championNameWithBuild":"Builds de Rengar "},{"championId":"110","championSlug":"varus","championName":"Varus","championNameWithBuild":"Builds de Varus "},{"championId":"111","championSlug":"nautilus","championName":"Nautilus","championNameWithBuild":"Builds de Nautilus "},{"championId":"112","championSlug":"viktor","championName":"Viktor","championNameWithBuild":"Builds de Viktor "},{"championId":"113","championSlug":"sejuani","championName":"Sejuani","championNameWithBuild":"Builds de Sejuani "},{"championId":"114","championSlug":"fiora","championName":"Fiora","championNameWithBuild":"Builds de Fiora "},{"championId":"115","championSlug":"ziggs","championName":"Ziggs","championNameWithBuild":"Builds de Ziggs "},{"championId":"117","championSlug":"lulu","championName":"Lulu","championNameWithBuild":"Builds de Lulu "},{"championId":"119","championSlug":"draven","championName":"Draven","championNameWithBuild":"Builds de Draven "},{"championId":"120","championSlug":"hecarim","championName":"Hecarim","championNameWithBuild":"Builds de Hecarim "},{"championId":"121","championSlug":"khazix","championName":"Kha'Zix","championNameWithBuild":"Builds de Kha'Zix "},{"championId":"122","championSlug":"darius","championName":"Darius","championNameWithBuild":"Builds de Darius "},{"championId":"126","championSlug":"jayce","championName":"Jayce","championNameWithBuild":"Builds de Jayce "},{"championId":"127","championSlug":"lissandra","championName":"Lissandra","championNameWithBuild":"Builds de Lissandra "},{"championId":"131","championSlug":"diana","championName":"Diana","championNameWithBuild":"Builds de Diana "},{"championId":"133","championSlug":"quinn","championName":"Quinn","championNameWithBuild":"Builds de Quinn "},{"championId":"134","championSlug":"syndra","championName":"Syndra","championNameWithBuild":"Builds de Syndra "},{"championId":"136","championSlug":"aurelionsol","championName":"Aurelion Sol","championNameWithBuild":"Builds de Aurelion Sol "},{"championId":"141","championSlug":"kayn","championName":"Kayn","championNameWithBuild":"Builds de Kayn "},{"championId":"142","championSlug":"zoe","championName":"Zoe","championNameWithBuild":"Builds de Zoe "},{"championId":"143","championSlug":"zyra","championName":"Zyra","championNameWithBuild":"Builds de Zyra "},{"championId":"145","championSlug":"kaisa","championName":"Kai'Sa","championNameWithBuild":"Builds de Kai'Sa "},{"championId":"147","championSlug":"seraphine","championName":"Seraphine","championNameWithBuild":"Builds de Seraphine "},{"championId":"150","championSlug":"gnar","championName":"Gnar","championNameWithBuild":"Builds de Gnar "},{"championId":"154","championSlug":"zac","championName":"Zac","championNameWithBuild":"Builds de Zac "},{"championId":"157","championSlug":"yasuo","championName":"Yasuo","championNameWithBuild":"Builds de Yasuo "},{"championId":"161","championSlug":"velkoz","championName":"Vel'Koz","championNameWithBuild":"Builds de Vel'Koz "},{"championId":"163","championSlug":"taliyah","championName":"Taliyah","championNameWithBuild":"Builds de Taliyah "},{"championId":"164","championSlug":"camille","championName":"Camille","championNameWithBuild":"Builds de Camille "},{"championId":"201","championSlug":"braum","championName":"Braum","championNameWithBuild":"Builds de Braum "},{"championId":"202","championSlug":"jhin","championName":"Jhin","championNameWithBuild":"Builds de Jhin "},{"championId":"203","championSlug":"kindred","championName":"Kindred","championNameWithBuild":"Builds de Kindred "},{"championId":"222","championSlug":"jinx","championName":"Jinx","championNameWithBuild":"Builds de Jinx "},{"championId":"223","championSlug":"tahmkench","championName":"Tahm Kench","championNameWithBuild":"Builds de Tahm Kench "},{"championId":"234","championSlug":"viego","championName":"Viego","championNameWithBuild":"Builds de Viego "},{"championId":"235","championSlug":"senna","championName":"Senna","championNameWithBuild":"Builds de Senna "},{"championId":"236","championSlug":"lucian","championName":"Lucian","championNameWithBuild":"Builds de Lucian "},{"championId":"238","championSlug":"zed","championName":"Zed","championNameWithBuild":"Builds de Zed "},{"championId":"240","championSlug":"kled","championName":"Kled","championNameWithBuild":"Builds de Kled "},{"championId":"245","championSlug":"ekko","championName":"Ekko","championNameWithBuild":"Builds de Ekko "},{"championId":"246","championSlug":"qiyana","championName":"Qiyana","championNameWithBuild":"Builds de Qiyana "},{"championId":"254","championSlug":"vi","championName":"Vi","championNameWithBuild":"Builds de Vi "},{"championId":"266","championSlug":"aatrox","championName":"Aatrox","championNameWithBuild":"Builds de Aatrox "},{"championId":"267","championSlug":"nami","championName":"Nami","championNameWithBuild":"Builds de Nami "},{"championId":"268","championSlug":"azir","championName":"Azir","championNameWithBuild":"Builds de Azir "},{"championId":"350","championSlug":"yuumi","championName":"Yuumi","championNameWithBuild":"Builds de Yuumi "},{"championId":"360","championSlug":"samira","championName":"Samira","championNameWithBuild":"Builds de Samira "},{"championId":"412","championSlug":"thresh","championName":"Thresh","championNameWithBuild":"Builds de Thresh "},{"championId":"420","championSlug":"illaoi","championName":"Illaoi","championNameWithBuild":"Builds de Illaoi "},{"championId":"421","championSlug":"reksai","championName":"Rek'Sai","championNameWithBuild":"Builds de Rek'Sai "},{"championId":"427","championSlug":"ivern","championName":"Ivern","championNameWithBuild":"Builds de Ivern "},{"championId":"429","championSlug":"kalista","championName":"Kalista","championNameWithBuild":"Builds de Kalista "},{"championId":"432","championSlug":"bard","championName":"Bardo","championNameWithBuild":"Builds de Bardo "},{"championId":"497","championSlug":"rakan","championName":"Rakan","championNameWithBuild":"Builds de Rakan "},{"championId":"498","championSlug":"xayah","championName":"Xayah","championNameWithBuild":"Builds de Xayah "},{"championId":"516","championSlug":"ornn","championName":"Ornn","championNameWithBuild":"Builds de Ornn "},{"championId":"517","championSlug":"sylas","championName":"Sylas","championNameWithBuild":"Builds de Sylas "},{"championId":"518","championSlug":"neeko","championName":"Neeko","championNameWithBuild":"Builds de Neeko "},{"championId":"523","championSlug":"aphelios","championName":"Aphelios","championNameWithBuild":"Builds de Aphelios "},{"championId":"526","championSlug":"rell","championName":"Rell","championNameWithBuild":"Builds de Rell "},{"championId":"555","championSlug":"pyke","championName":"Pyke","championNameWithBuild":"Builds de Pyke "},{"championId":"777","championSlug":"yone","championName":"Yone","championNameWithBuild":"Builds de Yone "},{"championId":"875","championSlug":"sett","championName":"Sett","championNameWithBuild":"Builds de Sett "},{"championId":"876","championSlug":"lillia","championName":"Lillia","championNameWithBuild":"Builds de Lillia "},{"championId":"887","championSlug":"gwen","championName":"Gwen","championNameWithBuild":"Builds de Gwen "}];
-        var topChampions = [145,157,99,25,81];
+        var topChampions = [145,157,99,25,64];
         var locales = {"champions": 'Campeones', "builds": 'Builds', "summoners": 'Jugadores', "recent": 'Reciente', "proPlayers": 'Jugadores profesionales', "cards": 'Cartas'};
         var autocompleteManager = new AutoCompleteManager('lol', '/es', $('#topnavbarform .search_field')[0], 'autocomplete-area-topnav', 100, locales, topChampions, allChampions, isMobile, false);
         var autocompleteManagerHomepage = new AutoCompleteManager('lol', '/es', $('#homepageForm .search_field')[0], 'autocomplete-area-homepage', 100, locales, topChampions, allChampions, isMobile, false);
     });
 </script>
-        <script src="//lolg-cdn.porofessor.gg/app.js?v=1619800783"></script>
+        <script src="//lolg-cdn.porofessor.gg/app.js?v=1620083836"></script>
             <!-- Google Analytics -->
     <script>
         (function (i, s, o, g, r, a, m) {
