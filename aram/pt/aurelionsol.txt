@@ -1,7 +1,7 @@
 <html lang="pt" xmlns="http://www.w3.org/1999/xhtml"><head>
         
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700" rel="stylesheet" type="text/css" media="all" onload="this.media='all'">        <link rel="stylesheet" type="text/css" href="//lolg-cdn.porofessor.gg/style.css?v=1658431387">
-        <link rel="stylesheet" type="text/css" href="//lolg-cdn.porofessor.gg/style.sprite.css?v=29dfb4a12f1babddefe8415d595ad2d4">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700" rel="stylesheet" type="text/css" media="all" onload="this.media='all'">        <link rel="stylesheet" type="text/css" href="//lolg-cdn.porofessor.gg/style.css?v=1658934451">
+        <link rel="stylesheet" type="text/css" href="//lolg-cdn.porofessor.gg/style.sprite.css?v=735988d12838f02fbe88d474ad795318">
         <script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" defer="" src="https://static.developer.riotgames.com/js/rgea.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/cs/20631572/beacon.js"></script><script src="//lolg-cdn.porofessor.gg/jquery.js?v=3"></script>
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,14 +13,14 @@
         <meta name="theme-color" content="#2AA3CC">
         <title>Aurelion Sol Build  - Itens / Runas / combinações - League of Legends</title>
         <link rel="SHORTCUT ICON" href="//lolg-cdn.porofessor.gg/img/s/favicon_v2.png">
-        <meta property="og:image" content="//lolg-cdn.porofessor.gg/img/d/champion-icons/12.13/64/136.png">
-<link rel="apple-touch-icon" href="//lolg-cdn.porofessor.gg/img/d/champion-icons/12.13/64/136.png">        <meta name="twitter:site" content="@leagueofgraphs">
+        <meta property="og:image" content="//lolg-cdn.porofessor.gg/img/d/champion-icons/12.14/64/136.png">
+<link rel="apple-touch-icon" href="//lolg-cdn.porofessor.gg/img/d/champion-icons/12.14/64/136.png">        <meta name="twitter:site" content="@leagueofgraphs">
 <meta name="twitter:creator" content="@leagueofgraphs">
 <meta name="twitter:title" content="Aurelion Sol Build  - Itens / Runas / combinações - League of Legends">
 <meta name="twitter:description" content="Melhores builds, runas, ordem de skills para Aurelion Sol baseado nas milhões de partidas que analisamos diariamente. E mais: estatísticas, popularidade, taxas de vitória e rankings para este campeão">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="//lolg-cdn.porofessor.gg/img/d/champion-icons/12.13/64/136.png">         <link rel="canonical" href="/pt/champions/builds/aurelionsol">        
+<meta name="twitter:image" content="//lolg-cdn.porofessor.gg/img/d/champion-icons/12.14/64/136.png">         <link rel="canonical" href="/pt/champions/builds/aurelionsol">        
         <link rel="alternate" href="https://www.leagueofgraphs.com/zh/champions/builds/aurelionsol/aram" hreflang="zh">
 <link rel="alternate" href="https://www.leagueofgraphs.com/vn/champions/builds/aurelionsol/aram" hreflang="vi">
 <link rel="alternate" href="https://www.leagueofgraphs.com/ua/champions/builds/aurelionsol/aram" hreflang="uk">
@@ -74,7 +74,7 @@ window['nitroAds'].createAd('mobile', {
 </noscript>
 <!-- End comScore Tag -->
 
-        <meta name="cv" content="CV-TmOBWdfdQv59:"><script type="text/javascript">var cvs = (window["cvs"] || []);cvs.push("CV-TmOBWdfdQv59:");</script>
+        <meta name="cv" content="CV-bV7Kw7wCe6rR:"><script type="text/javascript">var cvs = (window["cvs"] || []);cvs.push("CV-bV7Kw7wCe6rR:");</script>
                     <script type="text/javascript">
                 var isDarkMode = false;
             </script>
@@ -94,7 +94,7 @@ window['nitroAds'].createAd('mobile', {
             var mediumBreakpoint = 640;
             var largeBreakpoint = 1180;
         </script>
-    <script async="" type="text/javascript" src="https://btloader.com/tag?o=6278260873756672&amp;upapi=true" id="nitroads-bt"></script><script async="" type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" id="nitroads-gpt"></script><script async="" type="text/javascript" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><meta http-equiv="origin-trial" content="AzoawhTRDevLR66Y6MROu167EDncFPBvcKOaQispTo9ouEt5LvcBjnRFqiAByRT+2cDHG1Yj4dXwpLeIhc98/gIAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A6+nc62kbJgC46ypOwRsNW6RkDn2x7tgRh0wp7jb3DtFF7oEhu1hhm4rdZHZ6zXvnKZLlYcBlQUImC4d3kKihAcAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A/9La288e7MDEU2ifusFnMg1C2Ij6uoa/Z/ylwJIXSsWfK37oESIPbxbt4IU86OGqDEPnNVruUiMjfKo65H/CQwAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022071901.js" async=""></script><meta class="foundation-data-attribute-namespace"><meta class="foundation-mq-xxlarge"><meta class="foundation-mq-xlarge-only"><meta class="foundation-mq-xlarge"><meta class="foundation-mq-large-only"><meta class="foundation-mq-large"><meta class="foundation-mq-medium-only"><meta class="foundation-mq-medium"><meta class="foundation-mq-small-only"><meta class="foundation-mq-small"><style></style><meta class="foundation-mq-topbar"></head>
+    <script async="" type="text/javascript" src="https://btloader.com/tag?o=6278260873756672&amp;upapi=true" id="nitroads-bt"></script><script async="" type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" id="nitroads-gpt"></script><script async="" type="text/javascript" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><meta http-equiv="origin-trial" content="AzoawhTRDevLR66Y6MROu167EDncFPBvcKOaQispTo9ouEt5LvcBjnRFqiAByRT+2cDHG1Yj4dXwpLeIhc98/gIAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A6+nc62kbJgC46ypOwRsNW6RkDn2x7tgRh0wp7jb3DtFF7oEhu1hhm4rdZHZ6zXvnKZLlYcBlQUImC4d3kKihAcAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A/9La288e7MDEU2ifusFnMg1C2Ij6uoa/Z/ylwJIXSsWfK37oESIPbxbt4IU86OGqDEPnNVruUiMjfKo65H/CQwAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022072702.js?cb=31068707" async=""></script><meta class="foundation-data-attribute-namespace"><meta class="foundation-mq-xxlarge"><meta class="foundation-mq-xlarge-only"><meta class="foundation-mq-xlarge"><meta class="foundation-mq-large-only"><meta class="foundation-mq-large"><meta class="foundation-mq-medium-only"><meta class="foundation-mq-medium"><meta class="foundation-mq-small-only"><meta class="foundation-mq-small"><style></style><meta class="foundation-mq-topbar"></head>
     <body class=" game-lol">
         
 <div id="topnavbar" class="contain-to-grid nobackground">
@@ -376,7 +376,7 @@ window['nitroAds'].createAd('mobile', {
         </section></nav>
 </div>
         <div id="pageContainer" class="row">
-            <div id="leftStaticSlot" class="text-center hidden"></div>
+            <div id="leftStaticSlot" class="text-center" style="left: 73.5px;"></div>
                 <script>
                     (function() {
                         if(window.innerWidth >= 1550){
@@ -590,9 +590,9 @@ window['nitroAds'].createAd('mobile', {
 
         <div id="sidebar-bottom">
     <div id="site-infos">
-    <div class="patch">Patch: 12.13</div>
+    <div class="patch">Patch: 12.14</div>
     <div>
-        5,209,569 Jogos        (Últimos 2 dias)
+        5,657,540 Jogos        (Últimos 2 dias)
     </div>
 </div>
     <div id="site-links">
@@ -616,7 +616,7 @@ window['nitroAds'].createAd('mobile', {
         
         <div class="pageBanner img-align-block" style="background-image:  url('//lolg-cdn.porofessor.gg/img/d/champion-banners/136.jpg'); ">
                                             <div class="img">
-                    <img src="//lolg-cdn.porofessor.gg/img/d/champion-icons/12.13/64/136.png" alt="Aurelion Sol" title="Aurelion Sol" height="64" width="64" class="">                </div>
+                    <img src="//lolg-cdn.porofessor.gg/img/d/champion-icons/12.14/64/136.png" alt="Aurelion Sol" title="Aurelion Sol" height="64" width="64" class="">                </div>
                         
             <div class="txt">
                 <h2>Aurelion Sol</h2>
@@ -626,7 +626,7 @@ window['nitroAds'].createAd('mobile', {
             </div>
 
                             <div class="additionalData hide-for-small-down">
-                    <span id="matchesCountNumber">11,610</span>  Jogos                    (<span id="matchesCountTimeframe">
+                    <span id="matchesCountNumber">27,467</span>  Jogos                    (<span id="matchesCountTimeframe">
                         Últimos 2 dias                    </span>)
                 </div>
                             
@@ -2546,18 +2546,18 @@ window['nitroAds'].createAd('mobile', {
 
                     <div id="mainContentContainer">
                         <div style="position: relative;">
-                        <div id="adasync516023" class="text-center"><div id="horizTop" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 90px; margin-top:0px; margin-bottom:15px"></div></div>
+                        <div id="adasync654480" class="text-center"><div id="horizTop" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 90px; margin-top:0px; margin-bottom:15px"></div></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 767){
                                         if(true){
-                                            document.getElementById('adasync516023').innerHTML = '<div id="horizTop" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 90px; margin-top:0px; margin-bottom:15px"></div>';
+                                            document.getElementById('adasync654480').innerHTML = '<div id="horizTop" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 90px; margin-top:0px; margin-bottom:15px"></div>';
                                             window['nitroAds'].createAd("horizTop", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:["dfp"], "sizes": [[728, 90]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(false) {
-                                            document.getElementById('adasync516023').innerHTML = '<div id="horizTop-mobile" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:15px"></div>';
+                                            document.getElementById('adasync654480').innerHTML = '<div id="horizTop-mobile" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:15px"></div>';
                                             window['nitroAds'].createAd("horizTop-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:["dfp"], "sizes": [[300, 250], [320, 50]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -2577,7 +2577,7 @@ window['nitroAds'].createAd('mobile', {
                         <script language="javascript" type="text/javascript">var graphFunctions = new Array();</script><div class="pie-chart-container">
     
     <div id="graphDD1" class="pie-chart small" style="padding: 0px; position: relative;">
-        2.2%    <canvas class="flot-base" width="200" height="200" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="200" height="200" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
+        4.4%    <canvas class="flot-base" width="150" height="150" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="150" height="150" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
 
             <div class="pie-chart-title pie-chart-title-bottom small ">Popularidade</div>
     </div>
@@ -2590,8 +2590,8 @@ window['nitroAds'].createAd('mobile', {
         if ($("#graphDD1").is(":visible")) {
             $.plot(placeholder,
                     [
-                        {data: 2.2, color: window['wgblue'] || "wgblue"},
-                        {data: 97.8, color: (pieChartDefaultColor || '#EEE')}
+                        {data: 4.4, color: window['wgblue'] || "wgblue"},
+                        {data: 95.6, color: (pieChartDefaultColor || '#EEE')}
                     ],
                     {
                         series: {
@@ -2618,7 +2618,7 @@ window['nitroAds'].createAd('mobile', {
                         <div class="pie-chart-container">
     
     <div id="graphDD2" class="pie-chart small" style="padding: 0px; position: relative;">
-        48.7%    <canvas class="flot-base" width="200" height="200" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="200" height="200" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
+        48.2%    <canvas class="flot-base" width="150" height="150" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="150" height="150" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
 
             <div class="pie-chart-title pie-chart-title-bottom small ">% de Vitória</div>
     </div>
@@ -2631,8 +2631,8 @@ window['nitroAds'].createAd('mobile', {
         if ($("#graphDD2").is(":visible")) {
             $.plot(placeholder,
                     [
-                        {data: 48.7, color: window['wggreen'] || "wggreen"},
-                        {data: 51.3, color: (pieChartDefaultColor || '#EEE')}
+                        {data: 48.2, color: window['wggreen'] || "wggreen"},
+                        {data: 51.8, color: (pieChartDefaultColor || '#EEE')}
                     ],
                     {
                         series: {
@@ -2659,7 +2659,7 @@ window['nitroAds'].createAd('mobile', {
                         <div class="pie-chart-container">
     
     <div id="graphDD3" class="pie-chart small" style="padding: 0px; position: relative;">
-        0.0%    <canvas class="flot-base" width="200" height="200" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="200" height="200" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
+        0.0%    <canvas class="flot-base" width="150" height="150" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas><canvas class="flot-overlay" width="150" height="150" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 100px; height: 100px;"></canvas></div>
 
             <div class="pie-chart-title pie-chart-title-bottom small ">Taxa de banimento</div>
     </div>
@@ -2710,18 +2710,18 @@ window['nitroAds'].createAd('mobile', {
 </a>
 
             <div style="position: relative;">
-                        <div id="adasync349522" class="text-center"></div>
+                        <div id="adasync889136" class="text-center"></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 767){
                                         if(false){
-                                            document.getElementById('adasync349522').innerHTML = '<div id="overviewChampion1" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:20px"></div>';
+                                            document.getElementById('adasync889136').innerHTML = '<div id="overviewChampion1" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:20px"></div>';
                                             window['nitroAds'].createAd("overviewChampion1", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:[], "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(true) {
-                                            document.getElementById('adasync349522').innerHTML = '<div id="overviewChampion1-mobile" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:20px"></div>';
+                                            document.getElementById('adasync889136').innerHTML = '<div id="overviewChampion1-mobile" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:20px"></div>';
                                             window['nitroAds'].createAd("overviewChampion1-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:["dfp"], "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -2941,8 +2941,8 @@ window['nitroAds'].createAd('mobile', {
             </div>
 
             <div class="figures">
-                Popularidade: 44.9% -
-                % de Vitória: 48.8%
+                Popularidade: 42.7% -
+                % de Vitória: 51.7%
             </div>
 
             <div class="seeMoreButtonRow">
@@ -2968,8 +2968,8 @@ window['nitroAds'].createAd('mobile', {
             </div>
 
     <div class="figures">
-        Popularidade: 55.8%<br>
-        % de Vitória: 47.1%
+        Popularidade: 57.2%<br>
+        % de Vitória: 47.3%
     </div>
                 </div>
                 <div class="medium-13 columns">
@@ -2995,8 +2995,8 @@ window['nitroAds'].createAd('mobile', {
             </div>
 
     <div class="figures">
-        Popularidade: 21.4%<br>
-        % de Vitória: 51.3%
+        Popularidade: 21.5%<br>
+        % de Vitória: 50.9%
     </div>
                 </div>
             </div>
@@ -3013,8 +3013,8 @@ window['nitroAds'].createAd('mobile', {
     </div>
 
     <div class="figures">
-        Popularidade: 72.2%<br>
-        % de Vitória: 49.8%
+        Popularidade: 69.5%<br>
+        % de Vitória: 48.7%
     </div>
                 </div>
                 <div class="medium-13 columns">
@@ -3044,18 +3044,18 @@ window['nitroAds'].createAd('mobile', {
 
 
             <div style="position: relative;">
-                        <div id="adasync372015" class="text-center"></div>
+                        <div id="adasync876273" class="text-center"></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 767){
                                         if(false){
-                                            document.getElementById('adasync372015').innerHTML = '<div id="overviewChampion2" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
+                                            document.getElementById('adasync876273').innerHTML = '<div id="overviewChampion2" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
                                             window['nitroAds'].createAd("overviewChampion2", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:[], "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(true) {
-                                            document.getElementById('adasync372015').innerHTML = '<div id="overviewChampion2-mobile" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
+                                            document.getElementById('adasync876273').innerHTML = '<div id="overviewChampion2-mobile" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
                                             window['nitroAds'].createAd("overviewChampion2-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:["dfp"], "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -3097,75 +3097,13 @@ window['nitroAds'].createAd('mobile', {
                         <td class="text-left summoner_column">
                             <div class="img-align-block">
                                 <div>
-                                    <a href="/pt/summoner/kr/%EC%9E%BF%EB%B9%9B%EA%B5%B0%EC%A3%BC">
+                                    <a href="/pt/summoner/euw/sa%C3%ADbot0">
                                         <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=5" alt="Aurelion Sol" title="Aurelion Sol" height="36" width="36" class="champion-136-36 ">                                    </a>
                                 </div>
                                 <div class="txt">
-                                    <a href="/pt/summoner/kr/%EC%9E%BF%EB%B9%9B%EA%B5%B0%EC%A3%BC" class="name">잿빛군주</a>
+                                    <a href="/pt/summoner/euw/sa%C3%ADbot0" class="name">saíbot0</a>
                                     <br>
-                                    <a href="/pt/summoner/kr/%EC%9E%BF%EB%B9%9B%EA%B5%B0%EC%A3%BC" class="subname">Diamante I</a>
-                                </div>
-                            </div>
-                        </td>
-
-                        <td class="text-center">
-                            <div class="kda">
-                                <span class="kills">22</span>
-                                <span class="separator">/</span>
-                                <span class="deaths">2</span>
-                                <span class="separator">/</span>
-                                <span class="assists">11</span>
-                            </div>
-                        </td>
-
-                        <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/WnBmdi9WUVhZdkIxd3VEdEl1NlZnMjJtc083QVRkN2JhZnpUZmN3cGpHV2t3OGZnSForK0ZaZEQ5dkVHUFFrSDB5Ymt3aHhpenlVSVZhMFpQTEpnZnc9PQ==" data-spectate-platform="KR" data-spectate-gameid="6029043741" data-spectate-encryptionkey="8aCcp0+RcFOFsUnPstWFooHmZNpE66Wm" data-spectate-endpoint="replays.leagueofgraphs.com:80">
-                                <button class="replay_button_small"><i class="fa fa-play"></i>Replay</button>
-                            </a>
-                        </td>
-                    </tr>
-                                        <tr>
-                        <td class="text-left summoner_column">
-                            <div class="img-align-block">
-                                <div>
-                                    <a href="/pt/summoner/kr/3%EC%84%B1+%EC%95%84%EC%9A%B0%EC%86%94">
-                                        <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=5" alt="Aurelion Sol" title="Aurelion Sol" height="36" width="36" class="champion-136-36 ">                                    </a>
-                                </div>
-                                <div class="txt">
-                                    <a href="/pt/summoner/kr/3%EC%84%B1+%EC%95%84%EC%9A%B0%EC%86%94" class="name">3성 아우솔</a>
-                                    <br>
-                                    <a href="/pt/summoner/kr/3%EC%84%B1+%EC%95%84%EC%9A%B0%EC%86%94" class="subname">Diamante I</a>
-                                </div>
-                            </div>
-                        </td>
-
-                        <td class="text-center">
-                            <div class="kda">
-                                <span class="kills">10</span>
-                                <span class="separator">/</span>
-                                <span class="deaths">1</span>
-                                <span class="separator">/</span>
-                                <span class="assists">14</span>
-                            </div>
-                        </td>
-
-                        <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/bHBseCtEVEVEZ2o4SGROeWthdEF3VW9KM1U1WExaZWF6RDdlbElYM0xlaU9paXNLaWUrTStzSzZ4S0R0N01wYkVvOEVZOFpvUGhDMnRvbE5ZSlFTK1E9PQ==" data-spectate-platform="KR" data-spectate-gameid="6029030015" data-spectate-encryptionkey="H6rNU/bWgMMQ1M1d6e+RU4gflrYnc//m" data-spectate-endpoint="replays.leagueofgraphs.com:80">
-                                <button class="replay_button_small"><i class="fa fa-play"></i>Replay</button>
-                            </a>
-                        </td>
-                    </tr>
-                                        <tr>
-                        <td class="text-left summoner_column">
-                            <div class="img-align-block">
-                                <div>
-                                    <a href="/pt/summoner/br/lezera">
-                                        <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=5" alt="Aurelion Sol" title="Aurelion Sol" height="36" width="36" class="champion-136-36 ">                                    </a>
-                                </div>
-                                <div class="txt">
-                                    <a href="/pt/summoner/br/lezera" class="name">lezera</a>
-                                    <br>
-                                    <a href="/pt/summoner/br/lezera" class="subname">Master</a>
+                                    <a href="/pt/summoner/euw/sa%C3%ADbot0" class="subname">Diamante I</a>
                                 </div>
                             </div>
                         </td>
@@ -3176,74 +3114,12 @@ window['nitroAds'].createAd('mobile', {
                                 <span class="separator">/</span>
                                 <span class="deaths">0</span>
                                 <span class="separator">/</span>
-                                <span class="assists">12</span>
-                            </div>
-                        </td>
-
-                        <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/SElPRTcvZmhqQXhDTkF1ajJMd3JTVnZISmZyK05jWmdaYzhmaUxGWVgyVkFna2xnTVZURjVON213WjM4M2V6bCtPb2NqY1ZuWkdWOUlBa0s5d3F2MFE9PQ==" data-spectate-platform="BR1" data-spectate-gameid="2557402655" data-spectate-encryptionkey="FhomLvHSzXVmKN+gjv5r0XtEA8CbbFqf" data-spectate-endpoint="replays.leagueofgraphs.com:80">
-                                <button class="replay_button_small"><i class="fa fa-play"></i>Replay</button>
-                            </a>
-                        </td>
-                    </tr>
-                                        <tr>
-                        <td class="text-left summoner_column">
-                            <div class="img-align-block">
-                                <div>
-                                    <a href="/pt/summoner/na/Ontario+Steve">
-                                        <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=5" alt="Aurelion Sol" title="Aurelion Sol" height="36" width="36" class="champion-136-36 ">                                    </a>
-                                </div>
-                                <div class="txt">
-                                    <a href="/pt/summoner/na/Ontario+Steve" class="name">Ontario Steve</a>
-                                    <br>
-                                    <a href="/pt/summoner/na/Ontario+Steve" class="subname">Master</a>
-                                </div>
-                            </div>
-                        </td>
-
-                        <td class="text-center">
-                            <div class="kda">
-                                <span class="kills">7</span>
-                                <span class="separator">/</span>
-                                <span class="deaths">0</span>
-                                <span class="separator">/</span>
                                 <span class="assists">13</span>
                             </div>
                         </td>
 
                         <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/REY1THpiOGprSkRGTXNpN2ZZdGsxclIwYmtwTEVzNmVSUUhLZnZ4OUtHUHc4YlVoSnBiWjVyRFhab3dQNWh0Uk1XSkpzdkRvZm9kMHhsc1EyMzNBaVE9PQ==" data-spectate-platform="NA1" data-spectate-gameid="4377531405" data-spectate-encryptionkey="BZGzZjWI2K/cNOIw7KpdxWH/H6423hA2" data-spectate-endpoint="replays.leagueofgraphs.com:80">
-                                <button class="replay_button_small"><i class="fa fa-play"></i>Replay</button>
-                            </a>
-                        </td>
-                    </tr>
-                                        <tr>
-                        <td class="text-left summoner_column">
-                            <div class="img-align-block">
-                                <div>
-                                    <a href="/pt/summoner/eune/Salgnorin">
-                                        <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=5" alt="Aurelion Sol" title="Aurelion Sol" height="36" width="36" class="champion-136-36 ">                                    </a>
-                                </div>
-                                <div class="txt">
-                                    <a href="/pt/summoner/eune/Salgnorin" class="name">Salgnorin</a>
-                                    <br>
-                                    <a href="/pt/summoner/eune/Salgnorin" class="subname">Master</a>
-                                </div>
-                            </div>
-                        </td>
-
-                        <td class="text-center">
-                            <div class="kda">
-                                <span class="kills">14</span>
-                                <span class="separator">/</span>
-                                <span class="deaths">1</span>
-                                <span class="separator">/</span>
-                                <span class="assists">6</span>
-                            </div>
-                        </td>
-
-                        <td class="text-center hide-for-small-down">
-                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/VEVrSldOMUc5NThQSzBva0g0VjIwbjlETVlJRFB1dDc1eTkraWpCbzlEVTNTaFBJNlBtRGFiMjRDR0l1SWVOdUJUUlhQeUtLTHpiRldWYlVpY29XZ2c9PQ==" data-spectate-platform="EUN1" data-spectate-gameid="3175020010" data-spectate-encryptionkey="LAxDc4Cm46HZYQyUh0MO/+UP6lwu2sw0" data-spectate-endpoint="replays.leagueofgraphs.com:80">
+                            <a href="#" data-rel="spectatePopup" data-width="640" class="poplight spectatePopupLink" data-spectate-link="/api/spectate/d2lUYjJQSU9xZnZiRVcrVDhweHorMGhNZWpLQ2VzR0R5d1VCbkFZOUtiVmtwTlI1dG4zYUdoNDEwQWtibEFZeExwWUFGdlFkVnJiNDlSWjBRejhPaHc9PQ==" data-spectate-platform="EUW1" data-spectate-gameid="5988783616" data-spectate-encryptionkey="ER1JodptP3G2rR6XhngFiR+gRWZMIqcz" data-spectate-endpoint="replays.leagueofgraphs.com:80">
                                 <button class="replay_button_small"><i class="fa fa-play"></i>Replay</button>
                             </a>
                         </td>
@@ -3285,7 +3161,7 @@ window['nitroAds'].createAd('mobile', {
 </div>        </div>
 
         <div class="medium-12 small-24 columns">
-            <div id="anyclip-container-453416" class="ads ad doubleclick ad-placement carbon-ads" style="margin-top:0px; margin-bottom:20px; position: relative; z-index:1; width:400px; height:225px; ">
+            <div id="anyclip-container-182877" class="ads ad doubleclick ad-placement carbon-ads" style="margin-top:0px; margin-bottom:20px; position: relative; z-index:1; width:400px; height:225px; ">
                         <div id="anyclip-div" class="text-center" style="width:400px; margin: 0 auto;"></div>
                         
                         <script>
@@ -3293,7 +3169,7 @@ window['nitroAds'].createAd('mobile', {
                                 if (window['nitroAds']) {
                                     if (window.innerWidth >= 640) {
                                         if (true) {
-                                            window['nitroAds'].createAd('anyclip-container-453416', {
+                                            window['nitroAds'].createAd('anyclip-container-182877', {
                                                 "format": "video-nc",
                                                 "report": {
                                                     "enabled": true,
@@ -3343,8 +3219,8 @@ window['nitroAds'].createAd('mobile', {
             </div>
 
             <div class="figures">
-                Popularidade: 40.0%<br>
-                % de Vitória: 50.5%
+                Popularidade: 40.3%<br>
+                % de Vitória: 49.8%
             </div>
 
             <div class="seeMoreButtonRow">
@@ -3368,7 +3244,7 @@ window['nitroAds'].createAd('mobile', {
                     <table class="perksTableOverview">
                         <tbody><tr>
                             <th class="text-center" colspan="12">
-                                <img src="//lolg-cdn.porofessor.gg/img/d/perks/12.13/64/8100.png" width="36" height="36" alt="">                            </th>
+                                <img src="//lolg-cdn.porofessor.gg/img/d/perks/12.14/64/8100.png" width="36" height="36" alt="">                            </th>
                         </tr>
 
                                                     <tr>
@@ -3413,7 +3289,7 @@ window['nitroAds'].createAd('mobile', {
                                                                         <td class="text-center" colspan="4">
                                         <div class="img-align-block">
                                             <div style="opacity: 0.2;">
-                                                <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=5" alt="Impacto Repentino" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=5&quot; alt=&quot;Impacto Repentino&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;perk-8143-24&quot;/> Impacto Repentino</itemname><br/>Depois de sair da furtividade ou usar um avanço, salto, teletransporte ou teleporte, causar dano a um Campeão concede 7 de Letalidade e 6 de Penetração Mágica por 5s.<br><br>Tempo de Recarga: 4s" height="24" width="24" class="perk-8143-24 requireTooltip">                                            </div>
+                                                <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=5" alt="Impacto Repentino" tooltip="<itemname><img src=&quot;//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=5&quot; alt=&quot;Impacto Repentino&quot; height=&quot;24&quot; width=&quot;24&quot; class=&quot;perk-8143-24&quot;/> Impacto Repentino</itemname><br/>Depois de sair da furtividade ou usar um avanço, salto, teletransporte ou teleporte, causar dano a um Campeão concede 9 de Letalidade e 7 de Penetração Mágica por 5s.<br><br>Tempo de Recarga: 4s" height="24" width="24" class="perk-8143-24 requireTooltip">                                            </div>
                                         </div>
                                     </td>
                                                                 </tr>
@@ -3470,7 +3346,7 @@ window['nitroAds'].createAd('mobile', {
                     <table class="perksTableOverview secondary">
                         <tbody><tr>
                             <th class="text-center" colspan="12">
-                                <img src="//lolg-cdn.porofessor.gg/img/d/perks/12.13/64/8000.png" width="36" height="36" alt="">                            </th>
+                                <img src="//lolg-cdn.porofessor.gg/img/d/perks/12.14/64/8000.png" width="36" height="36" alt="">                            </th>
                         </tr>
 
                                                     <tr>
@@ -3600,7 +3476,7 @@ window['nitroAds'].createAd('mobile', {
 
             <div class="figures">
                 Popularidade: 49.6% -
-                % de Vitória: 49.2%
+                % de Vitória: 49.0%
             </div>
 
             <div class="seeMoreButtonRow">
@@ -3611,18 +3487,18 @@ window['nitroAds'].createAd('mobile', {
     </a>
     
             <div style="position: relative;">
-                        <div id="adasync724050" class="text-center"></div>
+                        <div id="adasync114710" class="text-center"></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 767){
                                         if(false){
-                                            document.getElementById('adasync724050').innerHTML = '<div id="overviewChampion3" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
+                                            document.getElementById('adasync114710').innerHTML = '<div id="overviewChampion3" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
                                             window['nitroAds'].createAd("overviewChampion3", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:[], "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(false) {
-                                            document.getElementById('adasync724050').innerHTML = '<div id="overviewChampion3-mobile" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
+                                            document.getElementById('adasync114710').innerHTML = '<div id="overviewChampion3-mobile" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
                                             window['nitroAds'].createAd("overviewChampion3-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:["dfp"], "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -3651,7 +3527,7 @@ window['nitroAds'].createAd('mobile', {
                     <a href="/pt/summoner/jp/Yuuuz1">
                         <div class="img-align-block">
                             <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.13/36/5416.png" alt="Yuuuz1" title="Yuuuz1" height="36" width="36" class="">                            </div>
+                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.14/36/5416.png" alt="Yuuuz1" title="Yuuuz1" height="36" width="36" class="">                            </div>
                             <div class="txt">
                                 <span class="name">
                                     Yuuuz1                                </span>
@@ -3664,7 +3540,7 @@ window['nitroAds'].createAd('mobile', {
                 </td>
 
                 <td class="hide-for-small-down text-center">
-                                            <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=8" alt="Master" title="Master" height="36" width="36" class="leagueicons-36-7 ">                                    </td>
+                                            <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=8" alt="Diamante I" title="Diamante I" height="36" width="36" class="leagueicons-36-6 ">                                    </td>
 
                 <td class="text-center">
 
@@ -3685,90 +3561,16 @@ window['nitroAds'].createAd('mobile', {
                     2.                </td>
 
                 <td class="text-left ">
-                    <a href="/pt/summoner/kr/%ED%8F%AC%EC%BC%93%EB%AA%AC+%EB%A6%AC%ED%94%84%EA%B7%B8%EB%A6%B0">
-                        <div class="img-align-block">
-                            <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.13/36/3160.png" alt="포켓몬 리프그린" title="포켓몬 리프그린" height="36" width="36" class="">                            </div>
-                            <div class="txt">
-                                <span class="name">
-                                    포켓몬 리프그린                                </span>
-                                <br>
-                                <span class="subname">KR</span>
-                                <i class="show-for-super-small-only">(#2)</i>
-                            </div>
-                        </div>
-                    </a>
-                </td>
-
-                <td class="hide-for-small-down text-center">
-                                            <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=8" alt="Master" title="Master" height="36" width="36" class="leagueicons-36-7 ">                                    </td>
-
-                <td class="text-center">
-
-                    76.7%                </td>
-
-                <td class="hide-for-small-down text-center">
-                    <i>90</i>
-                </td>
-
-                <td class="hide-for-small-down text-center">
-                    <a href="/pt/summoner/champions/aurelionsol/kr/%ED%8F%AC%EC%BC%93%EB%AA%AC+%EB%A6%AC%ED%94%84%EA%B7%B8%EB%A6%B0/all">
-                        <i class="fa fa-chart-area"></i>
-                    </a>
-                </td>
-            </tr>
-                    <tr>
-                <td class="text-right hide-for-super-small-only" width="">
-                    3.                </td>
-
-                <td class="text-left ">
-                    <a href="/pt/summoner/euw/%C3%81sterix">
-                        <div class="img-align-block">
-                            <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.13/36/18.png" alt="Ásterix" title="Ásterix" height="36" width="36" class="">                            </div>
-                            <div class="txt">
-                                <span class="name">
-                                    Ásterix                                </span>
-                                <br>
-                                <span class="subname">EUW</span>
-                                <i class="show-for-super-small-only">(#3)</i>
-                            </div>
-                        </div>
-                    </a>
-                </td>
-
-                <td class="hide-for-small-down text-center">
-                                            <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=8" alt="Master" title="Master" height="36" width="36" class="leagueicons-36-7 ">                                    </td>
-
-                <td class="text-center">
-
-                    69.2%                </td>
-
-                <td class="hide-for-small-down text-center">
-                    <i>104</i>
-                </td>
-
-                <td class="hide-for-small-down text-center">
-                    <a href="/pt/summoner/champions/aurelionsol/euw/%C3%81sterix/all">
-                        <i class="fa fa-chart-area"></i>
-                    </a>
-                </td>
-            </tr>
-                    <tr>
-                <td class="text-right hide-for-super-small-only" width="">
-                    4.                </td>
-
-                <td class="text-left ">
                     <a href="/pt/summoner/na/Went+Rumble">
                         <div class="img-align-block">
                             <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.13/36/10.png" alt="Went Rumble" title="Went Rumble" height="36" width="36" class="">                            </div>
+                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.14/36/10.png" alt="Went Rumble" title="Went Rumble" height="36" width="36" class="">                            </div>
                             <div class="txt">
                                 <span class="name">
                                     Went Rumble                                </span>
                                 <br>
                                 <span class="subname">NA</span>
-                                <i class="show-for-super-small-only">(#4)</i>
+                                <i class="show-for-super-small-only">(#2)</i>
                             </div>
                         </div>
                     </a>
@@ -3793,19 +3595,19 @@ window['nitroAds'].createAd('mobile', {
             </tr>
                     <tr>
                 <td class="text-right hide-for-super-small-only" width="">
-                    5.                </td>
+                    3.                </td>
 
                 <td class="text-left ">
-                    <a href="/pt/summoner/br/GSW+StephenCurry">
+                    <a href="/pt/summoner/euw/%C3%81sterix">
                         <div class="img-align-block">
                             <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.13/36/4027.png" alt="GSW StephenCurry" title="GSW StephenCurry" height="36" width="36" class="">                            </div>
+                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.14/36/18.png" alt="Ásterix" title="Ásterix" height="36" width="36" class="">                            </div>
                             <div class="txt">
                                 <span class="name">
-                                    GSW StephenCurry                                </span>
+                                    Ásterix                                </span>
                                 <br>
-                                <span class="subname">BR</span>
-                                <i class="show-for-super-small-only">(#5)</i>
+                                <span class="subname">EUW</span>
+                                <i class="show-for-super-small-only">(#3)</i>
                             </div>
                         </div>
                     </a>
@@ -3816,10 +3618,47 @@ window['nitroAds'].createAd('mobile', {
 
                 <td class="text-center">
 
-                    64.9%                </td>
+                    63.8%                </td>
 
                 <td class="hide-for-small-down text-center">
-                    <i>97</i>
+                    <i>149</i>
+                </td>
+
+                <td class="hide-for-small-down text-center">
+                    <a href="/pt/summoner/champions/aurelionsol/euw/%C3%81sterix/all">
+                        <i class="fa fa-chart-area"></i>
+                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="text-right hide-for-super-small-only" width="">
+                    4.                </td>
+
+                <td class="text-left ">
+                    <a href="/pt/summoner/br/GSW+StephenCurry">
+                        <div class="img-align-block">
+                            <div>
+                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.14/36/4027.png" alt="GSW StephenCurry" title="GSW StephenCurry" height="36" width="36" class="">                            </div>
+                            <div class="txt">
+                                <span class="name">
+                                    GSW StephenCurry                                </span>
+                                <br>
+                                <span class="subname">BR</span>
+                                <i class="show-for-super-small-only">(#4)</i>
+                            </div>
+                        </div>
+                    </a>
+                </td>
+
+                <td class="hide-for-small-down text-center">
+                                            <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=8" alt="Master" title="Master" height="36" width="36" class="leagueicons-36-7 ">                                    </td>
+
+                <td class="text-center">
+
+                    64.6%                </td>
+
+                <td class="hide-for-small-down text-center">
+                    <i>99</i>
                 </td>
 
                 <td class="hide-for-small-down text-center">
@@ -3830,56 +3669,56 @@ window['nitroAds'].createAd('mobile', {
             </tr>
                     <tr>
                 <td class="text-right hide-for-super-small-only" width="">
-                    6.                </td>
+                    5.                </td>
 
                 <td class="text-left ">
-                    <a href="/pt/summoner/kr/%ED%8F%AC%EC%BC%93%EB%AA%AC%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%A0%88%EB%93%9C">
+                    <a href="/pt/summoner/br/Tynon">
                         <div class="img-align-block">
                             <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.13/36/3158.png" alt="포켓몬파이어레드" title="포켓몬파이어레드" height="36" width="36" class="">                            </div>
+                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.14/36/744.png" alt="Tynon" title="Tynon" height="36" width="36" class="">                            </div>
                             <div class="txt">
                                 <span class="name">
-                                    포켓몬파이어레드                                </span>
+                                    Tynon                                </span>
                                 <br>
-                                <span class="subname">KR</span>
-                                <i class="show-for-super-small-only">(#6)</i>
+                                <span class="subname">BR</span>
+                                <i class="show-for-super-small-only">(#5)</i>
                             </div>
                         </div>
                     </a>
                 </td>
 
                 <td class="hide-for-small-down text-center">
-                                            <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=8" alt="Master" title="Master" height="36" width="36" class="leagueicons-36-7 ">                                    </td>
+                                            <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=8" alt="Diamante III" title="Diamante III" height="36" width="36" class="leagueicons-36-6 ">                                    </td>
 
                 <td class="text-center">
 
-                    71.1%                </td>
+                    84.9%                </td>
 
                 <td class="hide-for-small-down text-center">
-                    <i>45</i>
+                    <i>73</i>
                 </td>
 
                 <td class="hide-for-small-down text-center">
-                    <a href="/pt/summoner/champions/aurelionsol/kr/%ED%8F%AC%EC%BC%93%EB%AA%AC%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%A0%88%EB%93%9C/all">
+                    <a href="/pt/summoner/champions/aurelionsol/br/Tynon/all">
                         <i class="fa fa-chart-area"></i>
                     </a>
                 </td>
             </tr>
                     <tr>
                 <td class="text-right hide-for-super-small-only" width="">
-                    7.                </td>
+                    6.                </td>
 
                 <td class="text-left ">
-                    <a href="/pt/summoner/kr/Karoryovo">
+                    <a href="/pt/summoner/kr/%ED%8F%AC%EC%BC%93%EB%AA%AC+%EB%A6%AC%ED%94%84%EA%B7%B8%EB%A6%B0">
                         <div class="img-align-block">
                             <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.13/36/871.png" alt="Karoryovo" title="Karoryovo" height="36" width="36" class="">                            </div>
+                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.14/36/3160.png" alt="포켓몬 리프그린" title="포켓몬 리프그린" height="36" width="36" class="">                            </div>
                             <div class="txt">
                                 <span class="name">
-                                    Karoryovo                                </span>
+                                    포켓몬 리프그린                                </span>
                                 <br>
                                 <span class="subname">KR</span>
-                                <i class="show-for-super-small-only">(#7)</i>
+                                <i class="show-for-super-small-only">(#6)</i>
                             </div>
                         </div>
                     </a>
@@ -3890,14 +3729,51 @@ window['nitroAds'].createAd('mobile', {
 
                 <td class="text-center">
 
-                    73.8%                </td>
+                    76.7%                </td>
 
                 <td class="hide-for-small-down text-center">
-                    <i>61</i>
+                    <i>90</i>
                 </td>
 
                 <td class="hide-for-small-down text-center">
-                    <a href="/pt/summoner/champions/aurelionsol/kr/Karoryovo/all">
+                    <a href="/pt/summoner/champions/aurelionsol/kr/%ED%8F%AC%EC%BC%93%EB%AA%AC+%EB%A6%AC%ED%94%84%EA%B7%B8%EB%A6%B0/all">
+                        <i class="fa fa-chart-area"></i>
+                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td class="text-right hide-for-super-small-only" width="">
+                    7.                </td>
+
+                <td class="text-left ">
+                    <a href="/pt/summoner/euw/rice12321">
+                        <div class="img-align-block">
+                            <div>
+                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.14/36/23.png" alt="rice12321" title="rice12321" height="36" width="36" class="">                            </div>
+                            <div class="txt">
+                                <span class="name">
+                                    rice12321                                </span>
+                                <br>
+                                <span class="subname">EUW</span>
+                                <i class="show-for-super-small-only">(#7)</i>
+                            </div>
+                        </div>
+                    </a>
+                </td>
+
+                <td class="hide-for-small-down text-center">
+                                            <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=8" alt="Master" title="Master" height="36" width="36" class="leagueicons-36-7 ">                                    </td>
+
+                <td class="text-center">
+
+                    62.1%                </td>
+
+                <td class="hide-for-small-down text-center">
+                    <i>66</i>
+                </td>
+
+                <td class="hide-for-small-down text-center">
+                    <a href="/pt/summoner/champions/aurelionsol/euw/rice12321/all">
                         <i class="fa fa-chart-area"></i>
                     </a>
                 </td>
@@ -3907,13 +3783,13 @@ window['nitroAds'].createAd('mobile', {
                     8.                </td>
 
                 <td class="text-left ">
-                    <a href="/pt/summoner/euw/rice12321">
+                    <a href="/pt/summoner/euw/Calculations">
                         <div class="img-align-block">
                             <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.13/36/23.png" alt="rice12321" title="rice12321" height="36" width="36" class="">                            </div>
+                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.14/36/4409.png" alt="Calculations" title="Calculations" height="36" width="36" class="">                            </div>
                             <div class="txt">
                                 <span class="name">
-                                    rice12321                                </span>
+                                    Calculations                                </span>
                                 <br>
                                 <span class="subname">EUW</span>
                                 <i class="show-for-super-small-only">(#8)</i>
@@ -3927,14 +3803,14 @@ window['nitroAds'].createAd('mobile', {
 
                 <td class="text-center">
 
-                    61.7%                </td>
+                    62.3%                </td>
 
                 <td class="hide-for-small-down text-center">
-                    <i>60</i>
+                    <i>53</i>
                 </td>
 
                 <td class="hide-for-small-down text-center">
-                    <a href="/pt/summoner/champions/aurelionsol/euw/rice12321/all">
+                    <a href="/pt/summoner/champions/aurelionsol/euw/Calculations/all">
                         <i class="fa fa-chart-area"></i>
                     </a>
                 </td>
@@ -3944,15 +3820,15 @@ window['nitroAds'].createAd('mobile', {
                     9.                </td>
 
                 <td class="text-left ">
-                    <a href="/pt/summoner/br/Rei+Dos+S%C3%B3is">
+                    <a href="/pt/summoner/na/Quantum">
                         <div class="img-align-block">
                             <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.13/36/932.png" alt="Rei Dos Sóis" title="Rei Dos Sóis" height="36" width="36" class="">                            </div>
+                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.14/36/5429.png" alt="Quantum" title="Quantum" height="36" width="36" class="">                            </div>
                             <div class="txt">
                                 <span class="name">
-                                    Rei Dos Sóis                                </span>
+                                    Quantum                                </span>
                                 <br>
-                                <span class="subname">BR</span>
+                                <span class="subname">NA</span>
                                 <i class="show-for-super-small-only">(#9)</i>
                             </div>
                         </div>
@@ -3964,14 +3840,14 @@ window['nitroAds'].createAd('mobile', {
 
                 <td class="text-center">
 
-                    58.9%                </td>
+                    62.1%                </td>
 
                 <td class="hide-for-small-down text-center">
-                    <i>146</i>
+                    <i>95</i>
                 </td>
 
                 <td class="hide-for-small-down text-center">
-                    <a href="/pt/summoner/champions/aurelionsol/br/Rei+Dos+S%C3%B3is/all">
+                    <a href="/pt/summoner/champions/aurelionsol/na/Quantum/all">
                         <i class="fa fa-chart-area"></i>
                     </a>
                 </td>
@@ -3981,13 +3857,13 @@ window['nitroAds'].createAd('mobile', {
                     10.                </td>
 
                 <td class="text-left ">
-                    <a href="/pt/summoner/lan/SkyRuler">
+                    <a href="/pt/summoner/lan/Sho+Mula">
                         <div class="img-align-block">
                             <div>
-                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.13/36/3826.png" alt="SkyRuler" title="SkyRuler" height="36" width="36" class="">                            </div>
+                                <img src="//lolg-cdn.porofessor.gg/img/d/summonerIcons/12.14/36/4962.png" alt="Sho Mula" title="Sho Mula" height="36" width="36" class="">                            </div>
                             <div class="txt">
                                 <span class="name">
-                                    SkyRuler                                </span>
+                                    Sho Mula                                </span>
                                 <br>
                                 <span class="subname">LAN</span>
                                 <i class="show-for-super-small-only">(#10)</i>
@@ -4001,14 +3877,14 @@ window['nitroAds'].createAd('mobile', {
 
                 <td class="text-center">
 
-                    60.9%                </td>
+                    62.2%                </td>
 
                 <td class="hide-for-small-down text-center">
-                    <i>517</i>
+                    <i>82</i>
                 </td>
 
                 <td class="hide-for-small-down text-center">
-                    <a href="/pt/summoner/champions/aurelionsol/lan/SkyRuler/all">
+                    <a href="/pt/summoner/champions/aurelionsol/lan/Sho+Mula/all">
                         <i class="fa fa-chart-area"></i>
                     </a>
                 </td>
@@ -4061,7 +3937,7 @@ window['nitroAds'].createAd('mobile', {
 
                 <td class="text-center">
                     <a href="/pt/summoner/euw/Baztangod">
-                        4,455,484                    </a>
+                        4,474,867                    </a>
                 </td>
             </tr>
                     <tr>
@@ -4121,7 +3997,7 @@ window['nitroAds'].createAd('mobile', {
 
                 <td class="text-center">
                     <a href="/pt/summoner/euw/GODSOL">
-                        3,838,378                    </a>
+                        3,841,136                    </a>
                 </td>
             </tr>
                     <tr>
@@ -4162,16 +4038,16 @@ window['nitroAds'].createAd('mobile', {
                 <td>
                     <div class="img-align-block">
                         <div>
-                            <a href="/pt/summoner/eune/Salgnorin">
+                            <a href="/pt/summoner/br/1Dragon+Soul">
                                 <img src="//lolg-cdn.porofessor.gg/img/s/fond_sprite.png?v=5" alt="Aurelion Sol" title="Aurelion Sol" height="36" width="36" class="champion-136-36 ">                            </a>
                         </div>
                         <div class="txt text-left">
                             <span class="name">
-                                <a href="/pt/summoner/eune/Salgnorin" class="championBlock-top">Salgnorin</a>
+                                <a href="/pt/summoner/br/1Dragon+Soul" class="championBlock-top">1Dragon Soul</a>
                             </span>
                             <br>
                             <i>
-                                <a href="/pt/summoner/eune/Salgnorin" class="championBlock-bottom">EUNE</a>
+                                <a href="/pt/summoner/br/1Dragon+Soul" class="championBlock-bottom">BR</a>
                             </i>
 
                             <span class="socialDataIcons hide-for-small-down-custom">
@@ -4182,8 +4058,8 @@ window['nitroAds'].createAd('mobile', {
                 </td>
 
                 <td class="text-center">
-                    <a href="/pt/summoner/eune/Salgnorin">
-                        3,659,031                    </a>
+                    <a href="/pt/summoner/br/1Dragon+Soul">
+                        3,690,599                    </a>
                 </td>
             </tr>
         
@@ -4207,18 +4083,18 @@ window['nitroAds'].createAd('mobile', {
 </script>                        </div>
 
                         <div style="position: relative;">
-                        <div id="adasync158671" class="text-center"><div id="horizBottom" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 90px; margin-top:0px; margin-bottom:0px"></div></div>
+                        <div id="adasync992239" class="text-center"><div id="horizBottom" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 90px; margin-top:0px; margin-bottom:0px"></div></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 767){
                                         if(true){
-                                            document.getElementById('adasync158671').innerHTML = '<div id="horizBottom" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 90px; margin-top:0px; margin-bottom:0px"></div>';
+                                            document.getElementById('adasync992239').innerHTML = '<div id="horizBottom" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 90px; margin-top:0px; margin-bottom:0px"></div>';
                                             window['nitroAds'].createAd("horizBottom", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:["dfp"], "sizes": [[728, 90]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
-                                        if(false) {
-                                            document.getElementById('adasync158671').innerHTML = '<div id="horizBottom-mobile" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
+                                        if(true) {
+                                            document.getElementById('adasync992239').innerHTML = '<div id="horizBottom-mobile" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
                                             window['nitroAds'].createAd("horizBottom-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:["dfp"], "sizes": [[300, 250], [320, 50]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -4242,18 +4118,18 @@ window['nitroAds'].createAd('mobile', {
             </div>
 
             <div style="position: relative;">
-                        <div id="adasync341381" class="text-center"><div id="comments300x250" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div></div>
+                        <div id="adasync480121" class="text-center"><div id="comments300x250" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div></div>
                         <script>
                             (function() {
                                 if(window['nitroAds']){
                                     if(window.innerWidth >= 767){
                                         if(true){
-                                            document.getElementById('adasync341381').innerHTML = '<div id="comments300x250" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
+                                            document.getElementById('adasync480121').innerHTML = '<div id="comments300x250" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
                                             window['nitroAds'].createAd("comments300x250", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:[], "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     } else {
                                         if(false) {
-                                            document.getElementById('adasync341381').innerHTML = '<div id="comments300x250-mobile" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
+                                            document.getElementById('adasync480121').innerHTML = '<div id="comments300x250-mobile" class="ads ad doubleclick ad-placement carbon-ads" style="min-height: 250px; margin-top:0px; margin-bottom:0px"></div>';
                                             window['nitroAds'].createAd("comments300x250-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, skipBidders:["dfp"], "sizes": [[300, 250]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
                                         }
                                     }
@@ -4307,11 +4183,11 @@ window['nitroAds'].createAd('mobile', {
                         Also available on <a href="https://play.google.com/store/apps/details?id=leagueofgraphs.com.leagueofgraphs" target="_blank">Android</a>.
                         <span class="ccpaLink" data-ccpa-link="1"></span>.
                         <u><a href="/legal">Legal</a></u>.
-                        Página criada em 0.16s.                        <br>
+                        Página criada em 0.008s                        <br>
                     </div>
                 </div>
 
-                <div id="rightStaticSlot" class="text-center hidden"></div>
+                <div id="rightStaticSlot" class="text-center" style="left: 1473.5px;"></div>
                 <script>
                     (function() {
                         if(window.innerWidth >= 1550){
@@ -4331,7 +4207,7 @@ window['nitroAds'].createAd('mobile', {
                         } 
                     })();
                 </script>            </div>
-        </div><iframe name="__uspapiLocator" style="display: none;"></iframe><img src="https://ad-delivery.net/px.gif?ch=2" style="display: none !important; width: 1px !important; height: 1px !important;"><img src="https://ad.doubleclick.net/favicon.ico?ad=300x250&amp;ad_box_=1&amp;adnet=1&amp;showad=1&amp;size=250x250" style="display: none !important; width: 1px !important; height: 1px !important;"><img src="https://ad-delivery.net/px.gif?ch=1&amp;e=0.6148326422863992" style="display: none !important; width: 1px !important; height: 1px !important;">
+        </div><iframe name="__uspapiLocator" style="display: none;"></iframe><img src="https://ad-delivery.net/px.gif?ch=2" style="display: none !important; width: 1px !important; height: 1px !important;"><img src="https://ad.doubleclick.net/favicon.ico?ad=300x250&amp;ad_box_=1&amp;adnet=1&amp;showad=1&amp;size=250x250" style="display: none !important; width: 1px !important; height: 1px !important;"><img src="https://ad-delivery.net/px.gif?ch=1&amp;e=0.8707645817003935" style="display: none !important; width: 1px !important; height: 1px !important;">
 
         <script type="text/javascript">
             var urlLanguagePrefix = '/pt';
@@ -4350,13 +4226,13 @@ window['nitroAds'].createAd('mobile', {
             RecentSearchesHelper.addChampionSeen(136);
 
         var allChampions = [{"championId":"1","championSlug":"annie","championName":"Annie","championNameWithBuild":"Annie Build "},{"championId":"2","championSlug":"olaf","championName":"Olaf","championNameWithBuild":"Olaf Build "},{"championId":"3","championSlug":"galio","championName":"Galio","championNameWithBuild":"Galio Build "},{"championId":"4","championSlug":"twistedfate","championName":"Twisted Fate","championNameWithBuild":"Twisted Fate Build "},{"championId":"5","championSlug":"xinzhao","championName":"Xin Zhao","championNameWithBuild":"Xin Zhao Build "},{"championId":"6","championSlug":"urgot","championName":"Urgot","championNameWithBuild":"Urgot Build "},{"championId":"7","championSlug":"leblanc","championName":"LeBlanc","championNameWithBuild":"LeBlanc Build "},{"championId":"8","championSlug":"vladimir","championName":"Vladimir","championNameWithBuild":"Vladimir Build "},{"championId":"9","championSlug":"fiddlesticks","championName":"Fiddlesticks","championNameWithBuild":"Fiddlesticks Build "},{"championId":"10","championSlug":"kayle","championName":"Kayle","championNameWithBuild":"Kayle Build "},{"championId":"11","championSlug":"masteryi","championName":"Master Yi","championNameWithBuild":"Master Yi Build "},{"championId":"12","championSlug":"alistar","championName":"Alistar","championNameWithBuild":"Alistar Build "},{"championId":"13","championSlug":"ryze","championName":"Ryze","championNameWithBuild":"Ryze Build "},{"championId":"14","championSlug":"sion","championName":"Sion","championNameWithBuild":"Sion Build "},{"championId":"15","championSlug":"sivir","championName":"Sivir","championNameWithBuild":"Sivir Build "},{"championId":"16","championSlug":"soraka","championName":"Soraka","championNameWithBuild":"Soraka Build "},{"championId":"17","championSlug":"teemo","championName":"Teemo","championNameWithBuild":"Teemo Build "},{"championId":"18","championSlug":"tristana","championName":"Tristana","championNameWithBuild":"Tristana Build "},{"championId":"19","championSlug":"warwick","championName":"Warwick","championNameWithBuild":"Warwick Build "},{"championId":"20","championSlug":"nunu","championName":"Nunu e Willump","championNameWithBuild":"Nunu e Willump Build "},{"championId":"21","championSlug":"missfortune","championName":"Miss Fortune","championNameWithBuild":"Miss Fortune Build "},{"championId":"22","championSlug":"ashe","championName":"Ashe","championNameWithBuild":"Ashe Build "},{"championId":"23","championSlug":"tryndamere","championName":"Tryndamere","championNameWithBuild":"Tryndamere Build "},{"championId":"24","championSlug":"jax","championName":"Jax","championNameWithBuild":"Jax Build "},{"championId":"25","championSlug":"morgana","championName":"Morgana","championNameWithBuild":"Morgana Build "},{"championId":"26","championSlug":"zilean","championName":"Zilean","championNameWithBuild":"Zilean Build "},{"championId":"27","championSlug":"singed","championName":"Singed","championNameWithBuild":"Singed Build "},{"championId":"28","championSlug":"evelynn","championName":"Evelynn","championNameWithBuild":"Evelynn Build "},{"championId":"29","championSlug":"twitch","championName":"Twitch","championNameWithBuild":"Twitch Build "},{"championId":"30","championSlug":"karthus","championName":"Karthus","championNameWithBuild":"Karthus Build "},{"championId":"31","championSlug":"chogath","championName":"Cho'Gath","championNameWithBuild":"Cho'Gath Build "},{"championId":"32","championSlug":"amumu","championName":"Amumu","championNameWithBuild":"Amumu Build "},{"championId":"33","championSlug":"rammus","championName":"Rammus","championNameWithBuild":"Rammus Build "},{"championId":"34","championSlug":"anivia","championName":"Anivia","championNameWithBuild":"Anivia Build "},{"championId":"35","championSlug":"shaco","championName":"Shaco","championNameWithBuild":"Shaco Build "},{"championId":"36","championSlug":"drmundo","championName":"Dr. Mundo","championNameWithBuild":"Dr. Mundo Build "},{"championId":"37","championSlug":"sona","championName":"Sona","championNameWithBuild":"Sona Build "},{"championId":"38","championSlug":"kassadin","championName":"Kassadin","championNameWithBuild":"Kassadin Build "},{"championId":"39","championSlug":"irelia","championName":"Irelia","championNameWithBuild":"Irelia Build "},{"championId":"40","championSlug":"janna","championName":"Janna","championNameWithBuild":"Janna Build "},{"championId":"41","championSlug":"gangplank","championName":"Gangplank","championNameWithBuild":"Gangplank Build "},{"championId":"42","championSlug":"corki","championName":"Corki","championNameWithBuild":"Corki Build "},{"championId":"43","championSlug":"karma","championName":"Karma","championNameWithBuild":"Karma Build "},{"championId":"44","championSlug":"taric","championName":"Taric","championNameWithBuild":"Taric Build "},{"championId":"45","championSlug":"veigar","championName":"Veigar","championNameWithBuild":"Veigar Build "},{"championId":"48","championSlug":"trundle","championName":"Trundle","championNameWithBuild":"Trundle Build "},{"championId":"50","championSlug":"swain","championName":"Swain","championNameWithBuild":"Swain Build "},{"championId":"51","championSlug":"caitlyn","championName":"Caitlyn","championNameWithBuild":"Caitlyn Build "},{"championId":"53","championSlug":"blitzcrank","championName":"Blitzcrank","championNameWithBuild":"Blitzcrank Build "},{"championId":"54","championSlug":"malphite","championName":"Malphite","championNameWithBuild":"Malphite Build "},{"championId":"55","championSlug":"katarina","championName":"Katarina","championNameWithBuild":"Katarina Build "},{"championId":"56","championSlug":"nocturne","championName":"Nocturne","championNameWithBuild":"Nocturne Build "},{"championId":"57","championSlug":"maokai","championName":"Maokai","championNameWithBuild":"Maokai Build "},{"championId":"58","championSlug":"renekton","championName":"Renekton","championNameWithBuild":"Renekton Build "},{"championId":"59","championSlug":"jarvaniv","championName":"Jarvan IV","championNameWithBuild":"Jarvan IV Build "},{"championId":"60","championSlug":"elise","championName":"Elise","championNameWithBuild":"Elise Build "},{"championId":"61","championSlug":"orianna","championName":"Orianna","championNameWithBuild":"Orianna Build "},{"championId":"62","championSlug":"monkeyking","championName":"Wukong","championNameWithBuild":"Wukong Build "},{"championId":"63","championSlug":"brand","championName":"Brand","championNameWithBuild":"Brand Build "},{"championId":"64","championSlug":"leesin","championName":"Lee Sin","championNameWithBuild":"Lee Sin Build "},{"championId":"67","championSlug":"vayne","championName":"Vayne","championNameWithBuild":"Vayne Build "},{"championId":"68","championSlug":"rumble","championName":"Rumble","championNameWithBuild":"Rumble Build "},{"championId":"69","championSlug":"cassiopeia","championName":"Cassiopeia","championNameWithBuild":"Cassiopeia Build "},{"championId":"72","championSlug":"skarner","championName":"Skarner","championNameWithBuild":"Skarner Build "},{"championId":"74","championSlug":"heimerdinger","championName":"Heimerdinger","championNameWithBuild":"Heimerdinger Build "},{"championId":"75","championSlug":"nasus","championName":"Nasus","championNameWithBuild":"Nasus Build "},{"championId":"76","championSlug":"nidalee","championName":"Nidalee","championNameWithBuild":"Nidalee Build "},{"championId":"77","championSlug":"udyr","championName":"Udyr","championNameWithBuild":"Udyr Build "},{"championId":"78","championSlug":"poppy","championName":"Poppy","championNameWithBuild":"Poppy Build "},{"championId":"79","championSlug":"gragas","championName":"Gragas","championNameWithBuild":"Gragas Build "},{"championId":"80","championSlug":"pantheon","championName":"Pantheon","championNameWithBuild":"Pantheon Build "},{"championId":"81","championSlug":"ezreal","championName":"Ezreal","championNameWithBuild":"Ezreal Build "},{"championId":"82","championSlug":"mordekaiser","championName":"Mordekaiser","championNameWithBuild":"Mordekaiser Build "},{"championId":"83","championSlug":"yorick","championName":"Yorick","championNameWithBuild":"Yorick Build "},{"championId":"84","championSlug":"akali","championName":"Akali","championNameWithBuild":"Akali Build "},{"championId":"85","championSlug":"kennen","championName":"Kennen","championNameWithBuild":"Kennen Build "},{"championId":"86","championSlug":"garen","championName":"Garen","championNameWithBuild":"Garen Build "},{"championId":"89","championSlug":"leona","championName":"Leona","championNameWithBuild":"Leona Build "},{"championId":"90","championSlug":"malzahar","championName":"Malzahar","championNameWithBuild":"Malzahar Build "},{"championId":"91","championSlug":"talon","championName":"Talon","championNameWithBuild":"Talon Build "},{"championId":"92","championSlug":"riven","championName":"Riven","championNameWithBuild":"Riven Build "},{"championId":"96","championSlug":"kogmaw","championName":"Kog'Maw","championNameWithBuild":"Kog'Maw Build "},{"championId":"98","championSlug":"shen","championName":"Shen","championNameWithBuild":"Shen Build "},{"championId":"99","championSlug":"lux","championName":"Lux","championNameWithBuild":"Lux Build "},{"championId":"101","championSlug":"xerath","championName":"Xerath","championNameWithBuild":"Xerath Build "},{"championId":"102","championSlug":"shyvana","championName":"Shyvana","championNameWithBuild":"Shyvana Build "},{"championId":"103","championSlug":"ahri","championName":"Ahri","championNameWithBuild":"Ahri Build "},{"championId":"104","championSlug":"graves","championName":"Graves","championNameWithBuild":"Graves Build "},{"championId":"105","championSlug":"fizz","championName":"Fizz","championNameWithBuild":"Fizz Build "},{"championId":"106","championSlug":"volibear","championName":"Volibear","championNameWithBuild":"Volibear Build "},{"championId":"107","championSlug":"rengar","championName":"Rengar","championNameWithBuild":"Rengar Build "},{"championId":"110","championSlug":"varus","championName":"Varus","championNameWithBuild":"Varus Build "},{"championId":"111","championSlug":"nautilus","championName":"Nautilus","championNameWithBuild":"Nautilus Build "},{"championId":"112","championSlug":"viktor","championName":"Viktor","championNameWithBuild":"Viktor Build "},{"championId":"113","championSlug":"sejuani","championName":"Sejuani","championNameWithBuild":"Sejuani Build "},{"championId":"114","championSlug":"fiora","championName":"Fiora","championNameWithBuild":"Fiora Build "},{"championId":"115","championSlug":"ziggs","championName":"Ziggs","championNameWithBuild":"Ziggs Build "},{"championId":"117","championSlug":"lulu","championName":"Lulu","championNameWithBuild":"Lulu Build "},{"championId":"119","championSlug":"draven","championName":"Draven","championNameWithBuild":"Draven Build "},{"championId":"120","championSlug":"hecarim","championName":"Hecarim","championNameWithBuild":"Hecarim Build "},{"championId":"121","championSlug":"khazix","championName":"Kha'Zix","championNameWithBuild":"Kha'Zix Build "},{"championId":"122","championSlug":"darius","championName":"Darius","championNameWithBuild":"Darius Build "},{"championId":"126","championSlug":"jayce","championName":"Jayce","championNameWithBuild":"Jayce Build "},{"championId":"127","championSlug":"lissandra","championName":"Lissandra","championNameWithBuild":"Lissandra Build "},{"championId":"131","championSlug":"diana","championName":"Diana","championNameWithBuild":"Diana Build "},{"championId":"133","championSlug":"quinn","championName":"Quinn","championNameWithBuild":"Quinn Build "},{"championId":"134","championSlug":"syndra","championName":"Syndra","championNameWithBuild":"Syndra Build "},{"championId":"136","championSlug":"aurelionsol","championName":"Aurelion Sol","championNameWithBuild":"Aurelion Sol Build "},{"championId":"141","championSlug":"kayn","championName":"Kayn","championNameWithBuild":"Kayn Build "},{"championId":"142","championSlug":"zoe","championName":"Zoe","championNameWithBuild":"Zoe Build "},{"championId":"143","championSlug":"zyra","championName":"Zyra","championNameWithBuild":"Zyra Build "},{"championId":"145","championSlug":"kaisa","championName":"Kai'Sa","championNameWithBuild":"Kai'Sa Build "},{"championId":"147","championSlug":"seraphine","championName":"Seraphine","championNameWithBuild":"Seraphine Build "},{"championId":"150","championSlug":"gnar","championName":"Gnar","championNameWithBuild":"Gnar Build "},{"championId":"154","championSlug":"zac","championName":"Zac","championNameWithBuild":"Zac Build "},{"championId":"157","championSlug":"yasuo","championName":"Yasuo","championNameWithBuild":"Yasuo Build "},{"championId":"161","championSlug":"velkoz","championName":"Vel'Koz","championNameWithBuild":"Vel'Koz Build "},{"championId":"163","championSlug":"taliyah","championName":"Taliyah","championNameWithBuild":"Taliyah Build "},{"championId":"164","championSlug":"camille","championName":"Camille","championNameWithBuild":"Camille Build "},{"championId":"166","championSlug":"akshan","championName":"Akshan","championNameWithBuild":"Akshan Build "},{"championId":"200","championSlug":"belveth","championName":"Bel'Veth","championNameWithBuild":"Bel'Veth Build "},{"championId":"201","championSlug":"braum","championName":"Braum","championNameWithBuild":"Braum Build "},{"championId":"202","championSlug":"jhin","championName":"Jhin","championNameWithBuild":"Jhin Build "},{"championId":"203","championSlug":"kindred","championName":"Kindred","championNameWithBuild":"Kindred Build "},{"championId":"221","championSlug":"zeri","championName":"Zeri","championNameWithBuild":"Zeri Build "},{"championId":"222","championSlug":"jinx","championName":"Jinx","championNameWithBuild":"Jinx Build "},{"championId":"223","championSlug":"tahmkench","championName":"Tahm Kench","championNameWithBuild":"Tahm Kench Build "},{"championId":"234","championSlug":"viego","championName":"Viego","championNameWithBuild":"Viego Build "},{"championId":"235","championSlug":"senna","championName":"Senna","championNameWithBuild":"Senna Build "},{"championId":"236","championSlug":"lucian","championName":"Lucian","championNameWithBuild":"Lucian Build "},{"championId":"238","championSlug":"zed","championName":"Zed","championNameWithBuild":"Zed Build "},{"championId":"240","championSlug":"kled","championName":"Kled","championNameWithBuild":"Kled Build "},{"championId":"245","championSlug":"ekko","championName":"Ekko","championNameWithBuild":"Ekko Build "},{"championId":"246","championSlug":"qiyana","championName":"Qiyana","championNameWithBuild":"Qiyana Build "},{"championId":"254","championSlug":"vi","championName":"Vi","championNameWithBuild":"Vi Build "},{"championId":"266","championSlug":"aatrox","championName":"Aatrox","championNameWithBuild":"Aatrox Build "},{"championId":"267","championSlug":"nami","championName":"Nami","championNameWithBuild":"Nami Build "},{"championId":"268","championSlug":"azir","championName":"Azir","championNameWithBuild":"Azir Build "},{"championId":"350","championSlug":"yuumi","championName":"Yuumi","championNameWithBuild":"Yuumi Build "},{"championId":"360","championSlug":"samira","championName":"Samira","championNameWithBuild":"Samira Build "},{"championId":"412","championSlug":"thresh","championName":"Thresh","championNameWithBuild":"Thresh Build "},{"championId":"420","championSlug":"illaoi","championName":"Illaoi","championNameWithBuild":"Illaoi Build "},{"championId":"421","championSlug":"reksai","championName":"Rek'Sai","championNameWithBuild":"Rek'Sai Build "},{"championId":"427","championSlug":"ivern","championName":"Ivern","championNameWithBuild":"Ivern Build "},{"championId":"429","championSlug":"kalista","championName":"Kalista","championNameWithBuild":"Kalista Build "},{"championId":"432","championSlug":"bard","championName":"Bardo","championNameWithBuild":"Bardo Build "},{"championId":"497","championSlug":"rakan","championName":"Rakan","championNameWithBuild":"Rakan Build "},{"championId":"498","championSlug":"xayah","championName":"Xayah","championNameWithBuild":"Xayah Build "},{"championId":"516","championSlug":"ornn","championName":"Ornn","championNameWithBuild":"Ornn Build "},{"championId":"517","championSlug":"sylas","championName":"Sylas","championNameWithBuild":"Sylas Build "},{"championId":"518","championSlug":"neeko","championName":"Neeko","championNameWithBuild":"Neeko Build "},{"championId":"523","championSlug":"aphelios","championName":"Aphelios","championNameWithBuild":"Aphelios Build "},{"championId":"526","championSlug":"rell","championName":"Rell","championNameWithBuild":"Rell Build "},{"championId":"555","championSlug":"pyke","championName":"Pyke","championNameWithBuild":"Pyke Build "},{"championId":"711","championSlug":"vex","championName":"Vex","championNameWithBuild":"Vex Build "},{"championId":"777","championSlug":"yone","championName":"Yone","championNameWithBuild":"Yone Build "},{"championId":"875","championSlug":"sett","championName":"Sett","championNameWithBuild":"Sett Build "},{"championId":"876","championSlug":"lillia","championName":"Lillia","championNameWithBuild":"Lillia Build "},{"championId":"887","championSlug":"gwen","championName":"Gwen","championNameWithBuild":"Gwen Build "},{"championId":"888","championSlug":"renata","championName":"Renata Glasc","championNameWithBuild":"Renata Glasc Build "},{"championId":"895","championSlug":"nilah","championName":"Nilah","championNameWithBuild":"Nilah Build "}];
-        var topChampions = [157,99,777,81,145];
+        var topChampions = [99,157,84,81,777];
         var locales = {"champions": 'Campeões', "builds": 'Builds', "summoners": 'Jogadores', "recent": 'Recente', "proPlayers": 'Jogadores Pro', "cards": 'Cartas'};
         var autocompleteManager = new AutoCompleteManager('lol', '/pt', $('#topnavbarform .search_field')[0], 'autocomplete-area-topnav', 100, locales, topChampions, allChampions, isMobile, false);
         var autocompleteManagerHomepage = new AutoCompleteManager('lol', '/pt', $('#homepageForm .search_field')[0], 'autocomplete-area-homepage', 100, locales, topChampions, allChampions, isMobile, false);
     });
 </script>
-        <script src="//lolg-cdn.porofessor.gg/app.js?v=1658431391"></script>
+        <script src="//lolg-cdn.porofessor.gg/app.js?v=1658934455"></script>
             <!-- Google Analytics -->
     <script>
         (function (i, s, o, g, r, a, m) {
